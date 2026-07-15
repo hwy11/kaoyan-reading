@@ -1,0 +1,32 @@
+{
+  "name": "kaoyan-reading",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n web,dict -c blue,green \"vite\" \"node server/dict-server.mjs\"",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "concurrently -n web,dict -c blue,green \"vite preview\" \"node server/dict-server.mjs\"",
+    "dict": "node server/dict-server.mjs",
+    "import:years": "node scripts/import-years.mjs",
+    "import:years:en": "node scripts/import-years.mjs --no-translate"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^7.18.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.2",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "cheerio": "^1.2.0",
+    "concurrently": "^10.0.3",
+    "ecdict": "^0.0.4",
+    "oxlint": "^1.71.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.1.1"
+  }
+}

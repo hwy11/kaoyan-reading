@@ -1,0 +1,551 @@
+{
+  "year": 2011,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2011-en2-text1",
+          "year": 2011,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "Ruth Simmons joined Goldman Sachs's board as an outside director in January 2000; a year later she became president of Brown University.",
+              "zh": "露丝·西蒙斯于2000年1月加入高盛董事会，担任外部董事；一年后，她成为布朗大学校长。"
+            },
+            {
+              "en": "For the rest of the decade she apparently managed both roles without attracting much criticism.",
+              "zh": "在这十年的剩余时间里，她显然在管理这两个角色时都没有受到太多批评。"
+            },
+            {
+              "en": "Simmons was under fire for having sat on Goldman's compensation committee; how could she have let those enormous bonus payouts pass unremarked?",
+              "zh": "西蒙斯因在高盛的薪酬委员会任职而受到抨击；她怎么能让这些巨额奖金毫不留情地通过呢？"
+            },
+            {
+              "en": "The position was just taking up too much time, she said.",
+              "zh": "她说，这个职位只是占用了太多时间。"
+            },
+            {
+              "en": "Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board.",
+              "zh": "外部董事应该在公司董事会中担任有益的但没有偏见的顾问。"
+            },
+            {
+              "en": "Having made their wealth and their reputations elsewhere, they presumably have enough independence to disagree with the chief executive's proposals.",
+              "zh": "他们在其他地方创造了财富和声誉，大概有足够的独立性不同意行政长官的提议。"
+            },
+            {
+              "en": "If the sky, and the share price, is falling, outside directors should be able to give advice based on having weathered their own crises.",
+              "zh": "如果天空和股价下跌，外部董事应该能够根据他们自己的危机提供建议。"
+            },
+            {
+              "en": "The researchers from Ohio University used a database that covered more than 10，000 firms and more than 64，000 different directors between 1989 and 2004.Then they simply checked which directors stayed from one proxy statement to the next.",
+              "zh": "俄亥俄大学的研究人员使用了一个数据库，该数据库涵盖了1989年至2004年期间1万多家公司和6.4万多名不同的董事。然后，他们简单地检查了从一份委托书到下一份委托书的董事。"
+            },
+            {
+              "en": "The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70.They found that after a surprise departure, the probability that the company will subsequently have to restate earnings increases by nearly 20%.The likelihood of being named in a federal class­action lawsuit also increases, and the stock is likely to perform worse.",
+              "zh": "离开董事会最有可能的原因是年龄，因此研究人员专注于70岁以下董事的“意外”失踪。他们发现，在意外离职后，公司随后不得不重述收益的可能性增加了近20%。在联邦集体诉讼中被点名的可能性也增加了，股票的表现可能会更糟。"
+            },
+            {
+              "en": "The effect tended to be larger for larger firms.",
+              "zh": "对于大公司来说，这种影响往往更大。"
+            },
+            {
+              "en": "Although a correlation between them leaving and subsequent bad performance at the firm is suggestive, it does not mean that such directors are always jumping off a sinking ship.",
+              "zh": "虽然他们的离职与公司随后表现不佳之间存在相关性，但这并不意味着这些董事总是从沉船上跳下来。"
+            },
+            {
+              "en": "Often they “trade up，” leaving riskier, smaller firms for larger and more stable firms.",
+              "zh": "他们经常“交易” ，将风险较高的小公司留给更大、更稳定的公司。"
+            },
+            {
+              "en": "But the researchers believe that outside directors have an easier time of avoiding a blow to their reputations if they leave a firm before bad news break, even if a review of history shows they were on the board at the time any wrongdoing occurred.",
+              "zh": "但研究人员认为，如果外部董事在坏消息爆发前离开公司，即使历史回顾显示他们在任何不当行为发生时都在董事会，他们也更容易避免声誉受损。"
+            },
+            {
+              "en": "Firms who want to keep their outside directors through tough times may have to create incentives.",
+              "zh": "希望在困难时期留住外部董事的公司可能不得不制定激励措施。"
+            },
+            {
+              "en": "Otherwise outside directors will follow the example of Ms.",
+              "zh": "否则，外部董事将以MS为榜样"
+            },
+            {
+              "en": "Simmons, once again very popular on campus.",
+              "zh": "西蒙斯，又一次在校园里很受欢迎。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "According to Paragraph 1, Ms. Simmons was criticized for ________.",
+              "options": [
+                "gaining excessive profits",
+                "failing to fulfill her duty",
+                "refusing to make compromises",
+                "leaving the board in tough times"
+              ]
+            },
+            {
+              "number": 22,
+              "text": "We learn from Paragraph 2 that outside directors are supposed to be ________.",
+              "options": [
+                "generous investors",
+                "unbiased executives",
+                "share price forecasters",
+                "independent advisers"
+              ]
+            },
+            {
+              "number": 23,
+              "text": "According to the researchers from Ohio University, after an outside director's surprise departure, the firm is likely to ________.",
+              "options": [
+                "become more stable",
+                "report increased earnings",
+                "do less well in the stock market",
+                "perform worse in lawsuits"
+              ]
+            },
+            {
+              "number": 24,
+              "text": "It can be inferred from the last paragraph that outside directors ________.",
+              "options": [
+                "may stay for the attractive offers from the firm",
+                "have often had records of wrongdoings in the firm",
+                "are accustomed to stress­free work in the firm",
+                "will decline incentives from the firm"
+              ]
+            },
+            {
+              "number": 25,
+              "text": "The author's attitude toward the role of outside directors is ________.",
+              "options": [
+                "permissive",
+                "positive",
+                "scornful",
+                "critical"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2011-en2-text2",
+          "year": 2011,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "Whatever happened to the death of newspaper?",
+              "zh": "报纸的死亡是怎么回事？"
+            },
+            {
+              "en": "The recession threatened to remove the advertising and readers that had not already fled to the Internet.",
+              "zh": "经济衰退有可能使尚未逃离互联网的广告和读者消失。"
+            },
+            {
+              "en": "Newspapers like the San Francisco Chronicle were chronicling their own doom.",
+              "zh": "像《旧金山纪事报》这样的报纸正在记录自己的厄运。"
+            },
+            {
+              "en": "America's Federal Trade Commission launched a round of talks about how to save newspapers.",
+              "zh": "美国联邦贸易委员会发起了一轮关于如何拯救报纸的谈判。"
+            },
+            {
+              "en": "Should they become charitable corporations?",
+              "zh": "他们应该成为慈善机构吗？"
+            },
+            {
+              "en": "But the discussions now seem out of date.",
+              "zh": "但现在的讨论似乎已经过时了。"
+            },
+            {
+              "en": "In much of the world there is little sign of crisis.",
+              "zh": "在世界大部分地区，几乎没有危机的迹象。"
+            },
+            {
+              "en": "German and Brazilian papers have shrugged off the recession.",
+              "zh": "德国和巴西的报纸对经济衰退不屑一顾。"
+            },
+            {
+              "en": "Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit.",
+              "zh": "即使是居住在全球产业最困难角落的美国报纸，也不仅幸存下来，而且经常恢复盈利。"
+            },
+            {
+              "en": "Not the 20% profit margins that were routine a few years ago, but profit all the same.",
+              "zh": "不是几年前常规的20%的利润率，但利润都是一样的。"
+            },
+            {
+              "en": "Many papers stayed afloat by pushing journalists overboard.",
+              "zh": "许多报纸通过将记者推向海外而停滞不前。"
+            },
+            {
+              "en": "The American Society of News Editors reckons that 13, 500 newsroom jobs have gone since 2007.",
+              "zh": "美国新闻编辑协会估计，自2007年以来，已有13500个新闻编辑室工作岗位消失。"
+            },
+            {
+              "en": "Readers are paying more for slimmer products.",
+              "zh": "读者为更纤薄的产品付出了更多。"
+            },
+            {
+              "en": "Some papers even had the nerve to refuse delivery to distant suburbs.",
+              "zh": "有些报纸甚至胆敢拒绝送货到遥远的郊区。"
+            },
+            {
+              "en": "Yet these desperate measures have proved the right ones and, sadly for many journalists, they can be pushed further.",
+              "zh": "然而，这些绝望的措施已被证明是正确的，令人遗憾的是，对许多记者来说，这些措施可以进一步推行。"
+            },
+            {
+              "en": "Newspapers are becoming more balanced businesses, with a healthier mix of revenues from readers and advertisers.",
+              "zh": "报纸业务正变得更加平衡，读者和广告商的收入组合更加健康。"
+            },
+            {
+              "en": "American papers have long been highly unusual in their reliance on ads.",
+              "zh": "长期以来，美国报纸对广告的依赖非常不寻常。"
+            },
+            {
+              "en": "Fully 87% of their revenues came from advertising in 2008, according to the Organization for Economic Cooperation & Development (OECD) .",
+              "zh": "根据经济合作与发展组织（ OECD ）的数据， 2008年他们87%的收入来自广告。"
+            },
+            {
+              "en": "Not surprisingly, Japanese newspapers are much more stable.",
+              "zh": "毫不奇怪，日本报纸要稳定得多。"
+            },
+            {
+              "en": "The whirlwind that swept through newsrooms harmed everybody, but much of the damage has been concentrated in areas where newspapers are least distinctive.",
+              "zh": "席卷新闻编辑室的旋风伤害了所有人，但大部分损害都集中在报纸最不鲜明的地区。"
+            },
+            {
+              "en": "So have science and general business reporters.",
+              "zh": "科学界和一般商业记者也是如此。"
+            },
+            {
+              "en": "Foreign bureaus have been savagely cut off.",
+              "zh": "外国机构被野蛮地切断了联系。"
+            },
+            {
+              "en": "Newspapers are less complete as a result.",
+              "zh": "因此，报纸的完整性较差。"
+            },
+            {
+              "en": "But completeness is no longer a virtue in the newspaper business.",
+              "zh": "但在报业中，完整性不再是一种美德。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "By saying “Newspapers like…their own doom” (Lines 3-4 Para.1), the author indicates that newspapers ________.",
+              "options": [
+                "neglected the sign of crisis",
+                "failed to get state subsidies",
+                "were not charitable corporations",
+                "were in a desperate situation"
+              ]
+            },
+            {
+              "number": 27,
+              "text": "Some newspapers refused delivery to distant suburbs probably because ________.",
+              "options": [
+                "readers threatened to pay less",
+                "newspapers wanted to reduce costs",
+                "journalists reported little about these areas",
+                "subscribers complained about slimmer products"
+              ]
+            },
+            {
+              "number": 28,
+              "text": "Compared with their American counterparts, Japanese newspapers are much more stable because they ________.",
+              "options": [
+                "have more sources of revenue",
+                "have more balanced newsrooms",
+                "are less dependent on advertising",
+                "are less affected by readership"
+              ]
+            },
+            {
+              "number": 29,
+              "text": "What can be inferred from the last paragraph about the current newspaper business?",
+              "options": [
+                "Distinctiveness is an essential feature of newspapers.",
+                "Completeness is to blame for the failure of newspaper.",
+                "Foreign bureaus play a crucial role in the newspaper business.",
+                "Readers have lost their interest in car and film reviews."
+              ]
+            },
+            {
+              "number": 30,
+              "text": "The most appropriate title for this text would be ________.",
+              "options": [
+                "American Newspapers: Struggling for Survival",
+                "American Newspapers: Gone with the Wind",
+                "American Newspapers: A Thriving Business",
+                "American Newspapers: A Hopeless Story"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2011-en2-text3",
+          "year": 2011,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "We tend to think of the decades immediately following World War II as a time of prosperity and growth, with soldiers returning home by the millions, going off to college on the G.I.",
+              "zh": "我们倾向于将第二次世界大战后的几十年视为繁荣和增长的时期，数百万士兵返回家园，上G.I."
+            },
+            {
+              "en": "Bill and lining up at the marriage bureaus.",
+              "zh": "比尔，在婚姻局排队。"
+            },
+            {
+              "en": "But when it came to their houses, it was a time of common sense and a belief that less could truly be more.",
+              "zh": ""
+            },
+            {
+              "en": "During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made small, efficient housing positively stylish.",
+              "zh": "在大萧条和战争期间，美国人学会了减少负担，这种克制，加上战后对未来的信心，使小而高效的住房变得时尚。"
+            },
+            {
+              "en": "Economic condition was only a stimulus for the trend toward efficient living.",
+              "zh": "经济状况只是对高效生活趋势的刺激。"
+            },
+            {
+              "en": "The phrase “less is more” was actually first popularized by a German, the architect Ludwig Mies van der Rohe, who like other people associated with the Bauhaus, a school of design, emigrated to the United States before World War II and took up posts at American architecture schools.",
+              "zh": "“少即是多”一词实际上最初是由德国建筑师路德维希·密斯·范德罗（ Ludwig Mies van der Rohe ）推广的，他喜欢与包豪斯（ Bauhaus ）有关的其他人，包豪斯是一所设计学校，在第二次世界大战前移民到美国，并在美国建筑学校任职。"
+            },
+            {
+              "en": "These designers came to exert enormous influence on the course of American architecture, but none more so than Mies.",
+              "zh": "这些设计师对美国建筑的过程产生了巨大的影响，但没有比密斯更重要的了。"
+            },
+            {
+              "en": "Mies's signature phrase means that less decoration, properly organized, has more impact than a lot.",
+              "zh": "密斯的标志性短语意味着装饰少，组织得当，影响力大于很多。"
+            },
+            {
+              "en": "Elegance, he believed, did not derive from abundance.",
+              "zh": "他认为，优雅并非源于富足。"
+            },
+            {
+              "en": "Like other modern architects, he employed metal, glass and laminated wood­materials that we take for granted today but that in the 1940s symbolized the future.",
+              "zh": "与其他现代建筑师一样，他采用金属、玻璃和层压木材材料，我们今天认为这些材料是理所当然的，但在20世纪40年代，这些材料象征着未来。"
+            },
+            {
+              "en": "Mies's sophisticated presentation masked the fact that the spaces he designed were small and efficient, rather than big and often empty.",
+              "zh": "Mies的精致演示掩盖了他设计的空间小而高效，而不是大而空的事实。"
+            },
+            {
+              "en": "The apartments in the elegant towers Mies built on Chicago's Lake Shore Drive, for example, were smaller—two­bedroom units under 1，000 square feet—than those in their older neighbors along the city's Gold Coast.",
+              "zh": "例如，密斯在芝加哥湖岸大道（ Lake Shore Drive ）上建造的优雅塔楼中的公寓比该市黄金海岸沿线的老邻居的公寓要小--两间卧室的单元面积不到1000平方英尺。"
+            },
+            {
+              "en": "But they were popular because of their airy glass walls, the views they afforded and the elegance of the buildings' details and proportions, the architectural equivalent of the abstract art so popular at the time.",
+              "zh": "但它们之所以受欢迎，是因为它们通风的玻璃墙，它们提供的景观以及建筑物细节和比例的优雅，这在建筑上相当于当时流行的抽象艺术。"
+            },
+            {
+              "en": "The trend toward “less” was not entirely foreign.",
+              "zh": "“少”的趋势并不完全是外国的。"
+            },
+            {
+              "en": "In the 1930s Frank Lloyd Wright started building more modest and efficient houses—usually around 1，200 square feet—than the spreading two­story ones he had designed in the 1890s and the early 20th century.",
+              "zh": "20世纪30年代，弗兰克·劳埃德·赖特（ Frank Lloyd Wright ）开始建造更简陋、更高效的房屋--通常在1 ， 200平方英尺左右--而不是他在19世纪90年代和20世纪初设计的两层楼房。"
+            },
+            {
+              "en": "The “Case Study Houses” commissioned from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the “less is more” trend.",
+              "zh": "1945年至1962年间，《加利福尼亚艺术与建筑》杂志委托才华横溢的现代建筑师进行的“案例研究”是对“少即是多”趋势的又一本土影响。"
+            },
+            {
+              "en": "Aesthetic effect came from the landscape, new materials and forthright detailing.",
+              "zh": "美学效果来自景观、新材料和直截了当的细节。"
+            },
+            {
+              "en": "In his Case Study House, Ralph Rapson may have mispredicted just how the mechanical revolution would impact everyday life—few American families acquired helicopters, though most eventually got clothes dryers—but his belief that self­-sufficiency was both desirable and inevitable was widely shared.",
+              "zh": "在他的案例研究中，拉尔夫·拉普森（ Ralph Rapson ）可能错误地预测了机械革命将如何影响日常生活--很少有美国家庭购买直升机，尽管大多数最终都有烘干机--但他认为自给自足既是可取的，也是不可避免的。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "The postwar American housing style largely reflected the Americans'________.",
+              "options": [
+                "prosperity and growth",
+                "efficiency and practicality",
+                "restraint and confidence",
+                "pride and faithfulness"
+              ]
+            },
+            {
+              "number": 32,
+              "text": "Which of the following can be inferred from Paragraph 3 about the Bauhaus?",
+              "options": [
+                "It was founded by Ludwig Mies van der Rohe.",
+                "Its designing concept was affected by World War II.",
+                "Most American architects used to be associated with it.",
+                "It had a great influence upon American architecture."
+              ]
+            },
+            {
+              "number": 33,
+              "text": "Mies held that elegance of architectural design ________.",
+              "options": [
+                "was related to large space",
+                "was identified with emptiness",
+                "was not reliant on abundant decoration",
+                "was not associated with efficiency"
+              ]
+            },
+            {
+              "number": 34,
+              "text": "What is true about the apartments Mies building Chicago's Lake Shore Drive?",
+              "options": [
+                "They ignored details and proportions.",
+                "They were built with materials popular at that time.",
+                "They were more spacious than neighboring buildings.",
+                "They shared some characteristics of abstract art."
+              ]
+            },
+            {
+              "number": 35,
+              "text": "What can we learn about the design of the “Case Study House”?",
+              "options": [
+                "Mechanical devices were widely used.",
+                "Natural scenes were taken into consideration.",
+                "Details were sacrificed for the overall effect.",
+                "Eco­friendly materials were employed."
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2011-en2-text4",
+          "year": 2011,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "The question would have sounded strange not long ago.",
+              "zh": "这个问题在不久前听起来会很奇怪。"
+            },
+            {
+              "en": "Now even the project's greatest cheerleaders talk of a continent facing a “Bermuda triangle” of debt, population decline and lower growth.",
+              "zh": "现在，即使是该项目最伟大的啦啦队员也在谈论一个面临债务、人口下降和增长放缓的“百慕大三角”的大陆。"
+            },
+            {
+              "en": "As well as those chronic problems, the EU faces an acute crisis in its economic core, the 16 countries that use the single currency.",
+              "zh": "除了这些长期存在的问题外，欧盟还面临着其经济核心的严重危机，即使用单一货币的16个国家。"
+            },
+            {
+              "en": "Markets have lost faith that the euro zone's economies, weaker or stronger, will one day converge thanks to the discipline of sharing a single currency, which denies uncompetitive members the quick fix of devaluation.",
+              "zh": "市场已经失去了对欧元区经济的信心，欧元区经济无论弱小还是强大，总有一天会因为共享单一货币的纪律而趋同，这种纪律使没有竞争力的成员无法快速解决货币贬值的问题。"
+            },
+            {
+              "en": "Yet the debate about how to save Europe's single currency from disintegration is stuck.",
+              "zh": "然而，关于如何拯救欧洲单一货币免于解体的争论陷入了困境。"
+            },
+            {
+              "en": "It is stuck because the euro zone's dominant powers, France and Germany, agree on the need for greater harmonization within the euro zone, but disagree about what to harmonies.",
+              "zh": "它之所以停滞不前，是因为欧元区的主导力量法国和德国一致认为需要在欧元区内部实现更大程度的协调统一，但在协调统一的问题上存在分歧。"
+            },
+            {
+              "en": "Germany thinks the euro must be saved by stricter rules on borrow, spending and competitiveness, backed by quasi­automatic sanctions for governments that do not obey.",
+              "zh": "德国认为，必须通过更严格的借贷、支出和竞争力规则来拯救欧元，并以对不遵守规定的政府实施准自动制裁为后盾。"
+            },
+            {
+              "en": "These might include threats to freeze EU funds for poorer regions and EU mega-­projects and even the suspension of a country's voting rights in EU ministerial councils.",
+              "zh": "这些可能包括威胁冻结欧盟对较贫穷地区和欧盟大型项目的资金，甚至暂停一个国家在欧盟部长理事会的投票权。"
+            },
+            {
+              "en": "It insists that economic co-­ordination should involve all 27 members of the EU club, among whom there is a small majority for free­market liberalism and economic rigour; in the inner core alone, Germany fears, a small majority favour French interference.",
+              "zh": "它坚持认为，经济合作应涉及欧盟俱乐部的所有27个成员国，其中有一小部分人支持自由市场自由主义和经济严谨性；德国担心，仅在内核中，一小部分人赞成法国干涉。"
+            },
+            {
+              "en": "A “southern” camp headed by French wants something different: “European economic government” within an inner core of euro-­zone members.",
+              "zh": "以法国为首的“南方”阵营想要一些不同的东西：欧元区成员国核心内部的“欧洲经济政府”。"
+            },
+            {
+              "en": "Translated, that means politicians intervening in monetary policy and a system of redistribution from richer to poorer members, via cheaper borrowing for governments through common Eurobonds or complete fiscal transfers.",
+              "zh": "换句话说，这意味着政治家通过共同的欧洲债券或完全的财政转移为政府提供更便宜的借款，干预货币政策和从富裕成员到贫穷成员的再分配制度。"
+            },
+            {
+              "en": "Finally, figures close to the France government have murmured, euro-­zone members should agree to some fiscal and social harmonization: e.g., curbing competition in corporate-­tax rates or labour costs.",
+              "zh": "最后，接近法国政府的数据喃喃自语，欧元区成员国应该同意一些财政和社会协调：例如，遏制公司税率或劳动力成本的竞争。"
+            },
+            {
+              "en": "It remains the world's largest trading block.",
+              "zh": "它仍然是世界上最大的贸易区。"
+            },
+            {
+              "en": "At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area.",
+              "zh": "在最好的情况下，欧洲项目是非常自由的：围绕27个富国和穷国的单一市场建立的，其内部边界对货物、资本和劳动力的开放程度远远超过任何可比贸易区。"
+            },
+            {
+              "en": "It is an ambitious attempt to blunt the sharpest edges of globalization, and make capitalism benign.",
+              "zh": "这是一次雄心勃勃的尝试，旨在削弱全球化最尖锐的边缘，使资本主义变得良性。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "text": "The EU is faced with so many problems that ________.",
+              "options": [
+                "it has more or less lost faith in markets",
+                "even its supporters begin to feel concerned",
+                "some of its member countries plan to abandon euro",
+                "it intends to deny the possibility of devaluation"
+              ]
+            },
+            {
+              "number": 37,
+              "text": "The debate over the EU's single currency is stuck because the dominant powers ________.",
+              "options": [
+                "are competing for the leading position",
+                "are busy handling their own crises",
+                "fail to reach an agreement on harmonization",
+                "disagree on the steps towards disintegration"
+              ]
+            },
+            {
+              "number": 38,
+              "text": "To solve the euro problem，Germany proposed that ________.",
+              "options": [
+                "EU funds for poor regions be increased",
+                "stricter regulations be imposed",
+                "only core members be involved in economic co­ordination",
+                "voting rights of the EU members be guaranteed"
+              ]
+            },
+            {
+              "number": 39,
+              "text": "The French proposal of handling the crisis implies that ________.",
+              "options": [
+                "poor countries are more likely to get funds",
+                "strict monetary policy will be applied to poor countries",
+                "loans will be readily available to rich countries",
+                "rich countries will basically control Eurobonds"
+              ]
+            },
+            {
+              "number": 40,
+              "text": "Regarding the future of the EU, the author seems to feel ________.",
+              "options": [
+                "pessimistic",
+                "desperate",
+                "conceited",
+                "hopeful 答案：21-25BBDAA；26-30DBCBB；31-35BDCDB；36-40DCBAC 相关推荐 热门：2010-2025英语二16套真题讲解丨英语二备考攻略 备考资料：考研英语（二）真题高频词汇丨考研英语（二）常考词组与固定搭配 点击刷题：考研英语（二）题库丨考研英语二历年真题及解析（高清可打印） 扫一扫添加微信，获取更多备考资源 资料下载 免费课程 真题练习 更多资料 更多课程 更多真题 温馨提示：因考试政策、内容不断变化与调整，本网站提供的以上信息仅供参考，如有异议，请考生以权威部门公布的内容为准！ 免费试学 延伸阅读 27考研不歧视双非的985大学 2026年现在调剂院校有公布的院校 数学易上岸院校推荐 26考研调剂院校名单最新 希赛研选是什么？希赛研选择校小程序靠谱吗？ 广州医科大学2026年硕士研究生招生复试通知 更多精彩内容请关注 考研微信公众号 扫码加入考研QQ群 （群号：613138946） +点击加入 考研备考资料免费领取 去领取 共收录117.93万道题 已有 25. 02万小伙伴参与做题 历年真题 模拟试卷 高频知识点 高频错题 章节练习 每日一练 试题答案 备考必读 大数据智能择校，海量院校，一键查询 扫码AI择校 一对一免费咨询，获取个性化建议，精准解决择校难题 扫码人工择校 距离考试还有 1 6 1 天 考研题库 我的题库 章节练习 章节专项突破 模拟考场 海量免费试题 历年真题 真题实战演练 每日一练 每天10题练习 习题练习 核心知识点练习 进入做题 专注在线职业教育25年 项目管理 PMP NPDP CSPM PMOCP™ PgMP PRINCE2 DAMA PMI-ACP ESG 华为项目管理认证 信息系统项目管理师 考试指南 软考通信 系分 高项 网络规划 系统架构 系统规划 系统集成 软件设计师 网络工程师 监理 信管 电子商务 软件评测 信息安全 数据库 嵌入式 程序员 网络管理员 信息处理员 系统运行 初级通信 中级通信 信息系统项目管理师 考试指南 考试指南 厂商认证 华为认证 阿里云认证 ITSS ITIL 信创认证 信息系统项目管理师 考试指南 考试指南 职业资格 经济师 社会工作师 一级建造师 二级建造师 安全工程师 监理工程师 信息系统项目管理师 考试指南 考试指南 金融财会 初级会计 中级会计 高级会计 银行从业 证券从业 基金从业 期货从业 信息系统项目管理师 考试指南 考试指南 考博考研 考博英语 考研英语 MBA MEM MPAcc MPA 信息系统项目管理师 考试指南 考试指南 学历提升 自考 成人高考 专接本 首页 了解希赛 希赛简介 发展历程 资质荣誉 走进希赛 APP 微信群 防诈骗声明 培训证书查询 违法信息举报 资质&荣誉 客服热线：400-111-9811 售后投诉：156-1612-8671 登录 考研 视频课程 直播课堂 学习包 题库 资料 动态 考试报名 考研动态 准考证 成绩查询 考试问答 招生 招生简章 学制学费 招录人数 分数线 复试信息 调剂信息 专业 MBA MPA MPAcc MEM MAud MLIS MTA 汉硕 心理学 计算机学硕 计算机专硕 新闻传播 国际商务 应用统计 网信安全 材料工程 电气工程 英语翻译 社会工作 学习 在线题库 视频课程 备考 考试科目 考试大纲 历年真题 资料下载 自定模块 扫描二维码 关注希赛网站 备考精选 篇 每日一练 分享 新人礼包 课程咨询 学员服务 企业团报 电话咨询 客服热线：400-111-9811 售后投诉：156-1612-8671 公众号 扫描二维码 关注希赛网站 APP下载 扫描二维码 下载APP 返回顶部 × 扫描二维码 下载APP 新手指南 注册登录 APP下载 支付方式 购买提醒 如何上课 自学产品 直播课堂 视频课程 企业团报 关于我们 关于希赛 常见问题 联系希赛 营业执照 联系我们 售前电话：400-111-9811（仅收市话费） 售后投诉：156-1612-8671 在线客服 关注希赛网微信 下载希赛网APP PMI®，PMP®，PMI-ACP®，PgMP®和PMBOK®是Project Management Institute，Inc.的注册商标 ITIL®、PRINCE2®是PeopleCert集团的注册商标，经PeopleCert授权使用，保留所有权利 湖南希赛网络科技有限公司 版权所有 ©2001-2026 湘ICP备10203241号-14 湘公网安备43019002000749号 违法和不良信息举报电话：15673157832 举报/反馈/投诉邮箱：ujigu@ujigu.com 出版物经营许可证：4301042021177 高新技术企业证书：GR202143001539 广播电视节目制作经营许可证： (湘)字00833号 复制文档 提醒：复制文章内容请先输入兑换码！ 扫码关注希赛官网公众号，回复“兑换码”免费获取兑换码 免费复制 您还不是该课程的学员，无法下载哦~点击下方立即学习，即可下载更多专享资料 立即学习 请用微信扫码打开查看 风险提示：广告信息均来自平台方，不代表平台安全性，不构成建议！贷款利率、年化收益率、期限、额度、生效时间等数据仅供参考，实际数据以平台方为准。红包、体验金、理财金、大礼包、加息券、满减券、优惠券等都不直接等同于现金。参考收益说明不是收益承诺，不代表最终真实收益。理财有风险，投资需谨慎！ ! 咨询在线老师! 您希望我们通过哪种方式与您联系？ 电话 微信 QQ 电话 微信 QQ 不联系 您已选择电话/微信/QQ的联系方式，课程顾问会尽快联系您！ 您已选择微信联系方式，课程顾问会尽快添加您的微信，请您确认通过！ 您已选择QQ联系方式，课程顾问会尽快添加您的QQ，请您确认通过！ 您已选择电话联系方式，课程顾问会尽快联系您！ 您已选择“不联系”，课程顾问不会主动联系您。 如果后续您有需求，可以在个人中心主动添加销售微信或拨打客服电话：400-111-9811 确认提交 提醒：您即将下载“ ”，请先登录！ 验证码登录 密码登录 获取验证码 立即登录 未注册手机验证后自动创建账号并且我已阅读并同意《希赛服务协议》和《隐私协议》 忘记密码 立即登录 倒计时30秒后关闭 备考交流群 点击加入！ 查看 第1步：扫码 添加赛师姐微信 第2步：点击小程 序，进行信息授权 第3步： 完成授权 扫码进入微信小程序 刷题快人一步，经验随时分享! 扫码进入微信小程序 刷题快人一步，经验随时分享!"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}

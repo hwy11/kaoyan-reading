@@ -1,0 +1,445 @@
+/* 燕麦米色阅读主题 — 后续加新年份只需在 data/years/ 下扩展 */
+:root {
+  --bg: #f5f0e8;
+  --bg-soft: #faf7f2;
+  --surface: #fffdf9;
+  --text: #3d3830;
+  --text-muted: #8a8278;
+  --text-zh: #5c564e;
+  --accent: #a68b5b;
+  --accent-soft: #e8dfd0;
+  --border: #e5ddd2;
+  --word-hover: #ebe3d6;
+  --popup-bg: #2c2824;
+  --popup-text: #f5f0e8;
+  --font-en: 'Source Serif 4', 'Noto Serif', Georgia, serif;
+  --font-ui: 'Inter', 'PingFang SC', 'Noto Sans SC', system-ui, sans-serif;
+  --max-width: 1100px;
+  --line-height-en: 1.85;
+  --line-height-zh: 1.9;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ui);
+  line-height: 1.6;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.5rem;
+  background: rgba(245, 240, 232, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+
+.brand {
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.brand:hover {
+  color: var(--accent);
+}
+
+.app-header-hint {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.app-main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+/* 首页 */
+.home .page-header {
+  margin-bottom: 2.5rem;
+}
+
+.home h1 {
+  font-family: var(--font-en);
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 0 0 0.5rem;
+  color: var(--text);
+}
+
+.page-desc {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.year-section {
+  margin-bottom: 2.5rem;
+}
+
+.year-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.exam-label {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  margin: 0 0 0.75rem;
+}
+
+.passage-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.passage-list li {
+  margin-bottom: 0.5rem;
+}
+
+.passage-link {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.85rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--text);
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.passage-link:hover {
+  border-color: var(--accent);
+  background: var(--bg-soft);
+}
+
+.passage-num {
+  font-family: var(--font-en);
+  font-weight: 500;
+  min-width: 3.5rem;
+}
+
+.passage-sub {
+  flex: 1;
+  font-family: var(--font-en);
+  font-style: italic;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.passage-meta {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+/* 阅读页 */
+.reader-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.back-link {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
+.reader-nav-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.reader-year {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.toggle-zh {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  padding: 0.4rem 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.toggle-zh:hover,
+.toggle-zh.active {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.reader-header {
+  margin-bottom: 2.5rem;
+}
+
+.reader-header h1 {
+  font-family: var(--font-en);
+  font-size: 1.75rem;
+  font-weight: 500;
+  margin: 0 0 0.25rem;
+}
+
+.reader-subtitle {
+  font-family: var(--font-en);
+  font-style: italic;
+  color: var(--text-muted);
+  margin: 0 0 0.5rem;
+}
+
+.reader-source {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+/* 左右对照段落 */
+.para-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.para-row.en-only {
+  grid-template-columns: 1fr;
+}
+
+.para-en {
+  font-family: var(--font-en);
+  font-size: 1.05rem;
+  line-height: var(--line-height-en);
+  color: var(--text);
+}
+
+.para-num {
+  display: inline-block;
+  width: 1.5rem;
+  margin-right: 0.25rem;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  vertical-align: top;
+  padding-top: 0.35rem;
+}
+
+.para-zh {
+  font-size: 0.95rem;
+  line-height: var(--line-height-zh);
+  color: var(--text-zh);
+}
+
+.para-zh p {
+  margin: 0;
+  padding-top: 0.15rem;
+}
+
+/* 可点击单词 */
+.word {
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.12s;
+}
+
+.word:hover {
+  background: var(--word-hover);
+}
+
+.word-popup {
+  position: fixed;
+  z-index: 1000;
+  transform: translate(-50%, calc(-100% - 10px));
+  min-width: 120px;
+  max-width: 260px;
+  padding: 0.6rem 0.85rem;
+  background: var(--popup-bg);
+  color: var(--popup-text);
+  border-radius: 6px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  pointer-events: auto;
+}
+
+.word-popup::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-top-color: var(--popup-bg);
+}
+
+.word-popup-word {
+  font-family: var(--font-en);
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.word-popup-phonetic {
+  font-family: var(--font-en);
+  font-size: 0.8rem;
+  opacity: 0.7;
+  margin-bottom: 0.3rem;
+}
+
+.word-popup-loading {
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.word-popup-meaning {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  opacity: 0.9;
+}
+
+.word-popup-tags {
+  margin-top: 0.4rem;
+  font-size: 0.72rem;
+  color: var(--accent);
+  opacity: 0.85;
+}
+
+.word-popup-empty {
+  opacity: 0.7;
+  font-size: 0.82rem;
+}
+
+/* 题目区 */
+.questions-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--border);
+}
+
+.questions-section h2 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0 0 0.5rem;
+}
+
+.questions-hint {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin: 0 0 1.5rem;
+}
+
+.question-block {
+  margin-bottom: 1.75rem;
+}
+
+.question-text {
+  font-family: var(--font-en);
+  font-size: 1rem;
+  line-height: 1.7;
+  margin: 0 0 0.6rem;
+}
+
+.q-num {
+  font-weight: 600;
+  margin-right: 0.35rem;
+  color: var(--accent);
+}
+
+.options-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 1.25rem;
+}
+
+.options-list li {
+  font-family: var(--font-en);
+  font-size: 0.95rem;
+  line-height: 1.65;
+  margin-bottom: 0.35rem;
+  color: var(--text-muted);
+}
+
+.opt-label {
+  margin-right: 0.4rem;
+  font-weight: 500;
+}
+
+.not-found {
+  text-align: center;
+  padding: 4rem;
+  color: var(--text-muted);
+}
+
+/* 响应式：窄屏改为上下排列 */
+@media (max-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+  .app-main {
+    padding: 1.25rem 1rem 3rem;
+  }
+
+  .para-row.with-zh {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  .passage-link {
+    flex-wrap: wrap;
+  }
+
+  .passage-meta {
+    width: 100%;
+    padding-left: 4.25rem;
+  }
+}
