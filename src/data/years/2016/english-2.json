@@ -1,0 +1,339 @@
+{
+  "year": 2016,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2016-en2-text1",
+          "year": 2016,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "It's true that high-school coding classes aren't essential for learning computer science in college. Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon's School of Computer Science.",
+              "zh": "确实，高中编码课程对于大学学习计算机科学并不是必需的。卡内基梅隆大学计算机科学学院副院长汤姆·科尔蒂纳 (Tom Cortina) 表示，没有经验的学生可以在学习一些入门课程后迎头赶上。"
+            },
+            {
+              "en": "However, Cortina said, early exposure is beneficial. When younger kids learn computer science, they learn that it's not just a confusing, endless string of letters and numbers — but a tool to build apps, or create artwork, or test hypotheses. It's not as hard for them to transform their thought processes as it is for older students. Breaking down problems into bite-sized chunks and using code to solve them becomes normal. Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said.",
+              "zh": "然而，科尔蒂纳说，早期接触是有益的。当年幼的孩子学习计算机科学时，他们知道这不仅仅是一串令人困惑的、无穷无尽的字母和数字，而且是构建应用程序、创作艺术品或测试假设的工具。对他们来说，改变思维过程并不像高年级学生那么难。将问题分解为小块并使用代码来解决它们变得很正常。科尔蒂纳说，为更多的孩子提供这种培训可以增加对该领域感兴趣的人数，并有助于填补就业缺口。"
+            },
+            {
+              "en": "Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or -determined students away.",
+              "zh": "学生们还可以在上大学之前学习一些关于编码的知识，因为计算机科学入门课程挤得满满的，这可能会赶走经验不足或意志坚定的学生。"
+            },
+            {
+              "en": "The Flatiron School, where people pay to learn programming , started as one of the many coding bootcamps that's become popular for adults looking for a career change. The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor. For instance, one of the apps the students are developing suggests movies based on your mood.",
+              "zh": "人们付费学习编程的 Flatiron 学校最初是众多编码训练营之一，现在受到寻求职业转变的成年人的欢迎。高中生学习相同的课程，但“我们试图根据他们感兴趣的内容调整课程，”讲师维多利亚·弗里德曼说。例如，学生们正在开发的一款应用程序会根据你的心情推荐电影。"
+            },
+            {
+              "en": "The students in the Flatiron class probably won't drop out of high school and build the next Facebook. Programming languages have a quick turnover, so the \"Ruby on Rails\" language they learned may not even be relevant by the time they enter the job market. But the skills they learn — how to think logically through a problem and organize the results — apply to any coding language, said Deborah Seehom, an education consultant for the state of North Carolina.",
+              "zh": "Flatiron 班的学生可能不会从高中辍学并创建下一个 Facebook。编程语言的更新换代很快，因此他们所学的“Ruby on Rails”语言甚至可能在他们进入就业市场时已经不再适用。但北卡罗来纳州教育顾问黛博拉·西霍姆 (Deborah Seehom) 表示，他们学到的技能——如何逻辑思考问题并组织结果——适用于任何编码语言。"
+            },
+            {
+              "en": "Indeed, the Flatiron students might not go into IT at all. But creating a future army of coders is not the sole purpose of the classes. These kids are going to be surrounded by computers — in their pockets, in their offices, in their homes — for the rest of their lives. The younger they learn how computers think, how to the machine into producing what they want — the earlier they learn that they have the power to do that — the better.",
+              "zh": "事实上，Flatiron 的学生可能根本不会进入 IT 行业。但创建未来的程序员大军并不是这些课程的唯一目的。这些孩子的余生将被电脑包围——在他们的口袋里、在办公室里、在家里。他们越早了解计算机如何思考、如何让机器生产出他们想要的东西——他们越早知道自己有能力做到这一点——就越好。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "Cortina holds that early exposure to computer science makes 1t easier to ________",
+              "options": [
+                "complete future job training",
+                "remodel the way of thinking",
+                "formulate logical hypotheses",
+                "perfect artwork production"
+              ]
+            },
+            {
+              "number": 22,
+              "text": "In delivering lessons for high-schoolers, Flatiron has considered their ________",
+              "options": [
+                "expenence",
+                "interest",
+                "career prospects",
+                "academic backgrounds"
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Deborah Seehom believes that the skills learned at Flatiron will ________",
+              "options": [
+                "help students learn other computer languages",
+                "have to be upgraded when new technologies come",
+                "need improving when students look for jobs",
+                "enable students to make big quick money"
+              ]
+            },
+            {
+              "number": 24,
+              "text": "According to the last paragraph, Flatiron students are expected to ________",
+              "options": [
+                "bring forth innovative computer technologies",
+                "stay longer in the information technology industry",
+                "become better prepared for the digitalized world",
+                "compete with a future army of programmers"
+              ]
+            },
+            {
+              "number": 25,
+              "text": "The word \"coax\" (Line 4, Para. 6) is closest in meaning to ________",
+              "options": [
+                "persuade",
+                "frighten",
+                "misguide",
+                "challenge"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2016-en2-text2",
+          "year": 2016,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "Biologists estimate that as many as 2 million lesser prairie chickens — a kind of bird living on stretching grasslands — once lent red to the often grey landscape of the midwestem and southwestern United States. But just some 22,000 birds remain today, occupying about 16% of the species' historic range.",
+              "zh": "生物学家估计，多达 200 万只小草原鸡（一种生活在绵延草原上的鸟类）曾经为美国中西部和西南部通常灰色的土地带来了红色。但如今仅存约 22,000 只鸟类，约占该物种历史分布范围的 16%。"
+            },
+            {
+              "en": "The crash was a major reason the U.S. Fish and Wildlife Service (USFWS) decided to formally list the bird as threatened. \"The lesser prairie chicken is in a desperate situation,\" said USFWS Director Daniel Ashe. Some environmentalists, however, were disappointed. They had pushed the agency to designate the bird as \"endangered,\" a status that gives federal officials greater regulatory power to crack down on threats. But Ashe and others argued that the \"threatened\" tag gave the federal government flexibility to try out new, potentially less confrontational conservation approaches. In particular, they called for forging closer collaborations with western state governments, which are often uneasy with federal action, and with the private landowners who control an estimated 95% of the prairie chicken's habitat.",
+              "zh": "这次事故是美国鱼类和野生动物管理局（USFWS）决定正式将这种鸟列为受威胁的主要原因。 “小草原鸡正处于绝望的境地，”美国鱼类和野生动物管理局局长丹尼尔·阿什说。然而，一些环保人士却感到失望。他们敦促该机构将这种鸟指定为“濒临灭绝”，这一状态赋予联邦官员更大的监管权力来打击威胁。但阿什和其他人认为，“受威胁”标签使联邦政府能够灵活地尝试新的、可能不那么对抗性的保护方法。他们特别呼吁与西部州政府和私人土地所有者建立更密切的合作，西部州政府往往对联邦政府的行动感到不安，而私人土地所有者控制着大约 95% 的草原鸡栖息地。"
+            },
+            {
+              "en": "Under the plan, for example, the agency said it would not prosecute landowners or businesses that unintentionally kill, harm, or disturb the bird, as long as they had signed a range-wide management plan to restore prairie chicken habitat. Negotiated by USFWS and the states, the plan requires individuals and businesses that damage habitat as part of their operations to pay into a fund to replace every acre destroyed with 2 new acres of suitable habitat. The fund will also be used to compensate landowners who set aside habitat. USFWS also set an interim goal of restoring prairie chicken populations to an annual average of 67,000 birds over the next 10 years. And it gives the Western Association of Fish and Wildlife Agencies (WAFWA), a coalition of state agencies, the job of monitoring progress. Overall, the idea is to let \"states remain in the driver's seat for managing the species,\" Ashe said.",
+              "zh": "例如，根据该计划，该机构表示，只要土地所有者或企业签署了恢复草原鸡栖息地的大范围管理计划，就不会起诉无意杀死、伤害或扰乱鸟类的土地所有者或企业。经 USFWS 和各州谈判，该计划要求在其运营过程中破坏栖息地的个人和企业缴纳一笔基金，以用 2 英亩新的合适栖息地取代每被破坏的英亩。该基金还将用于补偿预留栖息地的土地所有者。 USFWS 还设定了一个临时目标，即在未来 10 年内将草原鸡数量恢复到年均 67,000 只。它还赋予西部鱼类和野生动物机构​​协会（WAFWA）这个国家机构联盟监测进展的职责。阿什说，总体而言，这个想法是让“各州继续掌握物种管理的主导权”。"
+            },
+            {
+              "en": "Not everyone buys the win-win rhetoric. Some Congress members are trying to block the plan, and at least a dozen industry groups, four states, and three environmental groups are challenging it in federal court. Not surprisingly, industry groups and states generally argue it goes too far; enviromnentalists say it doesn't go far enough. \"The federal government is giving responsibility for managing the bird to the same industries that are pushing it to extinction,\" says biologist Jay Lininger.",
+              "zh": "并非所有人都相信双赢的说法。一些国会议员正试图阻止该计划，至少有十几个行业团体、四个州和三个环保组织正在联邦法院对该计划提出质疑。毫不奇怪，行业组织和各州普遍认为这种做法太过分了。环保主义者说这还不够。生物学家杰伊·利宁格（Jay Lininger）表示：“联邦政府正在将管理这种鸟类的责任交给那些正在将其推向灭绝的行业。”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "The major reason for listing the lesser prairie chicken as threatened is ________",
+              "options": [
+                "its drastically decreased population",
+                "the underestimate of the grassland acreage",
+                "a desperate appeal from some biologists",
+                "the insistence of private landowners"
+              ]
+            },
+            {
+              "number": 27,
+              "text": "The \"threatened\" tag disappointed some environmentalists in that it ________",
+              "options": [
+                "was a give-in to governmental pressure",
+                "would involve fewer agencies in action",
+                "granted less federal regulatory power",
+                "went against conservation policies"
+              ]
+            },
+            {
+              "number": 28,
+              "text": "It can be learned from Paragraph 3 that unintentional harm-doers will not be prosecuted if they ________",
+              "options": [
+                "agree to pay a sum for compensation",
+                "volunteer to set up an equally big habitat",
+                "offer to support the WAFWA monitoringjob",
+                "promise to raise funds for USFWS operations"
+              ]
+            },
+            {
+              "number": 29,
+              "text": "According to Ashe, the leading role in managing the species is ________",
+              "options": [
+                "the federal government",
+                "the wildlife agencies",
+                "the landowners",
+                "the states"
+              ]
+            },
+            {
+              "number": 30,
+              "text": "Jay Lininger would most likely support ________",
+              "options": [
+                "industry groups",
+                "the win-win rhetoric",
+                "environmental groups",
+                "the plan under challenge"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2016-en2-text3",
+          "year": 2016,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "That everyone's too busy these days is a cliche. But one specific complaint is made especially mournfully: There's never any time to read.",
+              "zh": "现在大家都太忙了，这已经是老生常谈了。但有一个特别令人悲伤的抱怨：从来没有时间读书。"
+            },
+            {
+              "en": "What makes the problem thornier is that the usual time-management techniques don't seem sufficient. The web's full of articles offering tips on making time to read: \"Give up TV\" or \"Carry a book with you at all times.\" But in my experience, using such methods to free up the odd 30 minutes doesn't work. Sit down to read and the flywheel of work-related thoughts keeps spinning - or else you're so exhausted that a challenging book's the last thing you need. The modem mind, Tim Parks, a novelist and critic, writes, \"is overwhelmingly inclined toward conunication … It is not simply that one is interrupted; it is that one is actually inclined to interruption.\" Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient.",
+              "zh": "让问题变得更加棘手的是，通常的时间管理技巧似乎还不够。网络上有很多文章提供了如何腾出时间阅读的建议：“放弃电视”或“随时随身携带一本书”。但根据我的经验，用这样的方法来腾出那零星的30分钟是行不通的。坐下来阅读，与工作相关的想法的飞轮会不断旋转 - 否则你会精疲力竭，以至于你最不需要的就是一本具有挑战性的书。小说家兼评论家蒂姆·帕克斯 (Tim Parks) 写道，现代人“绝大多数都倾向于交流……这不仅仅是一个人被打断；而是一个人实际上倾向于打断。”深度阅读需要的不仅仅是时间，而是一种特殊的时间，而这种时间是仅仅靠提高效率是无法获得的。"
+            },
+            {
+              "en": "In fact, \"becoming more efficient\" is part of the problem. Thinking of time as a resource to be maximised means you approach it instnunentally, judging any given moment as well spent only in so far as it advances progress toward some goal. Immersive reading, by contrast, depends on being willing to risk inefficiency, goallessness, even time-wasting. Try to slot it in as a to-do list item and you'll manage only goal-focused reading — useful, sometimes, but not the most fulfilling kind. \"The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,\" writes Gary Eberle in his book Sacred Time, and ''we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass, for if they get by without being filled, we will have wasted them.\" No mind-set could be worse for losing yourself in a book.",
+              "zh": "事实上，“变得更有效率”是问题的一部分。将时间视为一种可以最大化的资源意味着你会本能地对待它，判断任何给定的时刻是否值得花在它推动实现某个目标的过程中。相比之下，沉浸式阅读取决于是否愿意冒效率低下、漫无目的、甚至浪费时间的风险。尝试将其作为待办事项列表项，您将只能管理以目标为中心的阅读 - 有时有用，但不是最有成就感的类型。加里·埃伯勒在他的著作《神圣的时间》中写道：“未来就像空瓶子沿着不可阻挡的、几乎无限的传送带向我们走来。”“当这些不同大小的瓶子（天、小时、分钟）过去时，我们感到有压力去装满它们，因为如果它们没有被装满，我们就会浪费它们。”没有比在书中迷失自己的心态更糟糕的了。"
+            },
+            {
+              "en": "So what does work? Perhaps surprisingly, scheduling regular times for reading. You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\" You could limit distractions by reading only physical books, or on single-purpose e-readers. \"Carry a book with you at all times\" can actually work, too — providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down. On a really good day, it no longer feels as if you're \"making time to read,\" but just reading, and making time for everything else.",
+              "zh": "那么什么有效呢？也许令人惊讶的是，安排固定的阅读时间。你可能会认为这可能会助长效率思维模式，但事实上，埃伯勒指出，这种仪式行为有助于我们“走出时间的流动”进入“灵魂时间”。您可以通过只阅读实体书或单一用途的电子阅读器来限制干扰。 “随时随身携带一本书”实际上也可以发挥作用——只要你经常阅读，阅读就会成为你的默认状态，在这种状态下，你可以暂时浮出水面处理事务，然后再回去。在真正美好的一天，你不再感觉自己在“抽出时间读书”，而是只是读书，然后腾出时间做其他事情。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "The usual time-management techniques don't work because ________",
+              "options": [
+                "what they can offer does not ease the modem mind",
+                "what challenging books demand is repetitive reading",
+                "what people often forget is carrying a book with them",
+                "what deep reading requires cannot be guaranteed"
+              ]
+            },
+            {
+              "number": 32,
+              "text": "The \"empty bottles\" metaphor illustrates that people feel a pressure to ________",
+              "options": [
+                "update their to-do lists",
+                "make passing time fulfilling",
+                "carry their plans through",
+                "pursue carefree reading"
+              ]
+            },
+            {
+              "number": 33,
+              "text": "Eberle would agree that scheduling regular times for reading helps ________",
+              "options": [
+                "encourage the efficiency mind-set",
+                "develop online reading habits",
+                "promote ritualistic reading",
+                "achieve immersive reading"
+              ]
+            },
+            {
+              "number": 34,
+              "text": "\"Carry a book with you at all times\" can work if ________",
+              "options": [
+                "reading becomes your primary business of the day",
+                "all the daily business has been promptly dealt with",
+                "you are able to drop back to business after reading",
+                "time can be evenly split for reading and business"
+              ]
+            },
+            {
+              "number": 35,
+              "text": "The best title for this text could be ________",
+              "options": [
+                "How to Enjoy Easy Reading",
+                "How to Find Time to Read",
+                "How to Set Reading Goals",
+                "How to Read Extensively"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2016-en2-text4",
+          "year": 2016,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, a latest p oll has found.",
+              "zh": "最新民意调查发现，在经济和人口结构发生巨大变化的背景下，美国年轻人正在绘制新的21世纪成功路线图。"
+            },
+            {
+              "en": "Across generational lines, Americans continue to prize many of the same traditional milestones of a successful life, including getting married, having children, owning a home, and retiring in their sixties. But while young and old mostly agree on what constitutes the finish line of a fulfilling life, they offer strikingly different p aths for reaching it.",
+              "zh": "跨越代际界限，美国人仍然珍视成功生活中许多相同的传统里程碑，包括结婚、生子、拥有房屋和六十多岁退休。然而，尽管年轻人和老年人大多都同意什么是充实生活的终点线，但他们提供了截然不同的实现目标的路径。"
+            },
+            {
+              "en": "Young people who are still getting started in life were more likely than older adults to prioritize personal fulfillment in their work, to believe they will advance their careers most by regularly changing jobs, to favor communities with more p ublic services and a faster p ace of life, to agree that coup les should be financially secure before getting married or having children, and to maintain that children are best served by two p arents working outside the home, the survey found.",
+              "zh": "调查发现，与老年人相比，刚刚步入生活的年轻人更有可能优先考虑工作中的个人成就感，相信定期更换工作可以最大程度地促进职业发展，支持提供更多公共服务和更快生活节奏的社区，同意夫妻在结婚或生孩子之前应该有经济保障，并认为最好的孩子服务是由两名在外工作的父母提供的。"
+            },
+            {
+              "en": "From career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining p riorities and exp ectations that will increasingly sp read through virtually all aspects of American life, from consumer preferences to housing p atterns to politics.",
+              "zh": "从职业到社区和家庭，这些对比表明，在严重的大衰退之后，那些刚刚开始生活的人正在确定优先事项和期望，这些优先事项和期望将越来越多地渗透到美国生活的几乎所有方面，从消费者偏好到住房模式再到政治。"
+            },
+            {
+              "en": "Young and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations. While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those \"just getting started in life\" face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-p aying job, starting a family, managing debt, and finding affordable housing.",
+              "zh": "年轻人和老年人都集中在一个关键点上：两个群体中绝大多数人都表示，他们认为今天的年轻人比前几代人更难开始生活。虽然年轻人对今天开始的人的前景比长辈更加乐观，但这两个群体中的大多数人都认为，那些“刚刚开始生活”的人在实现诸如获得高薪工作、组建家庭、管理债务和找到经济适用住房等路标成就方面比前几代人面临着更艰难的攀登。"
+            },
+            {
+              "en": "Pete Schneider considers the climb tougher today. Schneider, a 27-year-old auto technician from the Chicago suburbs, says he struggled to find a job after graduating from college. Even now that he is working steadily, he said, \"I can't afford to p ay my monthly mortgage payments on my own, so I have to rent rooms out to people to make that happen.\" Looking back, he is struck that his parents could provide a comfortable life for their children even though neither had completed college when he was young. \"I still grew up in an upper middle-class home with parents who didn't have college degrees,\" Schneider said. \"I don't think people are capable of that anymore.\"",
+              "zh": "皮特·施奈德 (Pete Schneider) 认为今天的攀登更加艰难。施奈德是一名来自芝加哥郊区的 27 岁汽车技术员，他说大学毕业后他很难找到工作。他说，即使现在他工作稳定，“我自己也无力支付每月的抵押贷款，所以我必须把房间出租给别人才能实现这一点。”回想起来，他惊讶地发现父母在他年轻时都没有完成大学学业，却能为孩子们提供舒适的生活。 “我仍然在一个上层中产阶级家庭长大，父母没有大学学位，”施奈德说。 “我认为人们已经没有能力做到这一点了。”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "text": "One cross-generation mark of a successful life is ________",
+              "options": [
+                "trying out different lifestyles",
+                "having a family with children",
+                "working beyond retirement age",
+                "setting up a profitable business"
+              ]
+            },
+            {
+              "number": 37,
+              "text": "It can be learned from Paragraph 3 that young people tend to ________",
+              "options": [
+                "favor a slower life pace",
+                "hold an occupation longer",
+                "attach importance to pre-marital finance",
+                "give priority to childcare outside the home"
+              ]
+            },
+            {
+              "number": 38,
+              "text": "The priorities and expectations defined by the young will ________",
+              "options": [
+                "become increasingly clear",
+                "focus on materialistic issues",
+                "depend largely on political preferences",
+                "reach almost all aspects of American life"
+              ]
+            },
+            {
+              "number": 39,
+              "text": "Both young and old agree that ________",
+              "options": [
+                "good-paying jobs are less available",
+                "the old made more life achievements",
+                "housing loans today are easy to obtain",
+                "getting established is harder for the young"
+              ]
+            },
+            {
+              "number": 40,
+              "text": "Which of the following is true about Schneider? ________",
+              "options": [
+                "He found a dream job after graduating from college.",
+                "His parents believe working steadily is a must for success.",
+                "His parents' good life has little to do with a college degree.",
+                "He thinks his job as a technician quite challenging."
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}

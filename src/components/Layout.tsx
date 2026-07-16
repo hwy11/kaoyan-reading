@@ -11,7 +11,7 @@ export function Layout() {
           考研阅读
         </Link>
         {!isHome && (
-          <span className="app-header-hint">点击英文单词查看释义</span>
+          <span className="app-header-hint">单击查词 · 双击标记</span>
         )}
       </header>
       <main className="app-main">

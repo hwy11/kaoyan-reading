@@ -10,7 +10,9 @@
     "preview": "concurrently -n web,dict -c blue,green \"vite preview\" \"node server/dict-server.mjs\"",
     "dict": "node server/dict-server.mjs",
     "import:years": "node scripts/import-years.mjs",
-    "import:years:en": "node scripts/import-years.mjs --no-translate"
+    "import:years:en": "node scripts/import-years.mjs --no-translate",
+    "import:pdf": "node scripts/import-from-pdf.mjs",
+    "import:pdf:en": "node scripts/import-from-pdf.mjs --no-translate"
   },
   "dependencies": {
     "react": "^19.2.7",

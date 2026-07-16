@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
+import { HighlightProvider } from '../context/HighlightContext'
 import type { Passage } from '../types'
 import { ClickableText } from './ClickableText'
 
@@ -11,6 +12,7 @@ export function PassageReader({ passage }: PassageReaderProps) {
   const [showChinese, setShowChinese] = useState(true)
 
   return (
+    <HighlightProvider passageId={passage.id}>
     <article className="reader">
       <nav className="reader-nav">
         <Link to="/" className="back-link">
@@ -56,7 +58,7 @@ export function PassageReader({ passage }: PassageReaderProps) {
 
       <section className="questions-section">
         <h2>题目</h2>
-        <p className="questions-hint">选项中的单词也可点击查义，不显示答案</p>
+        <p className="questions-hint">单击查词，双击标记生词；选项中的单词同样适用</p>
         {passage.questions.map((q) => (
           <div key={q.number} className="question-block">
             <p className="question-text">
@@ -77,5 +79,6 @@ export function PassageReader({ passage }: PassageReaderProps) {
         ))}
       </section>
     </article>
+    </HighlightProvider>
   )
 }

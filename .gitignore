@@ -11,6 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+scripts/pdfs/
+scripts/raw-text/
+.translate-cache.json
+.vercel
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +26,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.vercel

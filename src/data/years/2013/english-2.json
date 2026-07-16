@@ -11,60 +11,46 @@
           "exam": "english-2",
           "textNumber": 1,
           "title": "Text 1",
-          "subtitle": "Average Is Over",
-          "source": "The Atlantic — \"Making It in America\" by Adam Davidson",
           "paragraphs": [
             {
-              "en": "In an essay entitled \"Making It in America,\" in the latest issue of The Atlantic, the author Adam Davidson relates a joke from cotton country about just how much a modern textile mill has been automated: The average mill has only two employees today, \"a man and a dog. The man is there to feed the dog, and the dog is there to keep the man away from the machines.\"",
-              "zh": "在《大西洋月刊》最新一期题为《在美国制造》的文章中，作者亚当·戴维森讲述了棉花产区的一个笑话，说的是现代纺织厂自动化到了什么程度：如今一家普通工厂只有两个员工——\"一个人和一条狗。人负责喂狗，狗负责防止人靠近机器。\""
+              "en": "In an essay entitled \"Making It in America,\" the author Adam Davidson relates a joke from cotton country about just how much a modern textile mill has been automated: The average mill has only two employees today, \"a man and a dog. The man is there to feed the dog, and the dog is there to keep the man away from the machines.\"",
+              "zh": "在一篇题为“在美国制造”的文章中，作者亚当·戴维森讲述了一个来自棉花之乡的笑话，讲述了现代纺织厂的自动化程度：如今，纺织厂平均只有两名员工，“一个人和一只狗。人在那里喂狗，狗在那里让人远离机器。”"
             },
             {
-              "en": "Davidson's article is one of a number of pieces that have recently appeared making the point that the reason we have such stubbornly high unemployment and sagging middle-class incomes today is largely because of the big drop in demand because of the Great Recession, but it is also because of the quantum advances in both globalization and the information technology revolution, which are more rapidly than ever replacing labor with machines or foreign workers.",
-              "zh": "戴维森的文章是近期大量同类文章中的一篇，它们都在指出：当今失业率居高不下、中产阶级收入下滑，很大程度上是因为大衰退导致需求骤降，但也因为全球化和信息技术革命取得了巨大进步，机器或外国劳工取代劳动力的速度前所未有。"
+              "en": "Davidson's article is one of a number of pieces that have recently appeared making the point that the reason we have such stubbornly high unemployment and declining middle-class incomes today is largely because of the big drop in demand because of the Great Recession, but it is also because of the advances in both globalization and the information technology revolution, which are more rapidly than ever replacing labor with machines or foreign workers.",
+              "zh": "戴维森的文章是最近出现的众多文章之一，这些文章指出，当今失业率如此居高不下，中产阶级收入不断下降，很大程度上是因为大衰退造成的需求大幅下降，但也是因为全球化和信息技术革命的进步，机器或外国工人比以往任何时候都更快地取代劳动力。"
             },
             {
-              "en": "In the past, workers with average skills, doing an average job, could earn an average lifestyle. But, today, average is officially over. Being average just won't earn you what it used to. It can't when so many more employers have so much more access to so much more above average cheap foreign labor, cheap robotics, cheap software, cheap automation and cheap genius. Therefore, everyone needs to find their extra — their unique value contribution that makes them stand out in whatever is their field of employment. Average is over.",
-              "zh": "过去，拥有一般技能的工人做着普通工作，就能过上普通生活。但如今，\"平庸\"正式宣告终结。只做普通人，再也换不来过去那样的回报。当越来越多的雇主能轻易获得高于平均水平的廉价外国劳工、廉价机器人、廉价软件、廉价自动化和廉价人才时，平庸便不再够用。因此，每个人都必须找到自己的\"附加值\"——那种独特的价值贡献，让自己在所在领域脱颖而出。平庸的时代结束了。"
+              "en": "In the past, workers with average skills, doing an average job, could earn an average lifestyle. But, today, average is officially over. Being average just won't earn you what it used to. It can't when so many more employers have so much more access to so much more above average cheap foreign labor, cheap robotics, cheap software, cheap automation and cheap genius. Therefore, everyone needs to find their extra — their unique value contribution that makes them stand out in whatever is their field of employment.",
+              "zh": "过去，拥有普通技能的工人，做着普通的工作，就能获得普通的生活方式。但是，今天，平均值正式结束。处于平均水平不会让你获得像以前那样的收入。当越来越多的雇主有更多机会获得高于平均水平的廉价外国劳动力、廉价机器人、廉价软件、廉价自动化和廉价天才时，它就不可能了。因此，每个人都需要找到自己的额外——独特的价值贡献，使他们在任何就业领域中脱颖而出。"
             },
             {
-              "en": "Yes, new technology has been eating jobs forever, and always will. As they say, if horses could have voted, there never would have been cars. But there's been an acceleration. As Davidson notes, \"In the 10 years ending in 2009, [U.S.] factories shed workers so fast that they erased almost all the gains of the previous 70 years; roughly one out of every three manufacturing jobs — about 6 million in total — disappeared.\"",
-              "zh": "没错，新技术一直在吞噬工作岗位，将来也会如此。俗话说，要是马能投票，汽车就永远不会出现。但吞噬的速度在加快。正如戴维森所说：\"在截至2009年的十年里，美国工厂裁减工人的速度之快，几乎抹去了此前70年的全部就业增长；大约每三个制造业岗位就有一个消失，总计约600万个。\""
+              "en": "Yes, new technology has been eating jobs forever, and always will. But there's been an acceleration. As Davidson notes, \"In the 10 years ending in 2009, [U.S.] factories shed workers so fast that they erased almost all the gains of the previous 70 years; roughly one out of every three manufacturing jobs about 6 million in — total — disappeared.\"",
+              "zh": "是的，新技术一直在蚕食就业岗位，而且永远如此。但有一个加速。正如戴维森指出的那样，“在截至 2009 年的 10 年里，（美国）工厂裁员的速度如此之快，几乎抹去了过去 70 年的所有成果；大约每三个制造业岗位中就有一个（总共约 600 万个）消失了。”"
             },
             {
-              "en": "And you ain't seen nothin' yet. Last April, Annie Lowrey of Slate wrote about a start-up called \"E la Carte\" that is out to shrink the need for waiters and waitresses: The company \"has produced a kind of souped-up iPad that lets you order and pay right at your table. The brainchild of a bunch of M.I.T. engineers, the nifty invention, known as the Presto, might be found at a restaurant near you soon. ... You select what you want to eat and add items to a cart. Depending on the restaurant's preferences, the console could show you nutritional information, ingredients lists and photographs. You can make special requests, like 'dressing on the side' or 'quintuple bacon.' When you're done, the order zings over to the kitchen, and the Presto tells you how long it will take for your items to come out. ... Bored with your companions? Play games on the machine. When you're through with your meal, you pay on the console, splitting the bill item by item if you wish and paying however you want. And you can have your receipt e-mailed to you. ... Each console goes for $100 per month. If a restaurant serves meals eight hours a day, seven days a week, it works out to 42 cents per hour per table — making the Presto cheaper than even the very cheapest waiter.\"",
-              "zh": "而这还只是开始。去年四月，《Slate》杂志的安妮·洛瑞撰文介绍了一家名为\"E la Carte\"的初创公司，其目标是减少对服务员的需求：该公司\"生产了一种加强版iPad，让你可以在餐桌上直接点菜和付款。这项由一群麻省理工工程师发明的精巧装置名叫Presto，也许很快就会出现在你附近的餐厅里。……你选择想吃的食物，加入购物车。根据餐厅设置，控制台可以显示营养信息、配料表和照片。你可以提出特殊要求，比如\"酱料另放\"或\"五倍培根\"。点完后，订单立刻传到厨房，Presto会告诉你菜品需要多久上桌。……和同伴等得不耐烦？可以在机器上玩游戏。用餐结束后，你在控制台上付款，可以按菜品逐项分账，也可以选择任意付款方式，还可以要求将收据发到邮箱。……每台控制台月租100美元。如果餐厅每天营业8小时、每周7天，算下来每张桌子每小时只需42美分——比最廉价的服务员还便宜。\""
+              "en": "There will always be change — new jobs, new products, new services. But the one thing we know for sure is that with each advance in globalization and the I. T. revolution, the best jobs will require workers to have more and better education to make themselves above average.",
+              "zh": "总会有变化——新的工作、新的产品、新的服务。但我们确信的一件事是，随着全球化和信息技术革命的每一次进步，最好的工作将要求工人接受更多更好的教育，以使自己高于平均水平。"
             },
             {
-              "en": "What the iPad won't do in an above average way a Chinese worker will. Consider this paragraph from Sunday's terrific article in The Times by Charles Duhigg and Keith Bradsher about why Apple does so much of its manufacturing in China: \"Apple had redesigned the iPhone's screen at the last minute, forcing an assembly-line overhaul. New screens began arriving at the [Chinese] plant near midnight. A foreman immediately roused 8,000 workers inside the company's dormitories, according to the executive. Each employee was given a biscuit and a cup of tea, guided to a workstation and within half an hour started a 12-hour shift fitting glass screens into beveled frames. Within 96 hours, the plant was producing over 10,000 iPhones a day. 'The speed and flexibility is breathtaking,' the executive said. 'There's no American plant that can match that.'\"",
-              "zh": "iPad做不到的超常效率，中国工人能做到。不妨看看查尔斯·杜赫格和基思·布拉德舍周日在《纽约时报》上发表的精彩文章中的一段，讲的是苹果为何将大量生产放在中国：\"苹果在最后一刻重新设计了iPhone屏幕，迫使整条装配线改版。新屏幕接近午夜时分运抵中国工厂。据那位高管说，工头立刻叫醒了住在公司宿舍里的8000名工人。每人领到一块饼干和一杯茶，被带到工位，半小时内就开始12小时轮班，将玻璃屏幕装入斜面框架。96小时内，工厂日产量就超过1万部iPhone。\"速度和灵活性令人叹为观止，\"那位高管说，\"没有美国工厂能做到这一点。\""
-            },
-            {
-              "en": "And automation is not just coming to manufacturing, explains Curtis Carlson, the chief executive of SRI International, a Silicon Valley idea lab that invented the Apple iPhone program known as Siri, the digital personal assistant. \"Siri is the beginning of a huge transformation in how we interact with banks, insurance companies, retail stores, health care providers, information retrieval services and product services.\"",
-              "zh": "自动化并不仅限于制造业，硅谷创意实验室SRI International的首席执行官柯蒂斯·卡尔森解释道。该机构发明了苹果iPhone上的数字个人助理Siri。\"Siri只是我们与银行、保险公司、零售店、医疗服务机构、信息检索服务和产品服务公司互动方式巨大变革的开始。\""
-            },
-            {
-              "en": "There will always be change — new jobs, new products, new services. But the one thing we know for sure is that with each advance in globalization and the I.T. revolution, the best jobs will require workers to have more and better education to make themselves above average. Here are the latest unemployment rates from the Bureau of Labor Statistics for Americans over 25 years old: those with less than a high school degree, 13.8 percent; those with a high school degree and no college, 8.7 percent; those with some college or associate degree, 7.7 percent; and those with bachelor's degree or higher, 4.1 percent.",
-              "zh": "变化总会存在——新工作、新产品、新服务。但我们确信的一点是：随着全球化和信息技术革命每一步推进，最好的工作都会要求劳动者接受更多、更好的教育，使自己超越平庸。以下是美国劳工统计局公布的25岁以上美国人最新失业率：高中以下学历13.8%；高中学历、无大学教育8.7%；有部分大学或副学士学位7.7%；学士及以上学位4.1%。"
-            },
-            {
-              "en": "In a world where average is officially over, there are many things we need to do to buttress employment, but nothing would be more important than passing some kind of G.I. Bill for the 21st century that ensures that every American has access to post-high school education.",
-              "zh": "在一个\"平庸\"正式终结的世界里，我们需要做很多事来支撑就业，但没有什么比通过某种21世纪版的《退伍军人权利法案》更重要——确保每个美国人都能接受高中之后的教育。"
+              "en": "In a world where average is officially over, there are many things we need to do to support employment, but nothing would be more important than passing some kind of G. I. Bill for the 2 l 8t century that ensures that every American has access to post­ high school education.",
+              "zh": "在一个平均水平正式结束的世界里，我们需要做很多事情来支持就业，但没有什么比通过某种 2-8 世纪退伍军人法案更重要的了，该法案确保每个美国人都有机会接受高中后教育。"
             }
           ],
           "questions": [
             {
               "number": 21,
-              "text": "The joke in Paragraph 1 is used to illustrate ________.",
+              "text": "The joke in Paragraph 1 is used to illustrate ________",
               "options": [
                 "the impact of technological advances",
                 "the alleviation of job pressure",
                 "the shrinkage of textile mills",
-                "the decline of middle-class incomes"
+                "the declme of middle-class mcomes"
               ]
             },
             {
               "number": 22,
-              "text": "According to Paragraph 3, to be a successful employee, one has to ________.",
+              "text": "According to Paragraph 3, to be a successful employee, one has to ________",
               "options": [
                 "work on cheap software",
                 "ask for a moderate salary",
@@ -74,7 +60,7 @@
             },
             {
               "number": 23,
-              "text": "The quotation in Paragraph 4 explains that ________.",
+              "text": "The quotation in Paragraph 4 explains that ________",
               "options": [
                 "gains of technology have been erased",
                 "job opportunities are disappearing at a high speed",
@@ -84,9 +70,9 @@
             },
             {
               "number": 24,
-              "text": "According to the author, to reduce unemployment, the most important is ________.",
+              "text": "According to the author, to reduce unemployment, the most important is ________",
               "options": [
-                "to accelerate the I.T. revolution",
+                "to accelerate the I. T. revolution",
                 "to ensure more education for people",
                 "to advance economic globalization",
                 "to pass more bills in the 21st century"
@@ -94,40 +80,16 @@
             },
             {
               "number": 25,
-              "text": "Which of the following would be the most appropriate title for the text?",
+              "text": "Which of the following would be the most appropriate title for the text? ________",
               "options": [
-                "New Law Takes Effect",
-                "Technology Goes Cheap",
-                "Average Is Over",
-                "Recession Is Bad"
+                "New Law Takes Effect.",
+                "Technology Goes Cheap.",
+                "Average Is Over.",
+                "Recession Is Bad."
               ]
             }
           ],
-          "vocabulary": {
-            "entitled": "题名为；有资格",
-            "automated": "自动化的",
-            "textile": "纺织的；纺织品",
-            "stubbornly": "顽固地；持续地",
-            "sagging": "下滑的；萎靡的",
-            "recession": "经济衰退",
-            "quantum": "巨大的；量子的",
-            "robotics": "机器人技术",
-            "automation": "自动化",
-            "acceleration": "加速",
-            "shed": "裁减；脱落",
-            "manufacturing": "制造业",
-            "start": "初创公司",
-            "shrink": "缩减；收缩",
-            "souped": "加强的（俚语）",
-            "nifty": "精巧的；漂亮的",
-            "nutritional": "营养的",
-            "beveled": "斜面的；倒角的",
-            "breathtaking": "令人叹为观止的",
-            "buttress": "支撑；加固",
-            "alleviation": "减轻；缓和",
-            "shrinkage": "收缩；缩减",
-            "moderate": "适度的；中等的"
-          }
+          "vocabulary": {}
         },
         {
           "id": "2013-en2-text2",
@@ -135,47 +97,42 @@
           "exam": "english-2",
           "textNumber": 2,
           "title": "Text 2",
-          "subtitle": "Birds of Passage",
           "paragraphs": [
             {
               "en": "A century ago, the immigrants from across the Atlantic included settlers and sojourners. Along with the many folks looking to make a permanent home in the United States came those who had no intention to stay, and who would make some money and then go home. Between 1908 and 1915, about 7 million people arrived while about 2 million departed. About a quarter of all Italian immigrants, for example, eventually returned to Italy for good. They even had an affectionate nickname, \"uccelli di passaggio,\" birds of passage.",
-              "zh": "一个世纪前，横跨大西洋而来的移民中既有定居者，也有旅居者。除了许多想在美国永久安家的人，还有一批人并无久留之意，赚些钱就回国。1908至1915年间，约700万人抵达，约200万人离开。例如，大约四分之一的意大利移民最终永久返回意大利。他们甚至有个亲切的绰号——\"uccelli di passaggio\"，即\"候鸟\"。"
+              "zh": "一个世纪前，来自大西洋彼岸的移民包括定居者和寄居者。除了许多希望在美国永久定居的人之外，还有一些无意留下来、想赚点钱然后回家的人。 1908 年至 1915 年间，约有 700 万人抵达，约 200 万人离开。例如，大约四分之一的意大利移民最终永久返回意大利。它们甚至还有一个亲切的绰号“uccelli di passaggio”，即候鸟。"
             },
             {
-              "en": "Today, we are much more rigid about immigrants. We divide newcomers into two categories: legal or illegal, good or bad. We hail them as Americans in the making, or brand them as aliens fit for deportation. That framework has contributed mightily to our broken immigration system and the long political paralysis over how to fix it.",
-              "zh": "如今，我们对移民的态度僵化得多。我们把新来者分成两类：合法或非法，好或坏。要么把他们捧为\"未来的美国人\"，要么给他们贴上\"应被驱逐的外国人\"的标签。这种思维框架大大加剧了我们破碎的移民制度，以及围绕如何改革的长期政治僵局。"
+              "en": "Today, we are much more rigid about immigrants. We divide newcomers into two categories: legal or illegal, good or bad. We hail them as Americans in the making, or brand them as aliens to be kicked out. That framework has contributed mightily to our broken immigration system and the long political paralysis over how to fix it. We don't need more categories, but we need to change the way we think about categories. We need to look beyond strict definitions of legal and illegal. To start, we can recognize the new birds of passage, those living and thriving in the gray areas. We might then begin to solve our immigration challenges.",
+              "zh": "今天，我们对移民的态度更加严格。我们将新来者分为两类：合法或非法、好或坏。我们称赞他们是正在成长中的美国人，或者将他们视为将被驱逐出境的外星人。这一框架对我们支离破碎的移民体系以及如何修复这一体系的长期政治瘫痪做出了巨大贡献。我们不需要更多的类别，但我们需要改变我们思考类别的方式。我们需要超越合法和非法的严格定义。首先，我们可以认识新的候鸟，那些生活在灰色地带并蓬勃发展的鸟。然后我们可能会开始解决移民挑战。"
             },
             {
-              "en": "We don't need more categories, but we need to change the way we think about categories. We need to look beyond strict definitions of legal and illegal. To start, we can recognize the new birds of passage, those living and thriving in the gray areas. We might then begin to solve our immigration challenges.",
-              "zh": "我们不需要更多分类，但需要改变思考分类的方式。我们必须超越合法与非法的严格界定。首先，可以承认新一代\"候鸟\"——那些生活在灰色地带并蓬勃发展的人。这样我们或许才能着手解决移民难题。"
-            },
-            {
-              "en": "Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and particle physicists are among today's birds of passage. They are energetic participants in a global economy driven by the flow of work, money and ideas. They prefer to come and go as opportunity calls them. They can manage to have a job in one place and a family in another.",
-              "zh": "农作物采摘工、小提琴手、建筑工人、企业家、工程师、家庭护理员和粒子物理学家，都是当今\"候鸟\"中的一员。他们是全球经济中充满活力的参与者，经济靠工作、资金和思想的流动驱动。他们更愿意随机会来去自如，可以在一个地方工作，在另一个地方安家。"
+              "en": "Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are among today's birds of passage. They are energetic participants in a global economy driven by the flow of work, money and ideas. They prefer to come and go as opportunity calls them. They can manage to have a job in one place and a family in another.",
+              "zh": "农作物采摘工、小提琴家、建筑工人、企业家、工程师、家庭保健助手和物理学家都是当今的候鸟。他们是由工作、金钱和思想流动驱动的全球经济的积极参与者。他们更喜欢随着机会的召唤而来来去去。他们可以设法在一个地方找到工作，在另一个地方建立家庭。"
             },
             {
               "en": "With or without permission, they straddle laws, jurisdictions and identities with ease. We need them to imagine the United States as a place where they can be productive for a while without committing themselves to staying forever. We need them to feel that home can be both here and there and that they can belong to two nations honorably.",
-              "zh": "无论是否获得许可，他们都能从容地跨越法律、司法管辖区和身份界限。我们需要让他们把美国想象成一个可以暂时施展才华、而不必承诺永久留下之地。我们需要让他们感到，家可以既在这里也在那里，他们可以体面地同时属于两个国家。"
+              "zh": "无论是否获得许可，他们都能轻松地跨越法律、司法管辖区和身份。我们需要他们将美国想象成一个可以暂时高效工作而无需承诺永远留在美国的地方。我们需要他们感到这里和那里都可以有家，他们可以光荣地属于两个国家。"
             },
             {
               "en": "Accommodating this new world of people in motion will require new attitudes on both sides of the immigration battle. Looking beyond the culture war logic of right or wrong means opening up the middle ground and understanding that managing immigration today requires multiple paths and multiple outcomes, including some that are not easy to accomplish legally in the existing system.",
-              "zh": "适应这个人员流动的新世界，需要移民争论双方都有新态度。超越文化战争中非对即错的逻辑，意味着打开中间地带，并理解当今移民管理需要多种路径和多种结果，其中一些在现有制度下很难合法实现。"
+              "zh": "为了适应这个人口流动的新世界，移民斗争双方都需要采取新的态度。超越正确或错误的文化战争逻辑意味着开放中间立场，并理解当今的移民管理需要多种路径和多种结果，包括一些在现有体系中不容易合法实现的目标。"
             }
           ],
           "questions": [
             {
               "number": 26,
-              "text": "\"Birds of passage\" refers to those who ________.",
+              "text": "\"Birds of passage\" refers to those who ________",
               "options": [
-                "immigrate across the Atlantic",
-                "leave their home countries for good",
                 "stay in a foreign country temporarily",
+                "leave their home countries for good",
+                "immigrate across the Atlantic",
                 "find permanent jobs overseas"
               ]
             },
             {
               "number": 27,
-              "text": "It is implied in Paragraph 2 that the current immigration system in the US ________.",
+              "text": "It is implied in Paragraph 2 that the current immigration system in the US ________",
               "options": [
                 "needs new immigrant categories",
                 "has loosened control over immigrants",
@@ -185,27 +142,27 @@
             },
             {
               "number": 28,
-              "text": "According to the author, today's birds of passage want ________.",
+              "text": "According to the author, today's birds of passage want ________",
               "options": [
                 "financial incentives",
                 "a global recognition",
-                "opportunities to get regular jobs",
-                "the freedom to stay and leave"
+                "the freedom to stay and leave",
+                "opportunities to get regular jobs"
               ]
             },
             {
               "number": 29,
-              "text": "The author suggests that the birds of passage today should be treated ________.",
+              "text": "The author suggests that the birds of passage today should be treated ________",
               "options": [
                 "as faithful partners",
-                "with economic favors",
                 "with legal tolerance",
+                "with economic favors",
                 "as mighty rivals"
               ]
             },
             {
               "number": 30,
-              "text": "The most appropriate title for this text would be ________.",
+              "text": "The most appropriate title for this text would be ________",
               "options": [
                 "Come and Go: Big Mistake",
                 "Living and Thriving: Great Risk",
@@ -214,34 +171,7 @@
               ]
             }
           ],
-          "vocabulary": {
-            "settlers": "定居者",
-            "sojourners": "旅居者；暂住者",
-            "affectionate": "亲切的；充满感情的",
-            "rigid": "僵化的；严格的",
-            "newcomers": "新来者",
-            "hail": "欢呼；称赞",
-            "brand": "打上标签；污名化",
-            "aliens": "外国人；外星人",
-            "deportation": "驱逐出境",
-            "paralysis": "瘫痪；僵局",
-            "thriving": "蓬勃发展的",
-            "entrepreneurs": "企业家",
-            "physicists": "物理学家",
-            "straddle": "跨越；骑跨",
-            "jurisdictions": "司法管辖区",
-            "honorably": "体面地；光荣地",
-            "accommodating": "适应；容纳",
-            "incentives": "激励；动机",
-            "tolerance": "宽容；容忍",
-            "mighty": "强大的；有力的",
-            "immigrants": "移民",
-            "permanent": "永久的",
-            "departed": "离开；出发",
-            "nickname": "绰号",
-            "categories": "类别；范畴",
-            "adapted": "适应；改编"
-          }
+          "vocabulary": {}
         },
         {
           "id": "2013-en2-text3",
@@ -249,76 +179,46 @@
           "exam": "english-2",
           "textNumber": 3,
           "title": "Text 3",
-          "subtitle": "Beyond the Blink",
-          "source": "\"Wait: The Art and Science of Delay\" by Frank Partnoy",
           "paragraphs": [
             {
-              "en": "When the Supreme Court announced its decision on the Affordable Care Act last month, the media went wild. The rush to judgment took seconds. CNN and Fox News initially described the decision incorrectly, saying five justices had struck down the law. Even after corrections, the snap analysis that followed wasn't very helpful. The multipart decision is complex, and its ramifications will take months or even years to understand.",
-              "zh": "上个月最高法院就《平价医疗法案》作出裁决时，媒体一片哗然。仓促下结论只花了数秒。CNN和福克斯新闻最初错误地报道有五名大法官推翻了该法案。即使事后更正，随后的仓促分析也并无多大帮助。这项多部分的裁决十分复杂，其影响可能需要数月甚至数年才能看清。"
+              "en": "Scientists have found that although we are prone to snap overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses.",
+              "zh": "科学家发现，虽然我们很容易做出过度反应，但如果我们花点时间思考一下我们可能会如何反应，我们可以减少甚至消除快速、固有反应的负面影响。"
             },
             {
-              "en": "The blink response to this case is only the latest example of a troubling increase in the speed of our reactions. E-mail, social media and the 24-hour news cycle are informational amphetamines, a cocktail of pills that we pop at an increasingly fast pace — and that lead us to make mistaken split-second decisions. Economists label the problem \"present bias\": we are vulnerable to fast, salient stimulation.",
-              "zh": "对此案的\"眨眼式\"反应，只是我们反应速度令人担忧地加快的最新例证。电子邮件、社交媒体和24小时新闻周期就像信息安非他命——一剂剂我们越来越快地吞下的混合药丸，导致我们做出错误的瞬间决定。经济学家将这一问题称为\"当下偏差\"：我们容易受到快速、醒目刺激的影响。"
+              "en": "Snap decisions can be important defense mechanisms; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds. But we need more time to assess other factors. To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five. It takes a while to judg e complex aspects of personality, like neuroticism or open -mindedness.",
+              "zh": "快速决策可能是重要的防御机制；如果我们要判断某人是否危险，我们的大脑和身体天生就会在几毫秒内迅速做出反应。但我们需要更多时间来评估其他因素。研究表明，要准确判断某人是否善于交际，我们至少需要一分钟，最好是五分钟。判断性格的复杂方面需要一段时间，比如神经质或开放性。"
             },
             {
-              "en": "Fortunately, there is an antidote: the conscious pause. Scientists have found that although we are prone to snap overreactions, if we take a moment and think about how we are likely to react, we can reduce or even eliminate the negative effects of our quick, hard-wired responses.",
-              "zh": "幸运的是，有一种解药：有意识地停顿。科学家发现，虽然我们容易做出仓促的过度反应，但只要花一点时间思考自己可能会如何反应，就能减少甚至消除快速、本能反应带来的负面影响。"
+              "en": "But snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm. Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating. We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing, Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long.",
+              "zh": "但对快速刺激作出反应的仓促决定并不只存在于人际领域。多伦多大学的心理学家发现，尽管阅读与饮食无关，但只要看几毫秒的快餐标志，我们的阅读速度就会加快 20%。我们无意识地将快餐与速度和不耐烦联系在一起，并将这些冲动带入我们正在做的任何其他事情中。暴露于快餐闪光的受试者也倾向于认为音乐作品持续时间太长。"
             },
             {
-              "en": "For example, countless studies have shown that physicians' immediate, unconscious reactions to racial minorities lead them to undertreat black patients. In one study published in the Journal of General Internal Medicine in 2007, researchers asked several hundred doctors about a hypothetical 50-year-old male patient who showed up with chest pain. The researchers gave the doctors a photograph of the man, randomly varying his race. Half saw him as white; half saw him as black.",
-              "zh": "例如，无数研究表明，医生对少数族裔即时、无意识的反应会导致他们对黑人患者治疗不足。2007年发表在《普通内科学杂志》上的一项研究中，研究人员向数百名医生询问一名因胸痛就诊的假想50岁男性患者。研究人员给医生看了该男子的照片，随机变换其种族——一半医生看到的是白人，另一半看到的是黑人。"
+              "en": "Yet we can reverse such influences. If we know we will overreact to consumer products or housing options when we see a happy face (one reason good sales representatives and real estate agents are always smiling), we can take a moment before buying. If we know female job screeners are more likely to reject attractive female applicants, we can help screeners understand their biases — or hire outside screeners.",
+              "zh": "然而我们可以扭转这种影响。如果我们知道当我们看到一张笑脸时我们会对消费品或住房选择反应过度（优秀的销售代表和房地产经纪人总是微笑的原因之一），我们可以在购买前花点时间。如果我们知道女性求职筛选人员更有可能拒绝有吸引力的女性求职者，我们可以帮助筛选人员了解她们的偏见，或者聘请外部筛选人员。"
             },
             {
-              "en": "Sure enough, although the doctors insisted they were not racially biased, they were more likely to prescribe thrombolysis, an anti-blood-clotting procedure, for the white patient, while giving the black patient a less-aggressive prescription. The doctors didn't appear racist, yet their unconscious snap reactions led them to treat blacks differently — the very definition of racism.",
-              "zh": "果不其然，尽管医生坚称自己不存在种族偏见，他们更可能为白人患者开具溶栓术（一种抗凝血治疗），而给黑人患者开较温和的药物。医生表面上并不种族主义，但他们无意识的本能反应却导致对黑人区别对待——这正是种族主义的定义。"
+              "en": "John Gottman, the marriage expert, explains that we quickly \"thin slice\" information reliably only after we ground such snap reactions in \"thick sliced\" long­ term study. When Dr. Gottman really wants to assess whether a couple will stay together, he invites them to his island retreat for a much longer evaluation: two days, not two seconds.",
+              "zh": "婚姻专家约翰·戈特曼（John Gottman）解释说，只有在我们将这种快速反应纳入“厚片”长期研究中之后，我们才能快速可靠地“薄片”信息。当戈特曼博士真正想评估一对夫妇是否会继续在一起时，他会邀请他们到他的岛屿静修所进行更长的评估：两天，而不是两秒钟。"
             },
             {
-              "en": "However, about one in four of the doctors guessed that the study was designed to test racial bias. They stopped for a moment and considered how they might react differently depending on race. The researchers found that this \"aware\" subgroup did not treat patients differently. Once they paused to consider whether race was an issue, race was no longer an issue.",
-              "zh": "然而，约四分之一的医生猜到了这项研究旨在测试种族偏见。他们停顿了一下，思考自己是否会因种族不同而有不同反应。研究人员发现，这个\"有意识\"的子群体并未区别对待患者。一旦他们停下来思考种族是否构成问题，种族就不再是问题。"
-            },
-            {
-              "en": "Snap decisions can be important defense mechanisms; if we are judging whether someone is dangerous, our brains and bodies are hard-wired to react very quickly, within milliseconds. But we need more time to assess other factors. To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five. It takes a while to judge complex aspects of personality, like neuroticism or open-mindedness. If we need to understand how nine justices resolved a difficult legal issue, we need even more time.",
-              "zh": "仓促决定可以是重要的防御机制；若判断某人是否危险，我们的大脑和身体被本能设定为在毫秒内迅速反应。但评估其他因素需要更多时间。研究表明，要准确判断某人是否善于社交，至少需要一分钟，最好五分钟。判断人格的复杂方面（如神经质或开放性）也需要一段时间。若要理解九位大法官如何解决一项棘手的法律问题，则需要更长时间。"
-            },
-            {
-              "en": "But snap decisions in reaction to rapid, even subliminal stimuli aren't exclusive to the interpersonal realm. Sanford DeVoe and Chen-Bo Zhong, psychologists at the University of Toronto, found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating. We unconsciously associate fast food with speed and impatience and carry those impulses into whatever else we're doing. Subjects exposed to fast-food flashes also tend to think a musical piece lasts too long.",
-              "zh": "但对快速甚至潜意识刺激做出的仓促决定并不仅限于人际领域。多伦多大学心理学家桑福德·德沃和陈博钟发现，仅看几毫秒快餐标识就会让我们阅读速度提高20%，尽管阅读与进食几乎无关。我们无意识地将快餐与速度和急躁联系起来，并将这种冲动带入正在做的其他事情。接触快餐闪现图像的受试者也倾向于认为一首乐曲持续时间过长。"
-            },
-            {
-              "en": "Yet we can reverse such influences. If we know we will overreact to consumer products or housing options when we see a happy face (one reason good sales representatives and real estate agents are always smiling), we can take a moment before buying. If we know female job screeners are more likely to reject attractive female applicants, as a study by the economists Bradley Ruffle and Ze'ev Shtudiner shows, we can help screeners understand their biases — or hire outside screeners.",
-              "zh": "然而我们可以逆转这种影响。如果我们知道看到笑脸时会对消费品或住房选择过度反应（这也是优秀销售代表和房产中介总是面带微笑的原因之一），就可以在购买前停顿一下。正如经济学家布拉德利·拉弗尔和泽夫·什图迪纳的研究所示，如果女性招聘筛选者更可能拒绝有魅力的女性申请者，我们可以帮助筛选者认识自己的偏见，或聘请外部筛选者。"
-            },
-            {
-              "en": "John Gottman, the marriage guru made famous in Malcolm Gladwell's best-selling book \"Blink,\" explains that we quickly \"thin slice\" information reliably only after we ground such snap reactions in \"thick sliced\" long-term study. When Dr. Gottman really wants to assess whether a couple will stay together, he invites them to his island retreat for a much longer evaluation: two days, not two seconds.",
-              "zh": "婚姻专家约翰·戈特曼因马尔科姆·格拉德威尔畅销书《眨眼之间》而广为人知。他解释说，只有将这类仓促反应建立在\"厚切片\"式长期研究基础上，我们才能可靠地快速\"薄片切片\"信息。当戈特曼博士真想评估一对夫妻能否长久相处时，他会邀请他们到岛上静修所进行更长时间的评估：两天，而非两秒。"
-            },
-            {
-              "en": "Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals: primates and dogs can think about the future only intermittently or for a few minutes. But historically we have spent about 12 percent of our days contemplating the longer term.",
-              "zh": "通过停顿来抑制本能反应的能力，正是我们与动物的区别：灵长类动物和狗只能间歇性地或短暂地思考未来。但历史上，我们约有12%的时间用于思考更长远的事。"
-            },
-            {
-              "en": "The beginning of summer is supposed to be the time for us to slow down and take a breath. Go to the beach with a few books. Spend downtime with family. Tune out. But instead of jumping into the swimming pool, we have leapt into a whirlpool of news.",
-              "zh": "初夏本该是我们放慢脚步、喘口气的时候。带几本书去海边，与家人共度闲暇，暂时远离喧嚣。但我们没有跳进泳池，而是跃入了新闻的漩涡。"
-            },
-            {
-              "en": "Still, although technology might change the way we react, it hasn't changed our nature. We still have the imaginative capacity to rise above temptation and reverse the high-speed trend. There are a couple of summer months left, and no time to waste.",
-              "zh": "尽管如此，技术或许改变了我们的反应方式，却未改变我们的本性。我们仍拥有超越诱惑、逆转高速趋势的想象力。夏天还剩几个月，时间不容浪费。"
+              "en": "Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals: dogs can think about the future only intermittently or for a few minutes. But historically we have spent about 12 percent of our days contemplating the longer term. Although technology might change the way we react, it hasn't changed our nature. We still have the imaginative capacity to rise above temptation and reverse the high-speed trend.",
+              "zh": "我们通过暂停来抑制本能反应的能力是我们与动物的区别：狗只能间歇性地或几分钟地思考未来。但从历史上看，我们花了大约 12% 的时间来考虑更长远的问题。尽管技术可能会改变我们的反应方式，但它并没有改变我们的本性。我们仍然有想象力，能够超越诱惑，扭转高速发展的趋势。"
             }
           ],
           "questions": [
             {
               "number": 31,
-              "text": "The time needed in making decisions may ________.",
+              "text": "The time needed in making decisions may ________",
               "options": [
-                "vary according to the urgency of the situation",
+                "predetermine the accuracy of our judgment",
                 "prove the complexity of our brain reaction",
                 "depend on the importance of the assessment",
-                "predetermine the accuracy of our judgment"
+                "vary according to the urgency of the situation"
               ]
             },
             {
               "number": 32,
-              "text": "Our reaction to a fast-food logo shows that snap decisions ________.",
+              "text": "0ur react10n to a fast-food logo shows that snap dec1s10ns ________",
               "options": [
                 "can be associative",
                 "are not unconscious",
@@ -328,64 +228,36 @@
             },
             {
               "number": 33,
-              "text": "To reverse the negative influences of snap decisions, we should ________.",
+              "text": "To reverse the negative influences of snap dec1s10ns, we should ________",
               "options": [
                 "trust our first impression",
-                "do as people usually do",
                 "think before we act",
+                "do as people usually do",
                 "ask for expert advice"
               ]
             },
             {
               "number": 34,
-              "text": "John Gottman says that reliable snap reactions are based on ________.",
+              "text": "John Gattman says that reliable snap reactions are based on ________",
               "options": [
                 "critical assessment",
                 "\"thin sliced\" study",
-                "sensible explanation",
-                "adequate information"
+                "adequate information",
+                "sensible explanation"
               ]
             },
             {
               "number": 35,
-              "text": "The author's attitude toward reversing the high-speed trend is ________.",
+              "text": "The author's attitude toward reversing the high-speed trend is ________",
               "options": [
                 "tolerant",
-                "uncertain",
                 "optimistic",
-                "doubtful"
+                "uncertain",
+                "Doubtful"
               ]
             }
           ],
-          "vocabulary": {
-            "affordable": "负担得起的",
-            "ramifications": "后果；影响",
-            "amphetamines": "兴奋剂",
-            "salient": "显著的；突出的",
-            "antidote": "解毒剂；对策",
-            "prone": "易于……的",
-            "overreactions": "过度反应",
-            "physicians": "医生",
-            "minorities": "少数族裔",
-            "undertreat": "治疗不足",
-            "hypothetical": "假设的",
-            "thrombolysis": "溶栓术",
-            "prescribe": "开处方",
-            "aggressive": "积极的；激进的",
-            "neuroticism": "神经质",
-            "subliminal": "潜意识的",
-            "primes": "使做好准备；启动",
-            "impatience": "急躁",
-            "screeners": "筛选者",
-            "applicants": "申请者",
-            "gottman": "戈特曼（人名）",
-            "sociable": "善于社交的",
-            "associative": "联想的",
-            "impulsive": "冲动的",
-            "skeptical": "怀疑的",
-            "urgency": "紧迫性",
-            "predetermine": "预先决定"
-          }
+          "vocabulary": {}
         },
         {
           "id": "2013-en2-text4",
@@ -393,41 +265,40 @@
           "exam": "english-2",
           "textNumber": 4,
           "title": "Text 4",
-          "subtitle": "Gender Quotas in Europe",
           "paragraphs": [
             {
-              "en": "Europe is not a gender-equality heaven. In particular, the corporate workplace will never be completely family-friendly until women are part of senior management decisions, and Europe's top corporate-governance positions remain overwhelmingly male. Indeed, women hold only 14 percent of positions on European corporate boards.",
-              "zh": "欧洲并非性别平等的天堂。尤其是，在企业职场中，只要女性未参与高层管理决策，职场就永远不会完全兼顾家庭。欧洲顶级公司治理职位仍以男性占绝对多数。事实上，女性仅占欧洲公司董事会席位的14%。"
+              "en": "Europe is not a gender-equality heaven. In particular, the corporate workplace will never be completely family-friendly until women are part of senior management decisions, and Europe's top corporate-governance positions remain overwhelmingly male. Indeed, women hold only 14 per cent of positions on European corporate boards.",
+              "zh": "欧洲不是性别平等的天堂。特别是，除非女性参与高级管理决策，否则企业工作场所永远不会完全适合家庭，而欧洲企业最高治理职位仍然绝大多数是男性。事实上，女性在欧洲公司董事会中只占 14% 的职位。"
             },
             {
-              "en": "The European Union is now considering legislation to compel corporate boards to maintain a certain proportion of women — up to 60 percent. This proposed mandate was born of frustration. Last year, European Commission Vice President Viviane Reding issued a call to voluntary action. Reding invited corporations to sign up for a gender balance goal of 40 percent female board membership. But her appeal was considered a failure: only 24 companies took it up.",
-              "zh": "欧盟正考虑立法，强制公司董事会维持一定比例的女性成员——最高可达60%。这项拟议的强制性规定源于挫败感。去年，欧盟委员会副主席维维亚娜·雷丁呼吁企业自愿行动，邀请企业签署女性占董事会40%的性别平衡目标。但她的呼吁被视为失败：只有24家公司响应。"
+              "en": "The European Union is now considering legislation to compel corporate boards to maintain a certain proportion of women — up to 60 per cent. This proposed mandate was born of frustration. Last year, European Commission Vice President Viviane Reding issued a call to voluntary action. Reding invited corporations to sign up for gender balance goals of 40 per cent female board membership. But her appeal was considered a failure: only 24 companies took it up.",
+              "zh": "欧盟目前正在考虑立法强制公司董事会保留一定比例的女性成员——最高可达 60%。这项拟议的任务授权是出于挫败感。去年，欧盟委员会副主席维维安·雷丁呼吁采取自愿行动。雷丁邀请企业签署性别平衡目标，即董事会女性成员比例达到 40%。但她的上诉被认为失败了：只有 24 家公司接受了她的上诉。"
             },
             {
               "en": "Do we need quotas to ensure that women can continue to climb the corporate ladder fairly as they balance work and family?",
-              "zh": "我们是否需要配额，来确保女性在平衡工作与家庭的同时，仍能公平地攀登企业阶梯？"
+              "zh": "我们是否需要配额来确保女性在平衡工作和家庭的同时能够继续公平地在企业晋升？"
             },
             {
               "en": "\"Personally, I don't like quotas,\" Reding said recently. \"But I like what the quotas do.\" Quotas get action: they \"open the way to equality and they break through the glass ceiling,\" according to Reding, a result seen in France and other countries with legally binding provisions on placing women in top business positions.",
-              "zh": "\"我个人不喜欢配额，\"雷丁最近说，\"但我喜欢配额起的作用。\"配额能推动行动：它们\"为平等开路，打破玻璃天花板。\"雷丁说，在法国及其他对女性担任高层商业职位有法律约束性规定的国家，已看到这种效果。"
+              "zh": "“就我个人而言，我不喜欢配额，”雷丁最近表示。 “但我喜欢配额的作用。”雷丁表示，配额得到了行动：它们“开辟了平等之路，突破了玻璃天花板”，这一结果在法国和其他制定了关于让女性担任高层商业职位的具有法律约束力的条款的国家中得到了体现。"
             },
             {
-              "en": "I understand Reding's reluctance — and her frustration. I don't like quotas either; they run counter to my belief in meritocracy, government by the capable. But, when one considers the obstacles to achieving the meritocratic ideal, it does look as if a fairer world must be temporarily ordered.",
-              "zh": "我理解雷丁的不情愿——以及她的挫败感。我也不喜欢配额；它们与我信奉的精英治理、能者居之相抵触。但当我们考虑实现精英理想所面临的障碍时，似乎确实需要暂时以强制手段来塑造一个更公平的世界。"
+              "en": "I understand Reding's reluctance — and her frustration. I don't like quotas either; they run counter to my belief in meritocracy, governance by the capable. But, when one considers the obstacles to achieving the meritocratic ideal, it does look as if a fairer world must be temporarily ordered.",
+              "zh": "我理解雷丁的不情愿和她的沮丧。我也不喜欢配额；它们与我对精英统治、有能力者治理的信念背道而驰。但是，当人们考虑到实现精英理想的障碍时，看起来确实必须暂时建立一个更加公平的世界。"
             },
             {
               "en": "After all, four decades of evidence has now shown that corporations in Europe as well as the US are evading the meritocratic hiring and promotion of women to top positions — no matter how much \"soft pressure\" is put upon them. When women do break through to the summit of corporate power — as, for example, Sheryl Sandberg recently did at Facebook — they attract massive attention precisely because they remain the exception to the rule.",
-              "zh": "毕竟，四十年的证据表明，欧美企业都在回避按精英标准招聘和晋升女性至高层——无论施加多少\"软性压力\"。当女性真正突破至企业权力顶峰时——例如谢丽尔·桑德伯格最近在Facebook做到的那样——她们之所以引来巨大关注，恰恰是因为她们仍是规则的例外。"
+              "zh": "毕竟，四十年的证据表明，欧洲和美国的企业都在回避精英聘用和晋升女性担任高层职位的做法——无论她们受到多大的“软压力”。当女性确实突破到企业权力的顶峰时——例如谢丽尔·桑德伯格(Sheryl Sandberg)最近在 Facebook 所做的那样——她们会吸引大量关注，因为她们仍然是规则的例外。"
             },
             {
-              "en": "If appropriate public policies were in place to help all women — whether CEOs or their children's caregivers — and all families, Sandberg would be no more newsworthy than any other highly capable person living in a more just society.",
-              "zh": "若有适当的公共政策帮助所有女性——无论是CEO还是她们孩子的照护者——以及所有家庭，桑德伯格就不会比任何其他生活在更公正社会中的高能力人士更值得成为新闻。"
+              "en": "If appropriate public policies were in place to help all women — whether CEOs or their children's caregivers — and all families, Sandberg would be no more newsworthy than any other highly capable person hvmg m a more Just society.",
+              "zh": "如果制定适当的公共政策来帮助所有女性——无论是首席执行官还是孩子的照顾者——以及所有家庭，桑德伯格不会比任何其他致力于建设更加公正社会的高能力人士更具新闻价值。"
             }
           ],
           "questions": [
             {
               "number": 36,
-              "text": "In the European corporate workplace, generally ________.",
+              "text": "In the European corporate workplace, generally ________",
               "options": [
                 "women take the lead",
                 "men have the final say",
@@ -437,17 +308,17 @@
             },
             {
               "number": 37,
-              "text": "The European Union's intended legislation is ________.",
+              "text": "The European Union's intended legislation is ________",
               "options": [
                 "a reflection of gender balance",
-                "a reluctant choice",
                 "a response to Reding's call",
+                "a reluctant choice",
                 "a voluntary action"
               ]
             },
             {
               "number": 38,
-              "text": "According to Reding, quotas may help women ________.",
+              "text": "According to Reding, quotas may help women ________",
               "options": [
                 "get top business positions",
                 "see through the glass ceiling",
@@ -457,7 +328,7 @@
             },
             {
               "number": 39,
-              "text": "The author's attitude toward Reding's appeal is one of ________.",
+              "text": "The author's attitude toward Reding's appeal is one of ________",
               "options": [
                 "skepticism",
                 "objectiveness",
@@ -467,7 +338,7 @@
             },
             {
               "number": 40,
-              "text": "Women entering top management become headlines due to the lack of ________.",
+              "text": "Women entering top management become headlines due to the lack of ________",
               "options": [
                 "more social justice",
                 "massive media attention",
@@ -476,34 +347,7 @@
               ]
             }
           ],
-          "vocabulary": {
-            "gender": "性别",
-            "equality": "平等",
-            "corporate": "企业的",
-            "governance": "治理",
-            "overwhelmingly": "压倒性地",
-            "legislation": "立法",
-            "compel": "强迫；迫使",
-            "mandate": "命令；授权",
-            "frustration": "挫败感",
-            "voluntary": "自愿的",
-            "quotas": "配额",
-            "meritocracy": "精英统治",
-            "reluctance": "不情愿",
-            "obstacles": "障碍",
-            "evading": "逃避；规避",
-            "promotion": "晋升",
-            "caregivers": "照护者",
-            "newsworthy": "有新闻价值的",
-            "skepticism": "怀疑",
-            "objectiveness": "客观",
-            "indifference": "冷漠",
-            "approval": "赞同",
-            "glass ceiling": "玻璃天花板（无形晋升障碍）",
-            "meritocratic": "精英主义的",
-            "binding": "有约束力的",
-            "provisions": "规定；条款"
-          }
+          "vocabulary": {}
         }
       ]
     }

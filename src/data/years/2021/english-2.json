@@ -1,0 +1,355 @@
+{
+  "year": 2021,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2021-en2-text1",
+          "year": 2021,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "“Reskilling\" is something that sounds like a buzzword but is actually a requirerment if we plan to have a future where a lot of would-be workers do not get left behind. We know we are moving into a period where the jobs in demand will change rapidly, as will the requirements of the jobs that remain. Research by WEF detailed in the Harvard Business Review, finds that on average 42 per cent of the“core skills\"s within job roles will change by 2022. That is a very short timeline, so we can only imagine what the changes will be further in the future.",
+              "zh": "“再培训”听起来像是一个流行词，但实际上是一个要求，如果我们计划拥有一个让许多未来的工人不会被抛在后面的未来。我们知道，我们正在进入一个工作岗位需求将迅速变化的时期，剩下的工作岗位的要求也将迅速变化。世界经济论坛在《哈佛商业评论》中详细介绍的研究发现，到 2022 年，工作角色中平均 42% 的“核心技能”将会发生变化。这是一个非常短的时间表，所以我们只能想象未来会发生什么进一步的变化。"
+            },
+            {
+              "en": "The question of who should pay for reskilling is a thorny one. For individual companies, the temptation is always to let go of workers whose skills are no longer in demand and replace them with those whose skills are. That does not always happen. AT&T is often given as the gold standard of a company who decided to do a massive reskilling program rather than go with a fire- and-hire strategy, ultimately retraining 18.000 employers. Prepandemic, other companies including Amazon and Disney had also pledged to create their own plans. When the skills mismatch is in the broader economy though, the focus usually turns to goverment to handle. Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.",
+              "zh": "谁应该为再培训付费的问题是一个棘手的问题。对于个别公司来说，解雇那些不再需要技能的工人并用那些技能不再需要的工人来取代他们总是很有吸引力的。这种情况并不总是发生。 AT&T 通常被认为是一家公司的黄金标准，该公司决定实施大规模的再培训计划，而不是采用解雇和雇用策略，最终对 18,000 名雇主进行了再培训。疫情爆发前，包括亚马逊和迪士尼在内的其他公司也承诺制定自己的计划。然而，当技能不匹配出现在更广泛的经济领域时，焦点通常会转向政府来处理。加拿大和其他地方的努力充其量可以说是疲软，这给我们带来了这样一种情况：我们经常听到雇主乞求工人，即使在失业率很高的时候和地区也是如此。"
+            },
+            {
+              "en": "With the pandemic, unemployment is very high indeed. In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere. As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent, and although many worker shortages had disappeared, not all had done so. In the medical field, to take an obvious example, the pandemic meant that there were still clear shortages of doctors, nurses and other medical personnel.",
+              "zh": "受疫情影响，失业率确实很高。 2月份，加拿大和美国的失业率分别为3.5%和5.5%，处于世代低点，劳动力短缺现象随处可见。截至 5 月份，这一比例已飙升至 13.3% 和 13.7%，尽管许多工人短缺现象已经消失，但并非全部都消失了。在医疗领域，举个明显的例子，疫情导致医生、护士等医务人员仍然明显短缺。"
+            },
+            {
+              "en": "Of course, it is not like you can take an unemployed waiter and train him to be a doctor in a few weeks, no matter who pays for it. But even if you cannot close that gap, maybe you can close others, and doing so would be to the beneft of all concerned. That seems to be the case in Sweden, where the pandemic kick-started a retraining program where business as well as govermment had a role.",
+              "zh": "当然，你不可能把一个失业的服务员在几周内训练成一名医生，不管谁出钱。但即使你无法缩小这一差距，也许你可以缩小其他差距，这样做将使所有相关方受益。瑞典的情况似乎就是如此，该国的大流行启动了一项再培训计划，企业和政府都发挥了作用。"
+            },
+            {
+              "en": "There the efforts started in mid-March, when the layoffs also started. Scandinavian Airlines (SAS) was at the apex of it: When forced to furlough 90 per cent of their cabin staff they decided to start up a short retraining program that reskilled the laid off workers to support hospita1 staff The effort was a collective one and involved other companies as well as a Swedish university.",
+              "zh": "这些努力从三月中旬开始，当时裁员也开始了。斯堪的纳维亚航空公司 (SAS) 正处于这一时期的顶峰：当被迫让 90% 的机舱工作人员暂时休假时，他们决定启动一项短期再培训计划，对被解雇的员工进行重新培训，以支持医院工作人员。这项努力是一项集体努力，涉及其他公司以及一所瑞典大学。"
+            },
+            {
+              "en": "Reskilling in this way would be challenging in a North American context. You can easily imagine a chorus of“you can't do that,\" because teachers or nurses or whoever have special skills and using any support staff who has been quickly trained is bound to end in disaster. Maybe. Or maybe it is something that can work well in Sweden, with its history of co-operation between business, labour and government, but not in North America where our history is very different. Then again, maybe it is akin to wartime, when extraordinary things take place, but it is business as usual after the fact. And yet, as in war the pandemic is teaching us that many things, including rapid reskilling, can be done if there is a will to do them. In any case, Sweden's work force is now more skilled, in more things, and more flexible than it was before.",
+              "zh": "在北美背景下，以这种方式进行再培训将具有挑战性。你很容易想象“你不能那样做”的合唱，因为教师或护士或任何拥有特殊技能并使用任何经过快速培训的支持人员的人注定会以灾难告终。或许。或者，也许这种做法在瑞典可以很好地发挥作用，因为瑞典有着企业、劳工和政府之间的合作历史，但在北美却行不通，因为我们的历史非常不同。话又说回来，也许这类似于战时，发生了不寻常的事情，但事后一切如常。然而，就像在战争中一样，这场流行病告诉我们，只要有意愿，许多事情，包括快速重新培训技能，都是可以完成的。无论如何，瑞典的劳动力现在比以前更加熟练、从事更多的事情并且更加灵活。"
+            },
+            {
+              "en": "Of course, reskilling programs, whether for pandemic needs or the postpandemic world, are expensive and at a time when everyone' s budgets are lean this may not be the time to implement them. Then again, extending income support programs to get us through the next months is expensive, too, to say nothing of the cost of having a swath of long-term unemployed in the post-COVID years. Given that, perhaps we should think hard about whether the pandemic can jump-start us to a place where reskilling becomes much more than a buzzword.",
+              "zh": "当然，重新培训计划，无论是针对大流行病的需要还是大流行病后的世界，都是昂贵的，而且在每个人的预算都紧张的时候，这可能不是实施这些计划的时候。话又说回来，扩大收入支持计划以帮助我们度过接下来的几个月也是昂贵的，更不用说在新冠疫情后的几年里出现大量长期失业的成本了。鉴于此，也许我们应该认真思考这一流行病是否能让我们进入一个新的阶段，让重新培训不再只是一个流行词。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "Research by the World Economic Forum suggests_____",
+              "options": [
+                "a controversy about the“core skills\"",
+                "an increase in full-time employment",
+                "an urgent demand for new job skills",
+                "a steady growth of job opportunities"
+              ]
+            },
+            {
+              "number": 22,
+              "text": "AT&T is cited to show_____",
+              "options": [
+                "an immediate need for government support",
+                "an alternative to the fre-and-hire strategy",
+                "the characteristics of reskilling programs",
+                "the importance of staff appraisal standards"
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Efforts to resolve the skills mismatch in Canada_____",
+              "options": [
+                "have appeared to be insufficient",
+                "have driven up labour costs",
+                "have proved to be inconsistent",
+                "have met with fierce opposition"
+              ]
+            },
+            {
+              "number": 24,
+              "text": "We can learn from Paragraph 3 that there was_____",
+              "options": [
+                "a sign of economic recovery",
+                "a call for policy adjustment",
+                "a change on hiring practices",
+                "a lack of medical workers"
+              ]
+            },
+            {
+              "number": 25,
+              "text": "Scandinavian Airlines decided to_____",
+              "options": [
+                "create job vacancies for the unemployed",
+                "retrain their cabin staff for better services",
+                "prepare their laid- off workers for other jobs",
+                "finance their staffs college education"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2021-en2-text2",
+          "year": 2021,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "With the global population predicted to hit close to 10 billion by 2050, and forecasts that agricultural production in some regions will need to nearly double to keep pace, food security is increasingly making headlines. In the UK, it has become a big talking point recently too, for a rather particular reason: Brexit. Brexit is seen by some as an opportunity to reverse a recent trend towards the UK importing food. The country produces only about 60 per cent of the food it eats, down from almost three-quarters in the late 1980s. A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health. Sounds greatbut how feasible is this vision?",
+              "zh": "预计到 2050 年，全球人口将接近 100 亿，并且预测某些地区的农业产量将需要增加近一倍才能跟上步伐，粮食安全越来越成为头条新闻。在英国，由于一个相当特殊的原因，它最近也成为了一个热门话题：英国脱欧。一些人认为英国脱欧是扭转近期英国进口食品趋势的机会。该国仅生产其所吃食物的约 60%，低于 20 世纪 80 年代末的近四分之三。有人认为，恢复自给自足将促进农业、政治主权甚至国家健康。听起来不错，但这个愿景的可行性如何？"
+            },
+            {
+              "en": "According to a report on UK food production from the University of Leeds, UK, 85 per cent of the country's total land area is associated with meat and dairy production. That supplies 80 per cent of what is consumed, so even covering the whole country in livestock farms wouldn't allow us to cover all our meat and dairy needs.",
+              "zh": "英国利兹大学关于英国粮食生产的报告显示，该国 85% 的土地面积用于肉类和奶制品生产。这供应了 80% 的消费量，因此即使畜牧场覆盖整个国家也无法满足我们所有的肉类和奶制品需求。"
+            },
+            {
+              "en": "There are many caveats to those figures, but they are still grave. To become much more self-sufficient, the UK would need to drastically reduce its consumption of animal foods, and probably also farm more intensively meaning fewer green fields, and more factory-style production.",
+              "zh": "这些数字有很多警告，但它们仍然很严重。为了更加自给自足，英国需要大幅减少动物食品的消费，并且可能还需要更加集约化的耕作，这意味着更少的绿地和更多的工厂式生产。"
+            },
+            {
+              "en": "But switching to a mainly plant-based diet wouldn't help. There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis. Just 25 per cent of the country's land is suitable for crop-growing, most of which is already occupied by arable fields. Even if we converted all the suitable land to fields of fruit and veg - which would involve taking out all the nature reserves and removing thousands of people from their homes - we would achieve only a 30 per cent boost in crop production.",
+              "zh": "但转向主要以植物为主的饮食并没有帮助。英国以畜牧业为主有一个很好的理由：其大部分地区没有合适的土壤或气候来种植农作物。该国只有25%的土地适合种植农作物，其中大部分已经被耕地占用。即使我们将所有合适的土地改造成果蔬田——这将涉及清除所有自然保护区并让成千上万的人离开家园——我们也只能实现农作物产量的 30% 增长。"
+            },
+            {
+              "en": "Just 23 per cent of the fruit and vegetables consumed in the UK are currently home-grown, so even with the most extreme measures we could meet only 30 per cent of our fresh produce needs. That is before we look for the space to grow the grains, sugars, seeds and oils that provide us with the vast bulk of our current calorie intake.",
+              "zh": "目前英国消费的水果和蔬菜中只有 23% 是本土种植的，因此即使采取最极端的措施，我们也只能满足 30% 的新鲜农产品需求。那是在我们寻找空间种植谷物、糖、种子和油之前，这些谷物、糖、种子和油为我们提供了当前卡路里摄入量的大部分。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "Some people argue that food self- sufficiency in the UK would_____",
+              "options": [
+                "be hindered by its population growth",
+                "contribute to the nation's well-being",
+                "become a priority of the government",
+                "pose a challenge to its farming industry"
+              ]
+            },
+            {
+              "number": 27,
+              "text": "The report by the University of Leeds shows that in the UK_____",
+              "options": [
+                "farmland has been inefficiently utilized",
+                "factory-style production needs reforming",
+                "most land is used for meat and dairy production",
+                "more green fields will be converted for farming"
+              ]
+            },
+            {
+              "number": 28,
+              "text": "Crop-growing in the UK is restricted due to_____",
+              "options": [
+                "its farming technology",
+                "its dietary tradition",
+                "its natural conditions",
+                "its commercial interests"
+              ]
+            },
+            {
+              "number": 29,
+              "text": "It can be learned from the last paragraph that British people_____",
+              "options": [
+                "rely largely on imports for fresh produce",
+                "enjoy a steady rise in fruit consumption",
+                "are seeking effective ways to cut calorie intake",
+                "are trying to grow new varieties of grains"
+              ]
+            },
+            {
+              "number": 30,
+              "text": "The author's attitude to food self-sufficiency in the UK is_____",
+              "options": [
+                "defensive",
+                "doubtful",
+                "tolerant",
+                "optimistic"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2021-en2-text3",
+          "year": 2021,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "When Microsoft bought task management app Wunderlist and mobile calendar Sunrise in 2015. It picked up two newcomers that were attracting considerable buzz in Silicon Valley. Microsoft's own Office dominates the market for “productivity” software, but the start-ups represented a new wave of technology designed from the ground up for the smartphone world.",
+              "zh": "2015 年，微软收购了任务管理应用程序 Wunderlist 和移动日历 Sunrise。它收购了两个在硅谷引起轰动的新来者。微软自己的Office在“生产力”软件市场上占据主导地位，但这些初创公司代表了为智能手机领域从头开始设计的新一波技术浪潮。"
+            },
+            {
+              "en": "Both apps, however, were later scrapped, after Microsoft said it had used their best features in its own products. Their teams of engineers stayed on, making them two of the many “acqui-hires\" that the biggest companies have used to feed their insatiable hunger for tech-talent.",
+              "zh": "然而，在微软表示已在自己的产品中使用了这两款应用程序的最佳功能后，这两款应用程序后来都被废弃了。他们的工程师团队留下来，使他们成为最大的公司用来满足对技术人才永不满足的渴望的众多“收购人员”中的两个。"
+            },
+            {
+              "en": "To Microsof's critics, the fates of Wunderlist and Sunrise are examples of a remorseless drive by Big Tech to chew up any innovative companies that lie in their path.“They bought the seedlings and closed them down,” complained Paul Arnold, a partner at San Francisco-based Switch Ventures, putting paid to businesses that might one day turmn into competitors. Microsoft declined to comment.",
+              "zh": "对于微软的批评者来说，Wunderlist 和 Sunrise 的命运是大型科技公司无情地蚕食任何挡在他们道路上的创新公司的例子。总部位于旧金山的 Switch Ventures 的合伙人保罗·阿诺德 (Paul Arnold) 抱怨道，“他们买下了幼苗，然后将其关闭”，他向那些有一天可能会变成竞争对手的企业支付了报酬。微软拒绝置评。"
+            },
+            {
+              "en": "Like other start-up investors. Mr. Arnold' s own business often depends on selling start-ups to larger tech companies, though he admits to mixed feelings about the result: “I think these things are good for me, if I put my selfish hat on. But are they good for the American economy? I don't know.\"",
+              "zh": "与其他初创投资者一样。阿诺德先生自己的生意常常依赖于将初创企业卖给更大的科技公司，尽管他承认对结果的感受很复杂：“如果我戴上自私的帽子，我认为这些事情对我有好处。但它们对美国经济有好处吗？我不知道。”"
+            },
+            {
+              "en": "The US Federal Trade Commission says it wants to find the answer to that question. This week, it asked the five most valuable US tech companies for information about their many small acquisitions over the past decade. Although only a research project at this stage, the request has raised the prospect of regulators wading into early-stage tech markets that until now have been beyond their reach.",
+              "zh": "美国联邦贸易委员会表示希望找到这个问题的答案。本周，它向五家最有价值的美国科技公司询问了过去十年中许多小型收购的信息。尽管现阶段只是一个研究项目，但该请求提高了监管机构涉足早期科技市场的前景，而迄今为止，这些市场仍是他们无法触及的。"
+            },
+            {
+              "en": "Given their combined market value of more than S5.5tn, rifling through such small deals- many of them much less prominent than Wunderlist and Sunrise- might seem beside the point. Between them, the five companies (Apple, Microsoft, Google, Amazon and Facebook) have spent an average of only S3.4bn a year on sub-S1bn acquisitions over the past five years- -a drop in the ocean compared with their massive financial reserves, and the more than $130bn of venture capital that was invested in the US last year.",
+              "zh": "鉴于它们的总市值超过 5.5tn，通过如此小的交易（其中许多不如 Wunderlist 和 Sunrise 引人注目）似乎没有意义。过去五年里，这五家公司（苹果、微软、谷歌、亚马逊和 Facebook）平均每年仅花费 34 亿新元进行不到 10 亿新元的收购——与它们庞大的财务储备以及去年在美国投资的超过 1300 亿美元的风险资本相比，简直是九牛一毛。"
+            },
+            {
+              "en": "However, critics say that the big companies use such deals to buy their most threatening potential competitors before their businesses have a chance to gain momentum, in some cases as part of a“buy and kill\"* tactic to simply close them down.",
+              "zh": "然而，批评者表示，大公司利用此类交易在其业务有机会获得发展势头之前收购最具威胁性的潜在竞争对手，在某些情况下，这是“买杀”策略的一部分，目的是简单地关闭它们。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "What is true about Wunderlist and Sunrise after their acquisitions? ________",
+              "options": [
+                "Their engineers were retained.",
+                "Their market values declined.",
+                "Their tech features improved.",
+                "Their products were re-priced."
+              ]
+            },
+            {
+              "number": 32,
+              "text": "Microsoft's critics believe that the big tech companies tend to_____",
+              "options": [
+                "exaggerate their product quality",
+                "eliminate their potential competitors",
+                "treat new tech talent unfairly",
+                "ignore public opinions"
+              ]
+            },
+            {
+              "number": 33,
+              "text": "Paul Arnold is concerned that small acquisitions might_____",
+              "options": [
+                "weaken big tech companies",
+                "worsen market competition",
+                "harm the national economy",
+                "discourage start-up investors"
+              ]
+            },
+            {
+              "number": 34,
+              "text": "The US Federal Trade Commission intends to_____",
+              "options": [
+                "limit Big Tech's expansion",
+                "encourage research collaboration",
+                "examine small acquisitions",
+                "supervise start-ups' operations"
+              ]
+            },
+            {
+              "number": 35,
+              "text": "For the five biggest tech companies, their small acquisitions have_____",
+              "options": [
+                "brought lttle financial pressure",
+                "raised few management challenges",
+                "set an example for future deals",
+                "generated considerable profits"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2021-en2-text4",
+          "year": 2021,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to a five-minute interaction, and deliberation can be not only extraneous but intrusive. In one study of the ability she dubbed“thin slicing\" the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips of professors and to rate the instructor's overall effectiveness. Their ratings correlated strongly with students' end-of-semester ratings. Another set of participants had to count backward from 1,000 by nines as they watched the clips, occupying their conscious working memory. Their ratings were just as accurate, demonstrating the intuitive nature of the social processing.",
+              "zh": "我们相当擅长根据第一印象、从瞥见一张照片到五分钟的互动等细微的经历来判断一个人，而深思熟虑不仅是无关紧要的，而且是侵入性的。在一项被她称为“薄切片”的能力的研究中，已故心理学家 Nalini Ambady 要求参与者观看教授的 10 秒无声视频片段，并对讲师的整体效率进行评分。他们的评分与学生学期末的评分密切相关。另一组参与者在观看剪辑时必须从 1,000 倒数到九，这会占据他们有意识的工作记忆。他们的评分同样准确，展示了社交处理的直观本质。"
+            },
+            {
+              "en": "Critically, another group was asked to spend a minute writing down reasons for their judgment, before giving the rating. Accuracy dropped dramatically. Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than 1etting the complex interplay of subtle signals form a holistic impression. She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners.",
+              "zh": "至关重要的是，另一组被要求在给出评级之前花一分钟写下他们的判断理由。准确度急剧下降。安巴迪怀疑，深思熟虑将他们的注意力集中在生动但具有误导性的线索上，例如某些手势或话语，而不是让微妙信号的复杂相互作用形成整体印象。当参与者观看两人的 15 秒视频并判断他们是陌生人、朋友还是约会对象时，她发现了类似的干扰。"
+            },
+            {
+              "en": "Other research shows we're better at detecting deception and sexual orientation from thin slices when we rely on intuition instead of reflection.“It's as if you're driving a stick shift,\" says Judith Hall, a psychologist at Northeastern University,“and if you start thinking about it too much, you can't remember what you're doing. But if you go on automatic pilot, you're fine. Much of our social life is like that.\"",
+              "zh": "其他研究表明，当我们依靠直觉而不是反思时，我们就能更好地从薄层中察觉欺骗和性取向。“这就像你在驾驶变速杆一样，”东北大学心理学家朱迪思·霍尔说，“如果你开始想得太多，你就记不起自己在做什么。但如果你继续自动驾驶，那就没事了。我们的大部分社交生活都是这样。”"
+            },
+            {
+              "en": "Thinking too much can also harm our ability to form preferences. College students' ratings of strawberry jams and college courses aligned better with experts’ opinions when the students weren't asked to analyze their rationale. And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex- when they had a lot of information to process.",
+              "zh": "想得太多也会损害我们形成偏好的能力。当不要求学生分析其理由时，大学生对草莓酱和大学课程的评分与专家的观点更加一致。当人们被要求关注自己的感受而不是细节时，他们会做出客观上更好、更个人满意的购车决定，但前提是决策很复杂——当他们有大量信息需要处理时。"
+            },
+            {
+              "en": "Intuition's special powers are unleashed only in certain circumstances. In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech). Then they rated the degree to which they had used intuition (“gut feelings,\"“hunches,\"“my heart\"). Use of their gut hurt their performance on the first four tasks, as expected, and helped them on the rest. Sometimes the heart is smarter than the head_____.",
+              "zh": "直觉的特殊力量只有在某些情况下才会被释放。在一项研究中，参与者完成了一系列八项任务，其中四项利用反思性思维（辨别规则、理解词汇），四项利用直觉和创造力（生成新产品或修辞手法）。然后他们评估自己使用直觉的程度（“直觉”、“预感”、“我的心”）。正如预期的那样，使用直觉会损害他们在前四项任务中的表现，但会帮助他们完成其余任务。有时心比头脑更聪明_____。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "text": "Nalini Ambady' s study deals with ________",
+              "options": [
+                "the power of people 's memory",
+                "the relibility of first impressions",
+                "instructor student interaction",
+                "people' s ability to influence others"
+              ]
+            },
+            {
+              "number": 37,
+              "text": "In Ambady' s study, rating accuracy dropped when participants_____",
+              "options": [
+                "focused on specific details",
+                "gave the rating in limited time",
+                "watched shorter video clips",
+                "discussed with one another"
+              ]
+            },
+            {
+              "number": 38,
+              "text": "Judith Hall mentions driving to show that_____",
+              "options": [
+                "reflection can be distracting",
+                "memory can be selective",
+                "social skills must be cultivated",
+                "deception is difficult to detect"
+              ]
+            },
+            {
+              "number": 39,
+              "text": "When you are making complex decisions, it is advisable to_____",
+              "options": [
+                "collect enough data",
+                "list your preferences",
+                "seek expert advice",
+                "follow your feelings ."
+              ]
+            },
+            {
+              "number": 40,
+              "text": "What can we learn from the last paragraph? ________",
+              "options": [
+                "Generating new products takes time.",
+                "Intuition may affect reflective tasks.",
+                "Vocabulary comprehension needs creativity.",
+                "Objective thinking may boost inventiveness."
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}

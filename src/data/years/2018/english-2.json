@@ -1,0 +1,361 @@
+{
+  "year": 2018,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2018-en2-text1",
+          "year": 2018,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "It is curious that Stephen Koziatek feels almost as though he has to justify his efforts to give his students a better future.",
+              "zh": "奇怪的是，史蒂芬·科齐亚泰克似乎觉得他必须证明自己为给学生一个更好的未来所做的努力是合理的。"
+            },
+            {
+              "en": "Mr. Koziatek is part of something pioneering. He is a teacher at a New Hampshire high school where learning is not something of books and tests and mechanical memorization, but practical. When did it become accepted wisdom that students should be able to name the 13th president of the United States but be utterly overwhelmed by a broken bike chain?",
+              "zh": "Koziatek 先生是开创性事业的一部分。他是新罕布什尔州一所高中的老师，那里的学习不是书本、考试和机械记忆，而是实践。学生们应该能够说出美国第 13 任总统的名字，但却被断掉的自行车链条完全压垮，这从什么时候开始成为公认的智慧？"
+            },
+            {
+              "en": "As Koziatek knows, there is learning in just about everything. Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum. They can also learn geometry by assembling a bicycle.",
+              "zh": "正如 Koziatek 所知，几乎所有事情都需要学习。强迫学生在一张贴满了几代人丢弃的口香糖的涂鸦桌子上学习几何，不一定会得到任何好处。他们还可以通过组装自行车来学习几何。"
+            },
+            {
+              "en": "But he's also found a kind of insidious prejudice. Working with your hands is seen as almost a mark of inferiority. Schools in the family of vocational education \"have that stereotype … that it's for kids who can't make it academically,\" he says.",
+              "zh": "但他也发现了一种阴险的偏见。用手工作几乎被视为自卑的标志。他说，职业教育家族中的学校“有一种刻板印象……这是为那些学业成绩不佳的孩子准备的”。"
+            },
+            {
+              "en": "On one hand, that viewpoint is a logical product of America's evolution. Manufacturing is not the economic engine that it once was. The job security that the US economy once offered to high school graduates has largely evaporated. More education is the new principle. We want more for our kids, and rightfully so.",
+              "zh": "一方面，这种观点是美国发展的逻辑产物。制造业不再像以前那样是经济引擎。美国经济曾经为高中毕业生提供的就业保障已基本消失。加强教育是新原则。我们希望为我们的孩子提供更多，这是理所当然的。"
+            },
+            {
+              "en": "But the headlong push into bachelor's degrees for all — and the subtle devaluing of anything less — misses an important point: That's not the only thing the American economy needs. Yes, a bachelor's degree opens more doors. But even now, 54 percent of the jobs in the country are middle-skill jobs, such as construction and high-skill manufacturing. But only 44 percent of workers are adequately trained.",
+              "zh": "但一味地推动所有人获得学士学位——以及其他任何东西的微妙贬值——忽略了一个重要的点：这并不是美国经济唯一需要的东西。是的，学士学位打开了更多的大门。但即便如此，该国 54% 的工作岗位仍属于中等技能岗位，例如建筑业和高技能制造业。但只有 44% 的工人接受过充分培训。"
+            },
+            {
+              "en": "In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face. There is a gap in working-class jobs, but the workers who need those jobs most aren't equipped to do them. Koziatek's Manchester School of Technology High School is trying to fill that gap.",
+              "zh": "换句话说，当工人阶级在政治上颠覆国家，对曾经定义美国的机会正在消失感到沮丧时，一个显而易见的解决方案就摆在我们面前。工人阶级的工作存在缺口，但最需要这些工作的工人却没有能力胜任这些工作。 Koziatek 的曼彻斯特理工学院高中正在努力填补这一空白。"
+            },
+            {
+              "en": "Koziatek's school is a wake-up call. When education becomes one-size-fits-all, it risks overlooking a nation's diversity of gifts.",
+              "zh": "科齐亚泰克的学校给我们敲响了警钟。当教育变得一刀切时，它就有可能忽视一个国家天赋的多样性。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "A broken bike chain is mentioned to show students' lack of ________",
+              "options": [
+                "practical ability",
+                "academic training",
+                "pioneering spirit",
+                "mechanical memorization"
+              ]
+            },
+            {
+              "number": 22,
+              "text": "There exists the prejudice that vocational education is for kids who ________",
+              "options": [
+                "have a stereotyped mind",
+                "have no career motivation",
+                "are not academically successful",
+                "are financially disadvantaged"
+              ]
+            },
+            {
+              "number": 23,
+              "text": "We can infer from Paragraph 5 that high school graduates ________",
+              "options": [
+                "used to have big financial concerns",
+                "used to have more job opportunities",
+                "are reluctant to work in manufacturing",
+                "are entitled to more educational privileges"
+              ]
+            },
+            {
+              "number": 24,
+              "text": "The headlong push into bachelor's degrees for all ________",
+              "options": [
+                "helps create a lot of middle-skill jobs",
+                "may narrow the gap in working-class jobs",
+                "is expected to yield a better-trained workforce",
+                "indicates the overvaluing of higher education"
+              ]
+            },
+            {
+              "number": 25,
+              "text": "The author's attitude toward Koziatek's school can be described as ________",
+              "options": [
+                "supportive",
+                "tolerant",
+                "disappointed",
+                "cautious"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2018-en2-text2",
+          "year": 2018,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "While fossil fuels - coal, oil, gas - still generate roughly 85 percent of the world's energy supply, it's clearer than ever that the future belongs to renewable sources such as wind and solar. The move to renewables is p icking up momentum around the world: They now account for more than half of new power sources going on line.",
+              "zh": "尽管化石燃料（煤炭、石油、天然气）仍占世界能源供应的约 85%，但比以往任何时候都更加清楚的是，未来属于风能和太阳能等可再生能源。全球范围内向可再生能源的转变势头正在增强：目前，可再生能源占新增发电量的一半以上。"
+            },
+            {
+              "en": "Some growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources. But increasingly the story is about the plummeting p rices of renewables, especially wind and solar. The cost of solar panels has dropped by 80 percent and the cost of wind turbines by close to one-third in the p ast eight years.",
+              "zh": "一些增长源于政府和有远见的企业为清洁能源提供资金的承诺。但越来越多的故事是关于可再生能源价格暴跌的，尤其是风能和太阳能。过去八年里，太阳能电池板的成本下降了 80%，风力涡轮机的成本下降了近三分之一。"
+            },
+            {
+              "en": "In many parts of the world renewable energy is already a p rincip al energy source. In Scotland, for examp le, wind turbines p rovide enough electricity to p ower 95 p ercent of homes. While the rest of the world takes the lead, notably China and Europ e, the United States is also seeing a remarkable shift. In March, for the first time, wind and solar power accounted for more than 10 percent of the power generated in the US, rep orted the US Energy Information Administration.",
+              "zh": "在世界许多地方，可再生能源已经成为主要能源。例如，在苏格兰，风力涡轮机提供的电力足以为 95% 的家庭供电。虽然世界其他地区（尤其是中国和欧洲）处于领先地位，但美国也出现了显着的转变。美国能源情报署报告称，3月份风能和太阳能发电首次占美国发电量的10%以上。"
+            },
+            {
+              "en": "President Trump has underlined fossil fuels — especially coal — as the path to economic growth. In a recent speech in Iowa, he dismissed wind power as an unreliable energy source. But that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state's electricity generation - and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers.",
+              "zh": "特朗普总统强调化石燃料——尤其是煤炭——是经济增长的途径。最近在爱荷华州的一次演讲中，他认为风力发电是一种不可靠的能源。但这一信息在爱荷华州的许多人中并不受欢迎，风力涡轮机遍布该州的田野，提供了该州 36% 的发电量，而且像微软这样的科技巨头也被可用的清洁能源为其数据中心供电所吸引。"
+            },
+            {
+              "en": "The question \"what happens when the wind doesn't blow or the sun doesn't shine?\" has provided a quick put-down for skeptics. But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely.",
+              "zh": "“当风不吹或阳光不照时会发生什么？”这个问题。很快就让怀疑者失望了。但电池存储容量的提高使得它们更有可能保持全天候供电。"
+            },
+            {
+              "en": "The advance is driven in part by vehicle manufacturers, who are placing big bets on battery-p owered electric vehicles. Although electric cars are still a rarity on roads now, this massive investment could change the p icture rapidly in coming years.",
+              "zh": "这一进步在一定程度上是由汽车制造商推动的，他们在电池驱动的电动汽车上下了很大的赌注。尽管电动汽车现在在道路上仍然很少见，但这项巨额投资可能会在未来几年迅速改变这一状况。"
+            },
+            {
+              "en": "While there's a long way to go, the trend lines for renewables are sp iking. The p ace of change in energy sources app ears to be sp eedin g up — erha s just in time p p to have a meaningful effect in slowing climate change. What Washington does — or doesn't do — to promote alternative energy may mean less and less at a time of a global shift in thought.",
+              "zh": "尽管还有很长的路要走，但可再生能源的趋势线正在飙升。能源变化的步伐似乎正在加快——正好对减缓气候变化产生有意义的影响。在全球思想转变之际，华盛顿在推广替代能源方面所做的或没有做的事情可能意义越来越小。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "The word \"plummeting\" (Line 3, Para. 2) is closest in meaning to ________",
+              "options": [
+                "stabilizing",
+                "changing",
+                "falling",
+                "nsmg"
+              ]
+            },
+            {
+              "number": 27,
+              "text": "According to Paragraph 3, the use of renewable energy in America ________",
+              "options": [
+                "is progressing notably",
+                "is as extensive as in Europe",
+                "faces many challenges",
+                "has proved to be impractical"
+              ]
+            },
+            {
+              "number": 28,
+              "text": "It can be learned that in Iowa, ________",
+              "options": [
+                "wind is a widely used energy source",
+                "wind energy has replaced fossil fuels",
+                "tech giants are investing in clean energy",
+                "there is a shortage of clean energy supply"
+              ]
+            },
+            {
+              "number": 29,
+              "text": "Which of the following is true about clean energy according to Paragraphs 5&6 ? ________",
+              "options": [
+                "Its application has boosted battery storage.",
+                "It is cononly used in car manufacturing.",
+                "Its continuous supply is becoming a reality.",
+                "Its sustainable exploitation will remain difficult."
+              ]
+            },
+            {
+              "number": 30,
+              "text": "It can be inferred from the last paragraph that renewable energy ________",
+              "options": [
+                "will bring the US closer to other countries",
+                "will accelerate global environmental change",
+                "is not really encouraged by the US government",
+                "is not competitive enough with regard to its cost"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2018-en2-text3",
+          "year": 2018,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "The power and ambition of the giants of the digital economy is astonishing­ Amazon has just announced the purchase of the upmarket grocery chain Whole Foods for $ 13.Sbn, but two years ago Facebook paid even more than that to acquire the WhatsApp messaging service, which doesn't have any physical product at all. What WhatsApp offered Facebook was an intricate and finely detailed web of its users' friendships and social lives.",
+              "zh": "数字经济巨头的实力和野心令人惊叹，亚马逊刚刚宣布以 13 亿美元收购高档杂货连锁店 Whole Foods，但两年前 Facebook 斥资甚至更高的价格收购了根本没有任何实体产品的 WhatsApp 消息服务。 WhatsApp 为 Facebook 提供的是一个复杂而细致的网络，记录了用户的友谊和社交生活。"
+            },
+            {
+              "en": "Facebook promised the European commission then that it would not link phone numbers to Facebook identities, but it broke the promise almost as soon as the deal went through. Even without knowing what was in the messages, the knowledge of who sent them and to whom was enormously revealing and still could be. What political journalist, what party whip, would not want to know the makeup of the WhatsApp groups in which Theresa May's enemies are currently plotting? It may be that the value of Whole Foods to Amazon is not so much the 460 shops it owns, but the records of which customers have purchased what.",
+              "zh": "Facebook 当时向欧盟委员会承诺，不会将电话号码与 Facebook 身份关联起来，但交易一完成，它就违背了承诺。即使不知道消息中的内容，了解消息的发送者和收件人也具有很大的启发性，而且仍然可能具有启发性。哪个政治记者、哪个党鞭不想知道特蕾莎·梅的敌人目前正在密谋的 WhatsApp 群组的构成？ Whole Foods 对亚马逊的价值可能不在于它拥有的 460 家商店，而在于哪些顾客购买了什么商品的记录。"
+            },
+            {
+              "en": "Competition law appears to be the only way to address these imbalances of power. But it is clumsy. For one thing, it is very slow compared to the pace of change within the digital economy. By the time a problem has been addressed and remedied it may have vanished in the marketplace, to be replaced by new abuses of power. But there is a deeper conceptual problem, too. Competition law as presently interpreted deals with financial disadvantage to consumers and this is not obvious when the users of these services don't pay for them. The users of their services are not their customers. That would be the people who buy advertising from them - and Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies.",
+              "zh": "竞争法似乎是解决这些权力失衡的唯一途径。但它很笨拙。一方面，与数字经济的变化速度相比，它非常缓慢。当问题得到解决和补救时，它可能已经在市场上消失，取而代之的是新的权力滥用。但还有一个更深层次的概念问题。目前解释的竞争法涉及消费者的经济劣势，而当这些服务的用户不付费时，这一点并不明显。他们的服务的用户不是他们的客户。那将是那些从他们那里购买广告的人，而 Facebook 和谷歌这两个虚拟巨头主导着数字广告，这对所有其他媒体和娱乐公司来说都是不利的。"
+            },
+            {
+              "en": "The product they're selling is data, and we, the users, convert our lives to data for the benefit of the digital giants. Just as some ants farm the bugs called aphids for the honeydew they produce when they feed, so Google farms us for the data that our digital lives yield. Ants keep predatory insects away from where their aphids feed; Gmail keeps the spammers out of our inboxes. It doesn't feel like a human or democratic relationship, even if both sides benefit.",
+              "zh": "他们销售的产品是数据，而我们用户将我们的生活转化为数据，以造福数字巨头。就像一些蚂蚁养殖蚜虫是为了获取它们进食时产生的蜜露一样，谷歌养殖我们是为了我们的数字生活产生的数据。蚂蚁让捕食性昆虫远离蚜虫的食物来源； Gmail 将垃圾邮件发送者拒之门外。即使双方都受益，这也不像是一种人性或民主的关系。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "According to Paragraph 1, Facebook acquired WhatsApp for its ________",
+              "options": [
+                "digital products",
+                "user information",
+                "physical assets",
+                "quality service"
+              ]
+            },
+            {
+              "number": 33,
+              "text": "According to the author, competition law ________",
+              "options": [
+                "should serve the new market powers",
+                "may worsen the economic imbalance",
+                "should not provide just one legal solution",
+                "cannot keep pace with the changing market"
+              ]
+            },
+            {
+              "number": 34,
+              "text": "Competition law as presently interpreted can hardly protect Facebook users because ________",
+              "options": [
+                "they are not defined as customers",
+                "they are not financially reliable",
+                "the services are generally digital",
+                "the services are paid for by advertisers"
+              ]
+            },
+            {
+              "number": 35,
+              "text": "The ants analogy is used to illustrate ________",
+              "options": [
+                "a win-win business model between digital giants",
+                "a typical competition pattern among digital giants",
+                "the benefits provided for digital giants'customers",
+                "the relationship between digital giants and their users"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2018-en2-text4",
+          "year": 2018,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "To combat the trap of putting a premium on being busy, Cal Newport, author of Deep Work: Rules for Focused Success in a Distracted World, recommends building a habit of \"deep work\" - the ability to focus without distraction.",
+              "zh": "为了摆脱过度忙碌的陷阱，《深度工作：分心世界中专注成功的规则》一书的作者卡尔·纽波特建议养成“深度工作”的习惯，即不分心地专注的能力。"
+            },
+            {
+              "en": "There are a number of approaches to mastering the art of deep work - be it lengthy retreats dedicated to a specific task; developing a daily ritual; or taking a \"journalistic\" approach to seizing moments of deep work when you can throughout the day. Whichever approach, the key is to determine your length of focus time and stick to it.",
+              "zh": "掌握深度工作艺术的方法有很多种——可以是专门针对特定任务的长时间静修；也可以是长期静修。制定日常仪式；或者采取“新闻”的方式来抓住全天深度工作的时刻。无论哪种方法，关键是确定你的专注时间长度并坚持下去。"
+            },
+            {
+              "en": "Newport also recommends \"deep scheduling\" to combat constant interruptions and get more done in less time. \"At any given point, I should have deep work scheduled for roughly the next month. Once on the calendar, I protect this time like I would a doctor's appointment or important meeting\", he writes.",
+              "zh": "纽波特还建议“深度调度”，以应对持续的干扰，并在更短的时间内完成更多工作。 “在任何特定的时间点，我都应该在大约下个月安排深度工作。一旦列入日历，我就会像对待医生的预约或重要会议一样保护这个时间，”他写道。"
+            },
+            {
+              "en": "Another approach to getting more done in less time is to rethink how you prioritise your day - in particular how we craft our to-do lists. Tim Harford, author of Messy : The Power of Disorder to Transform Our Lives, points to a study in the early 1980s that divided undergraduates into two groups: some were advised to set out monthly goals and study activities; others were told to plan activities and goals in much more detail, day by day.",
+              "zh": "在更短的时间内完成更多工作的另一种方法是重新思考如何确定一天的优先顺序 - 特别是我们如何制定待办事项列表。 《凌乱：改变我们生活的混乱的力量》一书的作者蒂姆·哈福德 (Tim Harford) 指出，20 世纪 80 年代初的一项研究将本科生分为两组：一些人被建议制定每月目标和学习活动；另一些人被建议制定每月目标和学习活动；另一些人被建议制定每月目标和学习活动；另一些人被建议制定每月目标和学习活动。其他人则被告知要日复一日地更详细地计划活动和目标。"
+            },
+            {
+              "en": "While the researchers assumed that the well-structured daily plans would be most effective when it came to the execution of tasks, they were wrong: the detailed daily plans demotivated students. Harford argues that inevitable distractions often render the daily to-do list ineffective, while leaving room for improvisation in such a list can reap the best results.",
+              "zh": "虽然研究人员认为结构良好的每日计划在执行任务时最有效，但他们错了：详细的每日计划会降低学生的积极性。哈福德认为，不可避免的干扰往往会使每日待办事项清单变得无效，而在这样的清单中留出即兴发挥的空间才能获得最佳结果。"
+            },
+            {
+              "en": "In order to make the most of our focus and energy, we also need to embrace downtime, or as Newport suggests, \"be lazy\".",
+              "zh": "为了充分利用我们的注意力和精力，我们还需要接受休息时间，或者正如纽波特建议的那样，“变得懒惰”。"
+            },
+            {
+              "en": "\"Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body … [idleness] is, paradoxically, necessary to getting any work done,\" he argues.",
+              "zh": "“无所事事不仅仅是一种度假、一种放纵或一种恶习；它对于大脑来说就像维生素 D 对于身体一样不可或缺……矛盾的是，[无所事事]却是完成任何工作所必需的，”他辩称。"
+            },
+            {
+              "en": "Srini Pillay, an assistant professor of psychiatry at Harvard Medical School, believes this counterintuitive link between downtime and productivity may be due to the way our brains operate. When our brains switch between being focused and unfocused on a task, they tend to be more efficient.",
+              "zh": "哈佛医学院精神病学助理教授斯里尼·皮莱 (Srini Pillay) 认为，停机时间和生产力之间这种违反直觉的联系可能是由于我们大脑的运作方式造成的。当我们的大脑在专注和不专注于某项任务之间切换时，它们往往会更有效率。"
+            },
+            {
+              "en": "\"What people don't realise is that in order to complete these tasks they need to use both the focus and unfocus circuits in their brain,\" says Pillay.",
+              "zh": "“人们没有意识到，为了完成这些任务，他们需要同时使用大脑中的聚焦和散焦回路，”皮莱说。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "text": "The key to mastering the art of deep work is to ________",
+              "options": [
+                "keep to your focus time",
+                "list your immediate tasks",
+                "make specific daily plans",
+                "seize every minute to work"
+              ]
+            },
+            {
+              "number": 37,
+              "text": "The study in the early 1980s cited by Harford shows that ________",
+              "options": [
+                "distractions may actually increase efficiency",
+                "daily schedules are indispensable to studying",
+                "students are hardly motivated by monthly goals",
+                "detailed plans may not be as fruitful as expected"
+              ]
+            },
+            {
+              "number": 38,
+              "text": "According to Newport, idleness is ________",
+              "options": [
+                "a desirable mental state for busy people",
+                "a major contributor to physical health",
+                "an effective way to save time and energy",
+                "an essential factor in accomplishing any work"
+              ]
+            },
+            {
+              "number": 39,
+              "text": "Pillay believes that our brains' shift between being focused and unfocused ________",
+              "options": [
+                "can result in psychological well-being",
+                "can bring about greater efficiency",
+                "is aimed at better balance in work",
+                "is driven by task urgency"
+              ]
+            },
+            {
+              "number": 40,
+              "text": "This text is mainly about ________",
+              "options": [
+                "ways to relieve the tension of busy life",
+                "approaches to getting more done in less time",
+                "the key to eliminating distractions",
+                "the cause of the lack of focus time"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}

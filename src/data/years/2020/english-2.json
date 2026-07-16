@@ -1,0 +1,331 @@
+{
+  "year": 2020,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2020-en2-text1",
+          "year": 2020,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid. To find out if this extends to non-living beings, Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats.",
+              "zh": "老鼠和其他动物需要高度适应来自他人的社交信号，这样它们才能识别出要合作的朋友和要避开的敌人。为了查明这种现象是否适用于非生物体，加州大学圣地亚哥分校的拉勒·奎恩 (Laleh Quinn) 和她的同事测试了老鼠是否能够检测到来自机器老鼠的社交信号。"
+            },
+            {
+              "en": "They housed eight adult rats with two types of robotic rat — one social and one asocial—for four days.The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels-to move around and colorful markings.",
+              "zh": "他们将八只成年老鼠和两种类型的机器鼠（一种是社交型的，一种是非社交型的）一起饲养了四天。这些机器鼠非常简约，类似于带有轮子的电脑鼠标，可以四处移动，并带有彩色标记。"
+            },
+            {
+              "en": "During the experiment, the social robot rat followed the living rats around, played with the same toys, and opened cage doors to let trapped rats escape. Meanwhile, the asocial robot simply moved forwards and backwards and side to side.",
+              "zh": "实验过程中，社交机器鼠跟随活体老鼠四处走动，玩同样的玩具，并打开笼门让被困的老鼠逃脱。与此同时，非社交机器人只是简单地前后左右移动。"
+            },
+            {
+              "en": "Next, the researchers trapped the robots in cages and gave the rats the opportunity to release them by pressing a lever.Across 18 trials each, the living rats were 52 per cent more likely on average to set the social robot free than the asocial one. This suggests that the rats perceived the social robot as a genuine social being, says Quinn. The rats may have bonded more with the social robot because it displayed behaviors like communal exploring and playing. This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, she says .",
+              "zh": "接下来，研究人员将机器人困在笼子里，让老鼠有机会通过按下杠杆来释放它们。在每项 18 项试验中，活体老鼠释放社交机器人的可能性平均比非社交老鼠高出 52%。奎因说，这表明老鼠将社交机器人视为真正的社交存在。老鼠可能与社交机器人有更多的联系，因为它表现出公共探索和玩耍等行为。她说，这可能会让老鼠更好地记住早些时候释放了它，并希望机器人在它们被困时回报它。"
+            },
+            {
+              "en": "\"Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity where a rat will help another rat that has previously helped them,\" says Quinn.",
+              "zh": "奎因说：“老鼠已被证明会参与多种形式的互惠帮助和合作，包括所谓的直接互惠，即一只老鼠会帮助另一只曾经帮助过它们的老鼠。”"
+            },
+            {
+              "en": "The readiness of the rats to befriend the social robot was surprising given its minimal design.The robot was the same size as a regular rat but resembled a simple plastic box on wheels. \" We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary, \" says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+              "zh": "考虑到其最小的设计，老鼠愿意与社交机器人成为朋友的行为令人惊讶。该机器人与普通老鼠大小相同，但类似于一个带轮子的简单塑料盒。帮助这项研究的澳大利亚昆士兰大学的珍妮特·威尔斯说：“我们原以为必须给它一个会动的头和尾巴、面部特征，并在上面放上一种气味，让它闻起来像一只真正的老鼠，但那是没有必要的。”"
+            },
+            {
+              "en": "The finding shows how sensitive rats are to social cues, even when they come from basic robots. says Wiles. Similarly, children tend to treat robots as if they are fellow beings, even when they display only simple social signals. \"We humans seem to be fascinated by robots, and it turns out other animals are too,\" says Wiles.",
+              "zh": "这一发现表明，老鼠对社交线索非常敏感，即使这些线索来自基本的机器人。怀尔斯说。同样，孩子们倾向于将机器人视为同胞，即使它们只显示简单的社交信号。 “我们人类似乎对机器人着迷，事实证明其他动物也是如此，”怀尔斯说。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "Quinn and her colleagues conducted a test to see if rats can ________",
+              "options": [
+                "pick up social signals from non-living rats",
+                "distinguish a friendly rat from a hostile one",
+                "attain sociable traits through special training",
+                "send out warning messages to their fellows"
+              ]
+            },
+            {
+              "number": 22,
+              "text": "What did the asocial robot do during the experiment? ________",
+              "options": [
+                "It followed the social robot.",
+                "It played with some toys.",
+                "It set the trapped rats free.",
+                "It moved around alone."
+              ]
+            },
+            {
+              "number": 25,
+              "text": "It can be learned from the text that rats ________",
+              "options": [
+                "appear to be adaptable to new surroundings",
+                "are more socially active than other animals",
+                "behave differently from children in socializing",
+                "are more sensitive to social cues than expected"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2020-en2-text2",
+          "year": 2020,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "It is true that CEO pay has gone up-top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%. The typical CEO of a top American corporation now makes about $18.9 million a year.",
+              "zh": "诚然，首席执行官的薪酬已经上涨，最高层的首席执行官的平均薪酬可能是普通员工的 300 倍，而且自 20 世纪 70 年代中期以来，美国大型上市公司的首席执行官薪酬根据不同的估计，上涨了约 500%。美国顶级公司首席执行官的典型年薪约为 1890 万美元。"
+            },
+            {
+              "en": "The best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly. The efforts of America' s highest-earning 1% have been one of the more dynamic elements of the global economy. It's not popular to say. but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U.S. economy.",
+              "zh": "理解首席执行官薪酬增长的最佳模型是在顶级公司的商业机会快速增长的世界中有限的首席执行官人才。美国收入最高的 1% 人口的努力已成为全球经济中最具活力的因素之一。不流行说。但他们的薪酬大幅上涨的原因之一是，相对于美国经济中的许多其他工人，首席执行官确实提高了自己的水平。"
+            },
+            {
+              "en": "Today' s CEO, at least for major American firms, must have many mere skills than simply being able to \"run the company.\" CEOs must have a good sense of financial markets and maybe even how the company should trade in them . They also need better public relations skills than their predecessors, as the costs of even a minor slipup can be significant. Then there's the fact that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries. To lead in that system requires knowled ge that is fairly mind-boggling. Plus, virtually all major American companies are becoming tech companies, one way or another. Beyond this, major CEOs still have to do all the day-to-day work they have always done.",
+              "zh": "今天的首席执行官，至少对于美国大公司来说，必须具备许多技能，而不仅仅是能够“经营公司”。首席执行官必须对金融市场有良好的了解，甚至可能对公司应该如何在金融市场进行交易有很好的了解。他们还需要比前任更好的公共关系技能，因为即使是很小的失误也会造成巨大的损失。此外，美国大公司的全球化程度比以往任何时候都要高得多，供应链遍布更多国家。领导这个系统需要相当令人难以置信的知识。此外，几乎所有美国大公司都以某种方式成为科技公司。除此之外，主要首席执行官仍然必须做他们一直在做的所有日常工作。"
+            },
+            {
+              "en": "The common idea that high CEO pay is mainly about ripping people off doesn't explain history very well. By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s. Yet it is principally during this period of stronger governance that CEO pay has been high and rising. That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs.",
+              "zh": "人们普遍认为首席执行官的高薪主要是为了敲诈别人的钱，但这并不能很好地解释历史。从大多数标准来看，自 20 世纪 70 年代以来，公司治理变得更加严格和严格。然而，主要是在治理更加强有力的时期，首席执行官的薪酬一直很高，而且还在不断上涨。这表明，招聘顶尖候选人来应对日益艰巨的工作符合更广泛的企业利益。"
+            },
+            {
+              "en": "Furthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks, another sign that high CEO pay is not some kind of depredation at the expense of the rest of the company. And the stock market reacts positively when companies tie CEO pay to, say, stock prices, a sign that those practices build up corporate value not just for the CEO.",
+              "zh": "此外，最高的首席执行官薪酬是支付给外部候选人的，而不是舒适的内部人选，这另一个迹象表明，高额首席执行官薪酬并不是以牺牲公司其他部门为代价的某种掠夺。当公司将首席执行官的薪酬与股票价格挂钩时，股市会做出积极反应，这表明这些做法不仅为首席执行官创造了公司价值。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "Which of the following has contributed to CEO pay rise? ________",
+              "options": [
+                "The growth in the number of corporations.",
+                "The general pay rise with a better economy.",
+                "Increased business opportunities for top firms.",
+                "Close cooperation among leading economies."
+              ]
+            },
+            {
+              "number": 27,
+              "text": "Compared with their predecessors, today' s CEOs are required to ________",
+              "options": [
+                "foster a stronger sense of teamwork",
+                "finance more research and development",
+                "establish closer ties with tech companies",
+                "operate more globalized companies"
+              ]
+            },
+            {
+              "number": 28,
+              "text": "CEO pay has been rising since the 1970s despite ________",
+              "options": [
+                "continual internal opposition",
+                "strict corporate governance",
+                "conservative business strategies",
+                "repeated government warnings"
+              ]
+            },
+            {
+              "number": 29,
+              "text": "High CEO pay can be justified by the fact that it helps ________",
+              "options": [
+                "confirm the status of CEOs",
+                "motive inside candidates",
+                "boost the efficiency of CEOs",
+                "increase corporate value"
+              ]
+            },
+            {
+              "number": 30,
+              "text": "The most suitable title for this text would be ________",
+              "options": [
+                "CEOs Are Not Overpaid",
+                "CEO Pay: Past and Present",
+                "CEOs' Challenges of Today",
+                "CEO Traits: Not Easy to Define"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2020-en2-text3",
+          "year": 2020,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "Madrid was hailed as a public health beacon last November when it rolled out ambitious restrictions on the most polluting cars. Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible demise.",
+              "zh": "去年11月，马德里对污染最严重的汽车实施了雄心勃勃的限制，被誉为公共卫生灯塔。七个月和一个选举日后，新的保守派市议会暂停了清洁空气区的执法，这是其可能消亡的第一步。"
+            },
+            {
+              "en": "Mayor Jose Luis Martinez-Almeida made opposition to the zone a centrepiece of his election campaign, despite its success in improving air quality. A judge has now overruled the city's decision to stop levying fines, ordering them reinstated. But with legal battles ahead, the zone's future looks uncertain at best.",
+              "zh": "市长何塞·路易斯·马丁内斯-阿尔梅达将反对该区域作为其竞选活动的核心内容，尽管该区域在改善空气质量方面取得了成功。一名法官现已驳回该市停止征收罚款的决定，并下令恢复罚款。但随着未来的法律斗争，该地区的未来充其量也充满不确定性。"
+            },
+            {
+              "en": "Among other weaknesses, the measures cities must employ when left to tackle dirty air on their own are politically contentious, and therefore vulnerable. That's because they inevitably put the costs of cleaning the air on to individual drivers — who must pay fees or buy better vehicles — rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+              "zh": "除其他弱点外，城市在自行解决空气污染问题时必须采取的措施在政治上存在争议，因此很脆弱。这是因为他们不可避免地将清洁空气的成本转嫁给了个别司机——他们必须支付费用或购买更好的车辆——而不是转嫁给汽车制造商，而汽车制造商的作弊行为是我们有毒污染的真正原因。"
+            },
+            {
+              "en": "It's not hard to imagine a similar reversal happening in London. The new ultra-low emission zone (Ulez) is likely to be a big issue in next year's mayoral election. And if Sadiq khan wins and extends it to the North and South Circular roads in 2021 as he intends, it is sure to spark intense opposition from the far larger number of motorists who will then be affected.",
+              "zh": "不难想象伦敦也会发生类似的逆转。新的超低排放区（Ulez）很可能成为明年市长选举的一个大问题。如果萨迪克·汗获胜并按照他的意愿在 2021 年将其扩展到南北环路，肯定会引发更多驾车者的强烈反对，届时他们将受到影响。"
+            },
+            {
+              "en": "It's not that measures such as London's Ulez are useless. Far from it. Local officials are using the levers that are available to them to safeguard residents' health in the face of a serious threat. The zones do deliver some improvements to air quality, and the science tells us that means real health benefits — fewer heart attacks, strokes and premature births, less cancer, dementia and asthma. Fewer untimely deaths.",
+              "zh": "这并不是说伦敦乌勒兹等措施毫无用处。远非如此。面对严重威胁，地方官员正在利用可用的手段来保护居民的健康。这些区域确实改善了空气质量，科学告诉我们，这意味着真正的健康益处——减少心脏病、中风和早产，减少癌症、痴呆和哮喘。较少的过早死亡。"
+            },
+            {
+              "en": "But mayors and councilors can only do so much about a problem that is far bigger than any one city or town. They are acting because national governments — Britain's and others across Europe—have failed to do so.",
+              "zh": "但市长和议员们对于这个比任何一个城市或城镇都严重得多的问题只能做这么多。他们之所以采取行动，是因为各国政府——英国和欧洲其他国家的政府——未能这样做。"
+            },
+            {
+              "en": "Restrictions that keep highly polluting cars out of certain areas — city centres, \"school streets\", even individual roads — are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance. Wales has introduced special low speed limits to minimise pollution. We're doing everything but insist that manufacturers clean up their cars.",
+              "zh": "限制高污染汽车进入某些地区——城市中心、“学校街道”，甚至个别道路——是对缺乏更大力度正确执行现有法规并要求汽车公司使其车辆合规的回应。威尔士实行了特殊的低速限制，以尽量减少污染。我们正在尽一切努力，但坚持要求制造商清理他们的汽车。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "Which of the following is true about Madrid's clean air zone? ________",
+              "options": [
+                "Its effects are questionable.",
+                "It has been opposed by a judge.",
+                "It needs tougher enforcement.",
+                "Its fate is yet to be decided."
+              ]
+            },
+            {
+              "number": 32,
+              "text": "Which is considered a weakness of the city-level measures to tackle dirty air? ________",
+              "options": [
+                "They are biased against car manufacturers.",
+                "They prove impractical for city councils.",
+                "They are deemed too mild for politicians.",
+                "They put too much burden on individual motorists."
+              ]
+            },
+            {
+              "number": 33,
+              "text": "The author believes that the extension of London's Ulez will ________",
+              "options": [
+                "arouse strong resistance",
+                "ensure Khan's electoral success",
+                "improve the city's traffic",
+                "discourage car manufacturing"
+              ]
+            },
+            {
+              "number": 34,
+              "text": "Who does the author think should have addressed the problem? ________",
+              "options": [
+                "Local residents",
+                "Mayors.",
+                "Councilors.",
+                "National governments."
+              ]
+            },
+            {
+              "number": 35,
+              "text": "It can be inferred from the last paragraph that auto companies ________",
+              "options": [
+                "will raise low-emission car production",
+                "should be forced to follow regulations",
+                "will upgrade the design of their vehicles",
+                "should be put under public supervision"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2020-en2-text4",
+          "year": 2020,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "Now that members of Generation Z are graduating college this spring—the most commonly-accepted definition says this generation was born after 1995, give or take a year—the attention has been rising steadily in recent weeks. Gen Zs are about to hit the streets looking for work in a labor market that's tighter than it's been in decades. And employers are planning on hiring about 17 percent more new graduates for jobs in the U.S. this year than last, according to a survey conducted by the National Association of Colleges and Employers. Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them.",
+              "zh": "现在，Z 世代的成员将于今年春天大学毕业——最普遍接受的定义是这一代人出生在 1995 年之后，大约一年左右——最近几周，人们的关注度一直在稳步上升。 Z 世代即将走上街头，在比几十年来更加紧张的劳动力市场中寻找工作。根据全国大学和雇主协会进行的一项调查，今年雇主计划在美国雇用的应届毕业生比去年增加约 17%。每个人都想知道即将入住这些空办公室隔间的人们与之前的人们有何不同。"
+            },
+            {
+              "en": "If \"entitled\" is the most conon adjective, fairly or not, applied to millennials (those born between 1981 and 1995), the catchwords for Generation Z are practical and cautious. According to the career counselors and experts who study them, Generation Zs are clear-eyed, economic pragmatists. Despite graduating into the best economy in the past 50 years, Gen Zs know what an economic train wreck looks like. They were impressionable kids during the crash of 2008, when many of their parents lost their jobs or their life savings or both. They aren't interested in taking any chances. The booming economy seems to have done little to assuage this underlying generational sense of anxious urgency, especially for those who have college debt. College loan balances in the U.S. now stand at a record $1.5 trillion, according to the Federal Reserve.",
+              "zh": "如果“有权利”是最适合千禧一代（1981 年至 1995 年出生的人）的形容词，无论公平与否，那么 Z 世代的口号就是务实和谨慎。根据职业顾问和研究他们的专家的说法，Z 一代是头脑清醒的经济实用主义者。尽管 Z 世代已经进入了过去 50 年来最好的经济体，但他们知道经济列车失事是什么样子。在 2008 年经济危机期间，他们是易受影响的孩子，当时他们的许多父母失去了工作或毕生积蓄，或两者兼而有之。他们没有兴趣冒险。蓬勃发展的经济似乎并没有缓解这一代人潜在的焦虑感，特别是对于那些背负大学债务的人来说。根据美联储的数据，美国的大学贷款余额目前达到创纪录的 1.5 万亿美元。"
+            },
+            {
+              "en": "One survey from Accenture found that 88 percent of graduating seniors this year chose their major with a job in mind. In a 2019 survey of University of Georgia students, meanwhile, the career office found the most desirable trait in a future employer was the ability to offer secure employment (followed by professional development and training, and then inspiring purpose). Job security or stability was the second most important career goal(work-life balance was number one), followed by a sense of being dedicated to a cause or to feel good about serving the greater good.",
+              "zh": "埃森哲的一项调查发现，今年 88% 的应届毕业生在选择专业时就考虑到了工作。与此同时，在 2019 年对佐治亚大学学生的一项调查中，职业办公室发现，未来雇主最理想的特质是提供稳定就业的能力（其次是专业发展和培训，然后是鼓舞人心的目标）。工作保障或稳定是第二重要的职业目标（工作与生活的平衡是第一位的），其次是致力于一项事业的感觉或为更大的利益服务的感觉。"
+            },
+            {
+              "en": "That's a big change from the previous generation. \"Millennials wanted more flexibility in their lives,\" notes Tanya Michelsen, Associate Director of YouthSight, a UK-based brand manager that conducts .regular 60-day surveys of British youth, in findings that might just as well apply to American youth. \"Generation Zs are looking for more certainty and stability, because of the rise of the gig economy. They have troubles seeing a financial future and they are quite risk averse.\"",
+              "zh": "与上一代相比，这是一个很大的变化。 “千禧一代希望生活更加灵活”，YouthSight 的副总监 Tanya Michelsen 指出。YouthSight 是一家总部位于英国的品牌管理公司，对英国年轻人进行定期 60 天的调查，调查结果也可能适用于美国年轻人。 “由于零工经济的兴起，Z 一代正在寻求更多的确定性和稳定性。他们很难看到财务未来，而且非常厌恶风险。”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "text": "Generation Zs graduating college this spring ________",
+              "options": [
+                "are recognized for their abilities",
+                "are optimistic about the labor market",
+                "are in favor of office job offers",
+                "are drawing growing public attention"
+              ]
+            },
+            {
+              "number": 37,
+              "text": "Generation Zs are keenly aware ________",
+              "options": [
+                "what their parents expect of them",
+                "how valuable a counselor's advice is",
+                "what a tough economic situation is like",
+                "how they differ from past generations"
+              ]
+            },
+            {
+              "number": 38,
+              "text": "The word \"assuage\"(line 9, para. 2) is closet in meaning to ________",
+              "options": [
+                "deepen",
+                "define",
+                "maintain",
+                "relieve"
+              ]
+            },
+            {
+              "number": 39,
+              "text": "It can be learned from Paragraph 3 that Generation Zs— ________",
+              "options": [
+                "give top priority to professional training",
+                "have a clear idea about their future job",
+                "care little about their job performance",
+                "think it hard to achieve work-life balance"
+              ]
+            },
+            {
+              "number": 40,
+              "text": "Michelsen thinks that compared with millennials, Generation Zs are ________",
+              "options": [
+                "less realistic",
+                "less adventurous",
+                "more diligent",
+                "more generous"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}

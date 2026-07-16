@@ -1,6 +1,6 @@
 # 考研英语阅读
 
-左英右中对照，点击单词自动查 ECDICT 释义，中文可隐藏。
+左英右中对照，单击查词，双击标记生词，中文可隐藏。
 
 ## 启动
 
@@ -12,46 +12,33 @@ npm run dev
 
 打开 http://localhost:5173
 
-## 批量导入年份（2011–2025）
+## 数据说明
 
-阅读数据按年存放在 `src/data/years/{年份}/english-2.json`。新增或更新某年：
+阅读原文来自考场版 PDF（[Fantasia1999/kaoyanzhenti](https://github.com/Fantasia1999/kaoyanzhenti)），按**真实段落**切分，不是按句子硬切。目前收录 **2011–2025 英语二** 全部阅读 Part A。
 
-```bash
-# 导入全部年份（抓取真题 + 机翻中文，约 15–30 分钟）
-npm run import:years
-
-# 只导入指定年
-node scripts/import-years.mjs 2014 2015
-
-# 只抓英文和题目，不翻译（快）
-npm run import:years:en
-```
-
-数据来源 URL 配置在 `scripts/manifest.json`。解析逻辑在 `scripts/lib/parse-reading.mjs`，以后要改抓取规则只动这里。
-
-2013 年是手搓校对版（质量更好），其余年份由导入脚本自动生成。
-
-## 部署（Vercel）
+## 批量导入 / 更新
 
 ```bash
-npm run build
-npx vercel --prod
+# 从 scripts/pdfs/ 下的 PDF 重新提取 + 翻译（推荐）
+npm run import:pdf
+
+# 只提取英文和题目，不翻译
+npm run import:pdf:en
+
+# 指定年份
+node scripts/import-from-pdf.mjs 2011 2015 2021
 ```
 
-线上查词走 `/api/dict`（Free Dictionary + 机翻），本地 `npm run dev` 仍用 ECDICT 全量词典。
+PDF 放到 `scripts/pdfs/{年}年考研英语二真题.pdf`。个别年份（如 2021）PDF 扫描质量差时，脚本会自动回退到网页源。
 
 ## 查词
 
-`npm run dev` 会同时启动网页 + ECDICT 本地词典（约 77 万词）。查过的词缓存在浏览器 localStorage。
+`npm run dev` 同时启动网页 + ECDICT 本地词典。线上 Vercel 使用 `/api/dict` 轻量查词。
 
-## 目录结构
+## 部署
 
+```bash
+npx vercel --prod --scope hwy11s-projects
 ```
-src/data/years/
-  2011/english-2.json
-  2012/english-2.json
-  ...
-scripts/
-  manifest.json      # 各年真题网页地址
-  import-years.mjs   # 批量导入入口
-```
+
+生产地址：https://kaoyan-reading.vercel.app

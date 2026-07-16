@@ -1,0 +1,347 @@
+{
+  "year": 2017,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2017-en2-text1",
+          "year": 2017,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "Every Saturday morning, at 9 am, more than 50,000 runners set off to run 5km around their local p ark. The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad. Events are free, staffed by thousands of volunteers. Runners range from four years old to grandparents; their times range from Andrew Baddeley's world record 13 minutes 48 seconds up to an hour.",
+              "zh": "每周六早上 9 点，超过 50,000 名跑步者出发，围绕当地公园跑 5 公里。 Parkrun 现象始于十几个朋友，并启发了英国和其他国家举办的 400 场活动。活动是免费的，有数千名志愿者。跑步者的年龄范围从四岁到祖父母；他们的时间范围从安德鲁·巴德利的世界纪录 13 分 48 秒到 1 小时不等。"
+            },
+            {
+              "en": "Parkrun is succeeding where London's Olympic \"legacy\" is failing. Ten years ago on Monday, it was announced that the Games of the 30th Olympiad would be in London. Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches. The population would be fitter, healthier and produce more winners. It has not happened. The number of adults doing weekly sport did rise, by nearly 2 million in the run-up to 2012 - but the general population was growing faster. Worse, the numbers are now falling at an accelerating rate. The opposition claims primary school pupils doing at least two hours of sport a week have nearly halved. Obesity has risen among adults and children. Official retrospections continue as to why London 2012 failed to \"insp ire a generation.\" The success of Parkrun offers answers.",
+              "zh": "帕克伦在伦敦奥运会“遗产”失败的地方取得了成功。十年前的周一，宣布第 30 届奥运会将在伦敦举行。规划文件承诺，奥运会的伟大遗产将是让全国的体育爱好者远离沙发。人口将会变得更健康、更健康，并产生更多的赢家。但它并没有发生。每周参加体育运动的成年人数量确实有所增加，到 2012 年为止增加了近 200 万，但总人口增长得更快。更糟糕的是，这个数字现在正在加速下降。反对派声称，小学生每周至少进行两小时体育运动的人数几乎减少了一半。成人和儿童的肥胖率有所上升。官方仍在继续反思为什么 2012 年伦敦奥运会未能“激励一代人”。 Parkrun 的成功提供了答案。"
+            },
+            {
+              "en": "Parkun is not a race but a time trial: Your only competitor is the clock. The ethos welcomes anybody. There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining. The Olymp ic bidders, by contrast, wanted to get more people doing sport and to produce more elite athletes. The dual aim was mixed up : The stress on success over taking part was intimidating for newcomers.",
+              "zh": "Parkun 不是一场比赛，而是一场计时赛：你唯一的竞争对手是时钟。这种精神欢迎任何人。一个趾高气扬的新手被冲过终点线的喜悦与顶尖人才闪耀的喜悦一样多。相比之下，奥运会申办者希望让更多的人参与体育运动并培养更多的精英运动员。双重目标是混合在一起的：对成功的压力超过了参与的压力，这让新来者感到害怕。"
+            },
+            {
+              "en": "Indeed, there is something a little absurd in the state getting involved in the p lanning of such a fundamentally \"grassroots\" concept as community sports associations. If there is a role for government, it should really be getting involved in — making sure there is s ace for la ing fields and the p roviding common goods p p y money to pave tennis and netball courts, and encouraging the provision of all these activities in schools. But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education. Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive. Or at least not make them worse.",
+              "zh": "确实，国家参与社区体育协会这样一个“草根”概念的规划，确实有些荒唐。如果政府能发挥作用，它确实应该参与其中——确保有足够的空间铺设场地，提供公共物品资金来铺设网球场和无挡板篮球场，并鼓励在学校提供所有这些活动。但历届政府都在主持出售绿地、挤压地方当局的资金以及减少教育中对体育的关注。未来的政府需要做更多的事情来为体育运动的蓬勃发展提供条件，而不是冗长而有价值的策略。或者至少不会让事情变得更糟。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "According to Paragraph 1, Parkrun has ________",
+              "options": [
+                "gained great popularity",
+                "created many jobs",
+                "strengthened community ties",
+                "become an official festival"
+              ]
+            },
+            {
+              "number": 22,
+              "text": "The author believes that London's Olympic \"legacy\" has failed to ________",
+              "options": [
+                "boost population growth",
+                "promote sport participation",
+                "improve the city's image",
+                "increase sport hours in schools"
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Parkrun is different from Olympic games in that it ________",
+              "options": [
+                "aims at discovering talents",
+                "focuses on mass competition",
+                "does not emphasize elitism",
+                "does not attract first-timers"
+              ]
+            },
+            {
+              "number": 24,
+              "text": "With regard to mass sports, the author holds that governments should ________",
+              "options": [
+                "organize \"grassroots\" sports events",
+                "supervise local sports associations",
+                "increase funds for sports clubs",
+                "invest in public sports facilities"
+              ]
+            },
+            {
+              "number": 25,
+              "text": "The author's attitude to what UK governments have done for sports is ________",
+              "options": [
+                "tolerant",
+                "critical",
+                "uncertam",
+                "sympathetic"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2017-en2-text2",
+          "year": 2017,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "With so much focus on children's use of screens, it's easy for parents to forget about their own screen use. \"Tech is designed to really suck you in,\" says Jenny Radesky in her study of digital play, \"and digital products are there to promote maximal engagement. It makes it hard to disengage, and leads to a lot of bleed-over into the family routine.\"",
+              "zh": "由于如此关注孩子对屏幕的使用，父母很容易忘记自己的屏幕使用情况。珍妮·拉德斯基（Jenny Radesky）在研究数字游戏时表示：“科技的设计就是为了真正吸引你，而数字产品的目的是促进最大程度的参与。它让人很难脱离，并导致很多家庭日常生活的影响。”"
+            },
+            {
+              "en": "Radesky has studied the use of mobile phones and tablets at mealtimes by giving mother-child pairs a food-testing exercise. She found that mothers who used devices during the exercise started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children. During a separate observation, she saw that phones became a source of tension in the family. Parents would be looking at their emails while the children would be making excited bids for their attention.",
+              "zh": "拉德斯基通过让母子进行食物测试练习，研究了进餐时手机和平板电脑的使用情况。她发现，在锻炼期间使用设备的母亲与孩子的言语互动减少了 20%，非言语互动减少了 39%。在另一次观察中，她发现手机成为家庭紧张的根源。父母会查看他们的电子邮件，而孩子们会兴奋地吸引他们的注意力。"
+            },
+            {
+              "en": "Infants are wired to look at parents' faces to try to understand their world, and if those faces are blank and unresponsive - as they often are when absorbed in a device — it can be extremely disconcerting for the children. Radesky cites the \"still face experiment\" devised by developmental psychologist Ed Tronick in the 1970s. In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback: The child becomes increasingly distressed as she tries to capture her mother's attention. \"Parents don't have to be exquisitely present at all times, but there needs to be a balance and parents need to be responsive and sensitive to a child's verbal or nonverbal expressions of an emotional need,\" says Radesky.",
+              "zh": "婴儿天生会看着父母的脸来试图了解他们的世界，如果父母的脸一片空白且毫无反应——就像他们全神贯注于某个设备时经常出现的情况一样——这可能会让孩子们感到非常不安。 Radesky 引用了发展心理学家 Ed Tronick 在 20 世纪 70 年代设计的“静止面孔实验”。其中，母亲被要求以正常方式与孩子互动，然后表现出茫然的表情，不给他们任何视觉社交反馈：当孩子试图吸引母亲的注意力时，她变得越来越痛苦。拉德斯基说：“父母不必始终在场，但需要保持平衡，父母需要对孩子表达情感需求的语言或非语言表达做出反应并保持敏感。”"
+            },
+            {
+              "en": "On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\" Tronick believes that just because a child isn't learning from the screen doesn't mean there's no value to it — particularly if it gives parents time to have a shower, do housework or simply have a break from their child. Parents, he says, can get a lot out of using their devices to speak to a friend or get some work out of the way. This can make them feel happier, which lets them be more available to their child the rest of the time.",
+              "zh": "另一方面，特罗尼克本人担心，对孩子使用屏幕的担忧源于一种“压迫性意识形态，要求父母始终与孩子互动”：“这是基于一种有点幻想的、非常白人、非常中上层阶级的意识形态，如果你不能让你的孩子接触 30,000 个单词，你就是在忽视他们。”特罗尼克认为，孩子没有从屏幕上学习并不意味着它没有价值——特别是如果它让父母有时间洗澡、做家务或只是离开孩子休息一下。他说，父母可以通过使用他们的设备与朋友交谈或完成一些工作来获得很多好处。这可以让他们感到更快乐，让他们在剩下的时间里能够更多地陪伴孩子。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "According to Jenny Radesky, digital products are designed to ________",
+              "options": [
+                "simplify routine matters",
+                "absorb user attention",
+                "better interpersonal relations",
+                "increase work efficiency"
+              ]
+            },
+            {
+              "number": 27,
+              "text": "Radesky's food-testing exercise shows that mothers'use of devices ________",
+              "options": [
+                "takes away babies'appetite",
+                "distracts children's attention",
+                "slows down babies' verbal development",
+                "reduces mother-child communication"
+              ]
+            },
+            {
+              "number": 28,
+              "text": "Radesky cites the \"still face experiment\" to show that ________",
+              "options": [
+                "it is easy for children to get used to blank expressions",
+                "verbal expressions are unnecessary for emotional exchange",
+                "children are insensitive to changes in their parents'mood",
+                "parents need to respond to children's emotional needs"
+              ]
+            },
+            {
+              "number": 29,
+              "text": "The oppressive ideology mentioned by Tronick requires parents to ________",
+              "options": [
+                "protect kids from exposure to wild fantasies",
+                "teach their kids at least 30,000 words a year",
+                "ensure constant interaction with their children",
+                "remain concerned about kids' use of screens"
+              ]
+            },
+            {
+              "number": 30,
+              "text": "According to Tronick, kids' use ofscreens may ________",
+              "options": [
+                "give their parents some free time",
+                "make their parents more creative",
+                "help them with their homework",
+                "help them become more attentive"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2017-en2-text3",
+          "year": 2017,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "Today, widespread social pressure to immediately go to college in conjunction with increasingly high expectations in a fast-moving world often causes students to completely overlook the possibility of taking a gap year. After all, if everyone you know is going to college in the fall, it seems silly to stay back a year, doesn't it? And after going to school for 12 years, it doesn't feel natural to spend a year doing something that isn't academic.",
+              "zh": "如今，立即上大学的普遍社会压力，加上快速变化的世界中越来越高的期望，常常导致学生完全忽视休学一年的可能性。毕竟，如果你认识的每个人都将在秋季上大学，那么留级一年似乎很愚蠢，不是吗？在上学 12 年之后，花一年时间做一些与学术无关的事情感觉很不自然。"
+            },
+            {
+              "en": "But while this may be true, it's not a good enough reason to condemn gap years. There's always a constant fear of falling behind everyone else on the socially perpetuated \"race to the finish line,\" whether that be toward graduate school, medical school or a lucrative career. But despite common misconceptions, a gap year does not hinder the success of academic pursuits - in fact, it probably enhances it.",
+              "zh": "尽管这可能是真的，但这还不足以成为谴责间隔年的理由。人们总是担心在社会上持续存在的“冲向终点线”的竞赛中落后于其他人，无论是进入研究生院、医学院还是利润丰厚的职业。但尽管存在常见的误解，间隔年并不会阻碍学术追求的成功——事实上，它可能会增强学术追求的成功。"
+            },
+            {
+              "en": "Studies from the United States and Australia show that students who take a gap year are g enerally better prepared for and perform better in colleg e than those who do not. Rather than pullin g students back, a gap year pushes them ahead by preparin g them for independence, new responsibilities and environmental changes — all thin g s that first-year students often struggle with the most. Gap year experiences can lessen the blow when it comes to adjusting to college and being thrown into a brand new environment, making it easier to focus on academics and activities rather than acclimation blunders.",
+              "zh": "美国和澳大利亚的研究表明，参加间隔年的学生通常比不参加间隔年的学生为大学做好更好的准备，并且在大学中表现更好。间隔年并没有让学生退缩，而是通过让他们为独立、新的责任和环境变化做好准备来推动他们前进——所有这些都是一年级学生最常遇到的困难。间隔年的经历可以减轻适应大学和进入全新环境时的打击，让你更容易专注于学业和活动，而不是适应环境的错误。"
+            },
+            {
+              "en": "If you're not convinced of the inherent value in taking a year off to explore interests, then consider its financial impact on future academic choices. According to the National Center for Education Statistics, nearly 80 percent of college students end up changing their majors at least once. This isn't surprising, considering the basic mandatory high school curriculum leaves students with a poor understanding of the vast academic possibilities that await them in college. Many students find themselves listing one major on their college applications, but switching to another after taking college classes. It's not necessarily a bad thing, but depending on the school, it can be costly to make up credits after switching too late in the game. At Boston College, for example, you would have to complete an extra year were you to switch to the nursing school from another department. Taking a gap year to figure things out initially can help prevent stress and save money later on.",
+              "zh": "如果您不相信休息一年来探索兴趣的内在价值，那么请考虑一下它对未来学术选择的财务影响。根据国家教育统计中心的数据，近80%的大学生最终至少换过一次专业。这并不奇怪，因为基本的高中必修课程让学生对大学里等待着他们的巨大学术可能性知之甚少。许多学生发现自己在大学申请中列出了一个专业，但在上完大学课程后却转向了另一个专业。这不一定是坏事，但根据学校的不同，在游戏中转得太晚后弥补学分的成本可能会很高。例如，在波士顿学院，如果您从其他院系转到护理学院，则必须额外完成一年的学习。最初利用间隔年来解决问题可以帮助防止压力并在以后节省金钱。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "One of the reasons for high-school graduates not taking a gap year is that ________",
+              "options": [
+                "they think it academically misleading",
+                "they have a lot of fun to expect in college",
+                "it feels strange to do differently from others",
+                "it seems worthless to take off-campus courses"
+              ]
+            },
+            {
+              "number": 32,
+              "text": "Studies from the US and Australia imply that taking a gap year helps ________",
+              "options": [
+                "keep students from being unrealistic",
+                "lower risks in choosing careers",
+                "ease freshmen's financial burdens",
+                "relieve freshmen of pressures"
+              ]
+            },
+            {
+              "number": 33,
+              "text": "The word \"acclimation\" (Para. 3) is closest in meaning to ________",
+              "options": [
+                "adaptation",
+                "application",
+                "motlvat10n",
+                "competition"
+              ]
+            },
+            {
+              "number": 34,
+              "text": "A gap year may save money for students by helping them ________",
+              "options": [
+                "avoid academic failures",
+                "establish long-term goals",
+                "switch to another college",
+                "decide on the right major"
+              ]
+            },
+            {
+              "number": 35,
+              "text": "The most suitable title for this text would be ________",
+              "options": [
+                "In Favor of the Gap Year",
+                "The ABCs of the Gap Year",
+                "The Gap Year Comes Back",
+                "The Gap Year: ADilemma"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2017-en2-text4",
+          "year": 2017,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "Though often viewed as a problem for western states, the growing frequency of wildfires is a national concern because of its impact on federal tax dollars, says Professor Max Moritz, a specialist in fire ecology and management.",
+              "zh": "火灾生态和管理专家马克斯·莫里茨教授表示，尽管野火经常被视为西部各州的一个问题，但由于其对联邦税收的影响，野火的日益频繁也成为了全国关注的问题。"
+            },
+            {
+              "en": "In 2015, the US Forest Service for the first time spent more than half of its $5.5 billion annual budget fighting fires - nearly double the percentage it spent on such efforts 20 years ago. In effect, fewer federal funds today are going towards the agency's other work - such as forest conservation, watershed and cultural resources management, and infrastructure upkeep — that affect the lives of all Americans.",
+              "zh": "2015 年，美国林务局首次将其 55 亿美元年度预算的一半以上用于扑灭火灾，几乎是 20 年前的两倍。实际上，如今用于该机构影响所有美国人生活的其他工作（例如森林保护、流域和文化资源管理以及基础设施维护）的联邦资金减少了。"
+            },
+            {
+              "en": "Another nationwide concern is whether public funds from other agencies are going into construction in fire-prone districts. As Moritz puts it, how often are federal dollars building homes that are likely to be lost to a wildfire?",
+              "zh": "另一个全国性的担忧是其他机构的公共资金是否用于火灾多发地区的建设。正如莫里茨所说，联邦资金建造的房屋有多少可能被野火烧毁？"
+            },
+            {
+              "en": "\"It's already a huge problem from a public expenditure perspective for the whole country,\" he says. \"We need to take a magnifying glass to that. Like, 'Wait a minute, is this OK?' Do we want instead to redirect those funds to concentrate on lower-hazard parts of the landscape?\"",
+              "zh": "“从整个国家公共支出的角度来看，这已经是一个巨大的问题，”他说。 “我们需要用放大镜来观察这一点。比如，‘等一下，这样可以吗？’我们是否想将这些资金重新集中在风险较低的地区？”"
+            },
+            {
+              "en": "Such a view would require a corresponding shift in the way US society today views fire, researchers say.",
+              "zh": "研究人员表示，这种观点需要当今美国社会对火灾的看法发生相应的转变。"
+            },
+            {
+              "en": "For one thing, conversations about wildfires need to be more inclusive. Over the past decade, the focus has been on climate change — how the warming of the Earth from greeouse gases is leading to conditions that worsen fires.",
+              "zh": "一方面，有关野火的对话需要更具包容性。在过去的十年里，人们关注的焦点一直是气候变化——温室气体导致的地球变暖如何导致火灾恶化。"
+            },
+            {
+              "en": "While climate is a key element, Moritz says, it shouldn't come at the expense of the rest of the equation.",
+              "zh": "莫里茨说，虽然气候是一个关键因素，但它不应该以牺牲其余因素为代价。"
+            },
+            {
+              "en": "\"The human systems and the landscapes we live on are linked, and the interactions go both ways,\" he says. Failing to recognize that, he notes, leads to \"an overly simplified view of what the solutions might be. Our perception of the problem and of what the solution is becomes very limited.\"",
+              "zh": "“人类系统和我们赖以生存的景观是相互联系的，而且相互作用是双向的，”他说。他指出，如果没有认识到这一点，就会导致“对解决方案的看法过于简单化。我们对问题和解决方案的看法变得非常有限。”"
+            },
+            {
+              "en": "At the same time, people continue to treat fire as an event that needs to be wholly controlled and unleashed only out of necessity, says Professor Balch at the University of Colorado. But acknowledging fire's inevitable presence in human life is an attitude crucial to developing the laws, policies, and practices that make it as safe as possible, she says.",
+              "zh": "与此同时，科罗拉多大学的巴尔奇教授表示，人们仍然认为火灾是一种需要完全控制的事件，只有在必要时才会发生火灾。但她表示，承认火灾在人类生活中不可避免的存在对于制定尽可能安全的法律、政策和做法至关重要。"
+            },
+            {
+              "en": "\"We've disconnected ourselves from living with fire,\" Balch says. \"It is really important to understand and try and tease out what is the human connection with fire today.\"",
+              "zh": "“我们已经脱离了与火共存的生活，”巴尔奇说。 “了解并尝试弄清楚当今人类与火的联系非常重要。”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "text": "More frequent wildfires have become a national concern because in 2015 they ________",
+              "options": [
+                "exhausted unprecedented management efforts",
+                "consumed a record-high percentage of budget",
+                "severely damaged the ecology of western states",
+                "caused a huge rise of infrastructure expenditure"
+              ]
+            },
+            {
+              "number": 37,
+              "text": "Moritz calls for the use of \"a magnifying glass\" to ________",
+              "options": [
+                "raise more funds for fire-prone areas",
+                "avoid the redirection of federal money",
+                "find wildfire-free parts of the landscape",
+                "guarantee safer spending of public funds"
+              ]
+            },
+            {
+              "number": 38,
+              "text": "While admitting that climate is a key element, Moritz notes that ________",
+              "options": [
+                "public debates have not settled yet",
+                "fire-fighting conditions are improving",
+                "other factors should not be overlooked",
+                "a shift in the view of fire has taken place"
+              ]
+            },
+            {
+              "number": 39,
+              "text": "The overly simplified view Moritz mentions is a result of failing to ________",
+              "options": [
+                "discover the fundamental makeup of nature",
+                "explore the mechanism of the human systems",
+                "maximize the role of landscape in human life",
+                "understand the interrelat10ns of man and nature"
+              ]
+            },
+            {
+              "number": 40,
+              "text": "Professor Balch points out that fire is something man should ________",
+              "options": [
+                "do away with",
+                "come to terms with",
+                "pay a price for",
+                "keep away from"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}

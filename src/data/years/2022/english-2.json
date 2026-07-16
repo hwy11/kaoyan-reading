@@ -1,0 +1,343 @@
+{
+  "year": 2022,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2022-en2-text1",
+          "year": 2022,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "On a recent sunny day, 13,000 chickens roam over Larry Brown's 40 windswept acres in Shiner, Texas. Some rest in the shade of a parked car. Others drink water with the cows. This all seems random, but it's by design, part of what the $ 6.1 billion U.S. egg industry bets will be its next big thing: climate-friendly eggs.",
+              "zh": "最近一个阳光明媚的日子，13,000 只鸡在拉里·布朗 (Larry Brown) 位于德克萨斯州希纳 (Shiner) 的 40 英亩被风吹拂的土地上漫步。有些人在停放的汽车的阴凉处休息。其他人则与牛一起喝水。这一切看似随机，但却是有意为之，这是价值 61 亿美元的美国鸡蛋行业押注的下一件大事的一部分：气候友好型鸡蛋。"
+            },
+            {
+              "en": "These eggs, which are making their debut now on shelves for as much as $ 8 a dozen, are still labeled organic and animal-friendly, but they're also from birds that live on farms using regenerative agriculture— special techniques to cultivate rich soils that can trap greenhouse gases. Such eggs could be marketed as helping to fight climate change.",
+              "zh": "这些鸡蛋首次亮相货架，售价高达 8 美元一打，仍然贴有有机和动物友好型标签，但它们也来自生活在采用再生农业农场的鸟类，再生农业是一种培育肥沃土壤的特殊技术，可以捕获温室气体。这些鸡蛋可以作为有助于应对气候变化的产品进行营销。"
+            },
+            {
+              "en": "\"I'm excited about our progress,\" says Brown, who harvests eggs for Denver­ based Nest Fresh Eggs and is adding more cover crops that draw worms and crickets for the chickens to eat. The birds' waste then fertilizes fields. Such improvements “allow our hens to forage for higher-quality natural feed that will be good for the land, the hens, and the eggs that we supply to our customers.\" The egg industry's push is the first major test of whether animal products from regenerative farms can become the next premium offering. In barely more than a decade, organic eggs went from being dismissed as a niche product in natural foods stores to being sold at Walmart. More recently there were similar doubts about probiotics and plant-based meats, but both have exploded into major supermarket categories. If the sustainable-egg rollout is successful, it could open the floodgates for regenerative beef, broccoli, and beyond.",
+              "zh": "“我对我们的进展感到很兴奋，”布朗说，他为丹佛的 Nest Fresh Eggs 收获鸡蛋，并增加了更多的覆盖作物来吸引蠕虫和蟋蟀供鸡吃。然后鸟类的排泄物可以给田地施肥。这些改进“使我们的母鸡能够觅食更高质量的天然饲料，这对土地、母鸡和我们向客户提供的鸡蛋都有好处。”鸡蛋行业的推动是再生农场动物产品能否成为下一个优质产品的第一个重大考验。在不到十年的时间里，有机鸡蛋从被视为天然食品商店的小众产品而被忽视，变成了在沃尔玛出售。最近，人们对益生菌和植物性肉类也存在类似的质疑，但这两种产品都已成为超市的主要品类。如果可持续鸡蛋的推广成功，它可能会为再生牛肉、西兰花等产品打开大门。"
+            },
+            {
+              "en": "Regenerative products could be a hard sell, because the concept is tough to define quickly, says Julie Stanton, associate professor of agricultural economics at Pennsylvania State University Brandywine. Such farming also brings minimal, if any, improvement to the food products (though some producers say their eggs have more protein).",
+              "zh": "宾夕法尼亚州立大学布兰迪万分校农业经济学副教授朱莉·斯坦顿表示，再生产品可能很难推销，因为这个概念很难快速定义。这种农业对食品的改善（如果有的话）也是微乎其微的（尽管一些生产商说他们的鸡蛋含有更多的蛋白质）。"
+            },
+            {
+              "en": "The industry is betting that the same consumers paying more for premium attributes such as free-range, non-GMO, and pasture-raised eggs will embrace sustainability. Surveys show that younger generations are more concerned about climate change, and some of the success of plant-based meat can be chalked up to shoppers wanting to signal their desire to protect the environment. Young adults \"really care about the planet.\" says John Brunnquell, president of Egg Innovations. \"They are absolutely altering the food chain beyond what I think even they understand what they're doing.”",
+              "zh": "该行业押注，为自由放养、非转基因和牧场饲养鸡蛋等优质产品支付更多费用的消费者将接受可持续发展。调查显示，年轻一代更关心气候变化，植物性肉类的成功部分可以归因于购物者希望表达他们保护环境的愿望。年轻人“真正关心地球”。 Egg Innovations 总裁 John Brunnquell 说道。 “他们绝对正在改变食物链，超出了我的想象，即使他们明白自己在做什么。”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "The climate-friendly eggs are p r o d u c e d ________",
+              "options": [
+                "at a considerably low cost",
+                "at the demand of regular shoppers",
+                "as a replacement for organic eggs",
+                "on specially designed farms"
+              ]
+            },
+            {
+              "number": 22,
+              "text": "Larry Brown is excited about his progress i n ________",
+              "options": [
+                "reducing the damage of worms",
+                "accelerating the disposal of waste",
+                "creating a sustainable system",
+                "attracting customers to his products"
+              ]
+            },
+            {
+              "number": 23,
+              "text": "The example of organic eggs is used in Paragraph 4 to s u g g e s t ________",
+              "options": [
+                "the doubts over natural feeds",
+                "the setbacks in the egg industry",
+                "the potential of regenerative products",
+                "the promotional success of supermarkets"
+              ]
+            },
+            {
+              "number": 24,
+              "text": "It can be learned from the last paragraph that young p e o p l e ________",
+              "options": [
+                "are reluctant to change their diet",
+                "are likely to buy climate-friendly eggs",
+                "are curious about new food",
+                "are amazed at agriculture advances"
+              ]
+            },
+            {
+              "number": 25,
+              "text": "John Brunnquell would disagree with Julie Stanton over regenerative products' ________",
+              "options": [
+                "market prospects",
+                "standard definition",
+                "nutritional value",
+                "moral implication"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2022-en2-text2",
+          "year": 2022,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "More Americans are opting to work well into retirement, a growing trend that threatens to upend the old workforce model.",
+              "zh": "越来越多的美国人选择好好工作到退休，这一日益增长的趋势有可能颠覆旧的劳动力模式。"
+            },
+            {
+              "en": "One in three Americans who are at least 40 have or plan to have a job in retirement to prepare for a longer life, according to a survey conducted by Harris Poll for TD Ameritrade. Even more surprising is that more than half of “unretirees”- those who plan to work in retirement or went back to work after retiring- said they would be employed in their later years even if they had enough money to settle down, the survey showed.",
+              "zh": "根据哈里斯民意调查 (Harris Poll) 为德美利证券 (TD Ameritrade) 进行的一项调查，在 40 岁以上的美国人中，有三分之一已经或计划在退休后找到一份工作，为更长的生活做好准备。更令人惊讶的是，调查显示，超过一半的“未退休人员”（那些计划退休后工作或退休后重返工作岗位的人）表示，即使他们有足够的钱安定下来，他们也会在晚年找到工作。"
+            },
+            {
+              "en": "Financial needs aren't the only culprit for the “unretirement“ trend. Other reasons, according to the study, include personal fulfillment such as staying mentally fit, preventing boredom or avoiding depression. About 72% of “unretiree“ respondents said that they would return to work once retired to keep mentally fit while 59% said it would be tied to making ends meet.",
+              "zh": "财务需求并不是“不退休”趋势的唯一罪魁祸首。研究表明，其他原因包括个人满足感，例如保持精神健康、防止无聊或避免抑郁。约 72% 的“未退休”受访者表示，退休后他们会重返工作岗位以保持精神健康，而 59% 的受访者表示，这与收支平衡有关。"
+            },
+            {
+              "en": "“The concept of retirement is evolving,said Christine Russell, senior manager of retirement at TD Ameritrade. \"It's not just about finances. The value of work is also driving folks to continue working past retirement.\" One reason for the change in retirement patterns: Americans are living longer. The share of the population 65 and older was 16% in 2018, up 32% from the prior year, according to the US. Census Bureau. Thafs also up 302% since 2010. Older Americans are also the fastest-growing segment of the US. workforce, and boomers are expected to live longer than previous generations. The percentage of retirement-age people in the labor force has doubled over the past three decades. About 20% of people 65 and older were in the workforce in February, up from an all-time low of 10% in January 1985, according to money manager United Income.",
+              "zh": "德美利证券 (TD Ameritrade) 退休高级经理克里斯汀·拉塞尔 (Christine Russell) 表示：“退休的概念正在不断发展。这不仅仅是财务问题。工作的价值也促使人们在退休后继续工作。” 退休模式发生变化的一个原因是：美国人的寿命越来越长。根据美国人口普查局的数据，2018 年 65 岁及以上的人口比例为 16%，比上一年增加了 32%。自 2010 年以来，塔夫斯人口也增加了 302%。年长的美国人也是美国劳动力中增长最快的部分，预计婴儿潮一代的寿命将比前几代人更长。根据资金管理公司 United Income 的数据，2 月份 65 岁及以上的劳动力中，退休年龄人口的比例在过去 30 年中翻了一番，高于 1985 年 1 月 10% 的历史最低水平。"
+            },
+            {
+              "en": "Because of longer life spans, Americans are also boosting their savings to preserve their nest eggs, the TD Ameritrade study showed, which surveyed 2000 adults between 40 to 79. Six in 10 \"unretirees“ are increasing their savings in anticipation of a longer life, according to the survey. Among the most popular ways they are doing this, the company said, is by reducing their overall expenses, securing life insurance or maximizing their contributions to retirement accounts.",
+              "zh": "德美利证券的研究显示，由于寿命更长，美国人也在增加储蓄以保存储蓄。该研究对 2000 名 40 岁至 79 岁之间的成年人进行了调查。调查显示，十分之六的“未退休人员”正在增加储蓄，以期延长寿命。该公司表示，他们这样做的最受欢迎的方式之一是减少总体开支、购买人寿保险或最大限度地增加对退休账户的缴款。"
+            },
+            {
+              "en": "Unfortunately, many people who are opting to work in retirement are preparing to do so because they are worried about making ends meet in their later years, said Brent Weiss, a co-founder at Baltimore-based financial-planning firm Facet Wealth. He suggested that preretirees should speak with a financial adviser to set long-term financial goals.",
+              "zh": "巴尔的摩财务规划公司 Facet Wealth 的联合创始人布伦特·韦斯 (Brent Weiss) 表示，不幸的是，许多选择退休后工作的人正准备这样做，因为他们担心晚年入不敷出。他建议退休前人士应与财务顾问交谈以设定长期财务目标。"
+            },
+            {
+              "en": "“The most challenging moments in life are getting married, starting a family and ultimately retiring,W eiss said. \"It's not just a financial decision, but an emotional one. Many people believe they can't retire”",
+              "zh": "“The most challenging moments in life are getting married, starting a family and ultimately retiring,W eiss said. \"It's not just a financial decision, but an emotional one.许多人认为他们无法退休”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "The survey conducted by Harris Poll indicates t h a t ________",
+              "options": [
+                "over half of the retirees are physically fit for work",
+                "the old workforce is as active as the younger one",
+                "one in three Americans enjoy earlier retirement",
+                "more Americans are willing to work in retirement"
+              ]
+            },
+            {
+              "number": 27,
+              "text": "It can be inferred from Paragraph 3 that Americans tend to think that ________",
+              "options": [
+                "retirement may cause problems for them",
+                "boredom can be relieved after retirement",
+                "the mental health of retirees is overlooked",
+                "<,aunretiremenf , contributes to the economy"
+              ]
+            },
+            {
+              "number": 28,
+              "text": "Retirement patterns are changing partly due t o ________",
+              "options": [
+                "labor shortage",
+                "population growth",
+                "longer life expectancy",
+                "rising living costs"
+              ]
+            },
+            {
+              "number": 29,
+              "text": "Many \"unretirees“ are increasing their savings b y ________",
+              "options": [
+                "investing more in stocks",
+                "taking up odd jobs",
+                "getting well-paid work",
+                "spending less"
+              ]
+            },
+            {
+              "number": 30,
+              "text": "With regard to retirement, Brent Weiss thinks that many people are ________",
+              "options": [
+                "unprepared",
+                "unafraid",
+                "disappointed",
+                "enthusiastic"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2022-en2-text3",
+          "year": 2022,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "We have all encountered them, in both our personal and professional lives. Think about the times you felt tricked or frustrated by a membership or subscription that had a seamless sign-up process but was later difficult to cancel. Something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that impair consumer choice. These are examples of dark patterns.",
+              "zh": "我们在个人生活和职业生活中都遇到过它们。想象一下您曾因会员资格或订阅流程无缝注册但后来很难取消而感到受骗或沮丧的经历。本来应该简单透明的事情可能会有意无意地变得复杂，从而损害消费者的选择。这些是深色图案的示例。"
+            },
+            {
+              "en": "First coined in 2010 by user experience expert Harry B rig n u ll,d a rk pattems\" is a catch-all term for practices that manipulate user interfaces to influence the decision­ making ability of users. Brignull identifies 12 types of common dark patterns, ranging from misdirection and hidden costs to “roach motel,“ where a user experience seems easy and intuitive at the start, but turns difficult when the user tries to get out.",
+              "zh": "“darkpattems”于 2010 年由用户体验专家 Harry Brignull 首次提出，是一个包罗万象的术语，指的是操纵用户界面以影响用户决策能力的做法。Brignull 识别了 12 种常见的黑暗模式，从误导和隐藏成本到“蟑螂汽车旅馆”，其中用户体验一开始似乎简单直观，但当用户试图退出时就会变得困难。"
+            },
+            {
+              "en": "In a 2019 study of 53,000 product pages and 11,000 websites, researchers found that about one in 10 employs these design practices. Though widely prevalent, the concept o f dark patterns is still not well understood. Business and nonprofit leaders should be aware of dark patterns and try to avoid the gray areas they engender.",
+              "zh": "在 2019 年对 53,000 个产品页面和 11,000 个网站的研究中，研究人员发现大约十分之一的人采用了这些设计实践。尽管深色图案的概念广泛流行，但仍然没有得到很好的理解。企业和非营利组织的领导者应该意识到黑暗模式，并尽量避免它们产生的灰色区域。"
+            },
+            {
+              "en": "Where is the line between ethical, persuasive design and dark patterns? Businesses should engage in conversations with IT, compliance, risk, and legal teams to review their privacy policy, and include in the discussion the customer/user experience designers and coders responsible for the company's user interface, as well as the marketers and advertisers responsible for sign-ups, checkout baskets, pricing, and promotions. Any or all these teams can play a role in creating or avoiding \"digital deception.\" Lawmakers and regulators are slowly starting to address the ambiguity around dark patterns, most recently at the state level. In March, the California Attorney General announced the approval of additional regulations under the California Consumer Privacy Act (CCPA) that \"ensure that consumers will not be confused or misled when seeking to exercise their data privacy rights.\" The regulations aim to ban dark patterns this means prohibiting companies from using u confusing language or unnecessary steps such as forcing them to click through multiple screens or listen to reasons why they shouldn't opt out.\" As more states consider promulgating additional regulations, there is a need for greater accountability from within the business community. Dark patterns also can be addressed on a self-regulatory basis, but only if organizations hold themselves accountable, not just to legal requirements but also to industry best practices and standards.",
+              "zh": "道德的、有说服力的设计和黑暗模式之间的界限在哪里？企业应与 IT、合规、风险和法律团队进行对话，以审查其隐私政策，并让负责公司用户界面的客户/用户体验设计师和编码人员，以及负责注册、结账篮、定价和促销的营销人员和广告商参与讨论。任何或所有这些团队都可以在创造或避免“数字欺骗”方面发挥作用。立法者和监管机构正在慢慢开始解决黑暗模式的模糊性，最近是在州一级。今年 3 月，加州总检察长宣布批准《加州消费者隐私法》(CCPA) 下的附加法规，“确保消费者在寻求行使数据隐私权时不会感到困惑或误导。“这些法规旨在禁止黑暗模式，这意味着禁止公司使用令人困惑的语言或不必要的步骤，例如强迫他们点击多个屏幕或听取他们不应该选择退出的理由。”随着越来越多的州考虑颁布更多法规，商界内部需要加强问责。黑暗模式也可以在自我监管的基础上得到解决，但前提是组织对自己负责，不仅要遵守法律要求，还要遵守行业最佳实践和标准。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "It can be learned from the first two paragraphs that dark patterns ________",
+              "options": [
+                "improve user experiences",
+                "leak user information for profit",
+                "undermine users 9 decision-making",
+                "remind users of hidden costs"
+              ]
+            },
+            {
+              "number": 32,
+              "text": "The 2019 study on dark patterns is mentioned to s h o w ________",
+              "options": [
+                "their major flaws",
+                "their complex designs",
+                "their severe damage",
+                "their strong presence"
+              ]
+            },
+            {
+              "number": 33,
+              "text": "To handle digital deception, businesses s h o u l d ________",
+              "options": [
+                "listen to customer feedback",
+                "talk with relevant teams",
+                "turn to independent agencies",
+                "rely on professional training"
+              ]
+            },
+            {
+              "number": 34,
+              "text": "The additional regulations under the CCPA are intended t o ________",
+              "options": [
+                "guide users through opt-out processes",
+                "protect consumers from being tricked",
+                "grant companies data privacy rights",
+                "restrict access to problematic content"
+              ]
+            },
+            {
+              "number": 35,
+              "text": "According to the last paragraph, a key to coping with dark patterns is ________",
+              "options": [
+                "new legal requirements",
+                "businesses9 self-discipline",
+                "strict regulatory standards",
+                "consumers9 safety awareness"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2022-en2-text4",
+          "year": 2022,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "Although ethics classes are common around the world, scientists are unsure if their lessons can actually change behavior; evidence either way is weak, relying on contrived laboratory tests or sometimes unreliable self-reports. But a new study published in Cognition found that, in at least one real-world situation, a single ethics lesson may have had lasting effects.",
+              "zh": "尽管道德课程在世界各地很常见，但科学家们不确定他们的课程是否真的能改变行为；无论哪种方式，证据都很薄弱，依赖于人为的实验室测试或有时不可靠的自我报告。但发表在《认知》杂志上的一项新研究发现，至少在一个现实世界的情况下，一堂道德课可能会产生持久的影响。"
+            },
+            {
+              "en": "The researchers investigated one class session's impact on eating meat. They chose this particular behavior for three reasons, according to study co-author Eric Schwitzgebel, a philosopher at the University of California, Riverside: students9 attitudes on the topic are variable and unstable, behavior is easily measurable, and ethics literature largely agrees that eating less meat is good because it reduces environmental harm and animal suffering. Half of the students in four large philosophy classes read an article on the ethics of factory-farmed meat, optionally watched an 11-minute video on the topic and joined a 5O-minute discussion. The other half focused on charitable giving instead. Then, unknown to the students, the researchers studied their anonymized meal-card purchases for that semester- nearly 14,000 receipts for almost 500 students.",
+              "zh": "研究人员调查了一节课对吃肉的影响。研究合著者、加州大学河滨分校的哲学家埃里克·施维茨格贝尔 (Eric Sc​​hwitzgebel) 表示，他们选择这种特殊行为有三个原因：学生们对这个话题的态度是多变且不稳定的，行为很容易衡量，而且伦理文献基本上同意少吃肉是好事，因为它可以减少环境危害和动物痛苦。四个大型哲学课上有一半的学生阅读了一篇关于工厂化养殖肉类伦理的文章，有选择地观看了有关该主题的 11 分钟视频，并参加了 5O 分钟的讨论。另一半则专注于慈善捐赠。然后，在学生们不知情的情况下，研究人员研究了他们在该学期购买的匿名餐卡——近 500 名学生的近 14,000 张收据。"
+            },
+            {
+              "en": "Schwitzgebel predicted the intervention would have no effect; he had previously found that ethics professors do not differ from other professors on a range of behaviors, including voting rates, blood donation and returning library books. But among student subjects who discussed meat ethics, meal purchases containing meat decreased from 52 to 45 percent- and this effect held steady for the study's duration of several weeks. Purchases from the other group remained at 52 percent.",
+              "zh": "施维茨格贝尔预测干预不会产生任何效果；他此前发现，伦理学教授在一系列行为上与其他教授没有什么不同，包括投票率、献血和归还图书馆书籍。但在讨论肉类伦理的学生受试者中，购买含有肉类的膳食的比例从 52% 下降到 45%，而且这种影响在研究持续数周的时间内保持稳定。来自另一组的购买量仍保持在 52%。"
+            },
+            {
+              "en": "“That's actually a pretty large effect for a pretty small intervention,,9 Schwitzgebel says. Psychologist Nina Strohminger at the University of Pennsylvania, who was not involved in the study, says she wants the effect to be real but cannot rule out some unknown confounding variable. And if real, she notes, it might be reversible by another nudge: \"Easy come, easy go.”",
+              "zh": "“对于相当小的干预来说，这实际上是一个相当大的影响，”9 Schwitzgebel 说。宾夕法尼亚大学的心理学家 Nina Strohminger（未参与这项研究）表示，她希望这种影响是真实的，但不能排除一些未知的混杂变量。她指出，如果是真实的，它可能会通过另一次推动而逆转：“来得容易，去得也快。”"
+            },
+            {
+              "en": "Schwitzgebel suspects the greatest impact came from social influence- classmates or teaching assistants leading the discussions may have shared their own vegetarianism, showing it as achievable or more common. Second, the video may have had an emotional impact. Least rousing, he thinks, was rational argument, although his co­ authors say reason might play a bigger role. Now the researchers are probing the specific effects of teaching style, teaching assistants9 eating habits and students' video exposure. Meanwhile, Schwitzgebel- who had predicted no effect- will be eating his words.",
+              "zh": "施维茨格贝尔怀疑最大的影响来自社会影响——主导讨论的同学或助教可能分享了他们自己的素食主义，表明它是可以实现的或更普遍的。其次，该视频可能产生了情感影响。他认为，最不令人兴奋的是理性论证，尽管他的合著者表示理性可能发挥更大的作用。现在研究人员正在探讨教学风格、助教饮食习惯和学生视频曝光的具体影响。与此同时，施维茨格贝尔——原本预计不会有任何效果——将食言。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "text": "Scientists generally believe that the effects of ethics classes a r e ________",
+              "options": [
+                "hard to determine",
+                "narrowly interpreted",
+                "difficult to ignore",
+                "poorly summarized"
+              ]
+            },
+            {
+              "number": 37,
+              "text": "Which of the following is a reason for the researchers to study meat eating? ________",
+              "options": [
+                "It is common among students.",
+                "It is a behavior easy to measure.",
+                "It is important to students5 health.",
+                "It is a hot topic in ethics classes."
+              ]
+            },
+            {
+              "number": 38,
+              "text": "Eric Schwitzgebel's previous findings suggest that ethics professors ________",
+              "options": [
+                "are seldom critical of their students",
+                "are less sociable than other professors",
+                "are not sensitive to political issues",
+                "are not necessarily ethically better"
+              ]
+            },
+            {
+              "number": 39,
+              "text": "Nina Strohminger thinks that the effect of the intervention i s ________",
+              "options": [
+                "permanent",
+                "predictable",
+                "uncertain",
+                "unrepeatable"
+              ]
+            },
+            {
+              "number": 40,
+              "text": "Eric Schwitzgebel suspects that the students' change in b e h a v i o r ________",
+              "options": [
+                "can bring psychological benefits",
+                "can be analyzed statistically",
+                "is a result of multiple factors",
+                "is a sign of self-development"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}

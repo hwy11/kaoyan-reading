@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
+import { useHighlights } from '../context/HighlightContext'
 import { fetchWordMeaning, formatTags, type DictResult } from '../lib/dictionary'
 import type { Passage } from '../types'
 
@@ -31,8 +32,10 @@ export function ClickableText({ text, passage, className }: ClickableTextProps) 
   const [popup, setPopup] = useState<PopupState | null>(null)
   const popupRef = useRef<HTMLDivElement>(null)
   const seqRef = useRef(0)
+  const clickTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const { isHighlighted, toggle } = useHighlights()
 
-  const handleWordClick = useCallback(
+  const lookupWord = useCallback(
     async (word: string, e: React.MouseEvent) => {
       e.stopPropagation()
       const rect = (e.target as HTMLElement).getBoundingClientRect()
@@ -60,6 +63,36 @@ export function ClickableText({ text, passage, className }: ClickableTextProps) 
     [passage],
   )
 
+  // 单击查词；延迟触发以避免与双击标记冲突
+  const handleClick = useCallback(
+    (word: string, e: React.MouseEvent) => {
+      if (clickTimerRef.current) clearTimeout(clickTimerRef.current)
+      clickTimerRef.current = setTimeout(() => {
+        lookupWord(word, e)
+      }, 220)
+    },
+    [lookupWord],
+  )
+
+  const handleDoubleClick = useCallback(
+    (word: string, e: React.MouseEvent) => {
+      e.preventDefault()
+      e.stopPropagation()
+      if (clickTimerRef.current) {
+        clearTimeout(clickTimerRef.current)
+        clickTimerRef.current = null
+      }
+      toggle(word)
+    },
+    [toggle],
+  )
+
+  useEffect(() => {
+    return () => {
+      if (clickTimerRef.current) clearTimeout(clickTimerRef.current)
+    }
+  }, [])
+
   useEffect(() => {
     const close = (e: MouseEvent) => {
       if (popupRef.current && !popupRef.current.contains(e.target as Node)) {
@@ -80,13 +113,14 @@ export function ClickableText({ text, passage, className }: ClickableTextProps) 
           token.type === 'word' ? (
             <span
               key={i}
-              className="word"
-              onClick={(e) => handleWordClick(token.value, e)}
+              className={`word${isHighlighted(token.value) ? ' word-marked' : ''}`}
+              onClick={(e) => handleClick(token.value, e)}
+              onDoubleClick={(e) => handleDoubleClick(token.value, e)}
               role="button"
               tabIndex={0}
               onKeyDown={(e) => {
                 if (e.key === 'Enter')
-                  handleWordClick(token.value, e as unknown as React.MouseEvent)
+                  handleClick(token.value, e as unknown as React.MouseEvent)
               }}
             >
               {token.value}

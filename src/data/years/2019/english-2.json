@@ -1,0 +1,355 @@
+{
+  "year": 2019,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2019-en2-text1",
+          "year": 2019,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "Unlike so-called basic emotions such as sadness, fear, and anger, guilt emerges a little later, in conjunction with a child's growing grasp of social and moral norms. Children aren't born knowing how to say \"I'm sorry\"; rather, they learn over time that such statements appease parents and friends - and their own consciences. This is why researchers generally regard so-called moral guilt, in the right amount, to be a good thing.",
+              "zh": "与悲伤、恐惧和愤怒等所谓的基本情绪不同，随着孩子对社会和道德规范的掌握不断加深，内疚感会出现得稍晚一些。孩子生来就不会说“对不起”；相反，随着时间的推移，他们了解到这样的言论可以安抚父母和朋友——以及他们自己的良心。这就是为什么研究人员普遍认为适量的所谓道德内疚是一件好事。"
+            },
+            {
+              "en": "In the popular imagination, of course, guilt still gets a bad rap. It is deeply uncomfortable - it's the emotional equivalent of wearing a jacket weighted with stones. Yet this understanding is outdated. \"There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,\" says Amrisha Yaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren't binary — feelings that may be advantageous in one context may be harmful in another. Jealousy and anger, for example, may have evolved to alert us to important inequalities. Too much happiness can be destructive.",
+              "zh": "当然，在大众的想象中，内疚感仍然受到不好的批评。这是非常不舒服的——这在情感上就相当于穿着一件装满石头的夹克。然而这种理解已经过时了。弗吉尼亚大学心理学研究员阿姆里莎·雅什 (Amrisha Yaish) 表示：“关于什么是内疚以及内疚可以发挥什么作用，人们出现了一种复兴或重新思考。”她补充说，这种复兴是一种更大的认识的一部分，即情绪不是二元的——在一种情况下可能有利的感觉在另一种情况下可能有害。例如，嫉妒和愤怒可能会进化来提醒我们注意重要的不平等。太多的快乐可能具有破坏性。"
+            },
+            {
+              "en": "And guilt, by prompting us to think more deeply about our goodness, can encourage humans to make up for errors and fix relationships. Guilt, in other words, can help hold a cooperative species together. It is a kind of social glue.",
+              "zh": "而内疚感可以促使我们更深入地思考自己的善良，从而鼓励人们弥补错误并修复关系。换句话说，内疚可以帮助让一个合作的物种团结在一起。它是一种社会粘合剂。"
+            },
+            {
+              "en": "Viewed in this light, guilt is an opportunity. Work by Tina Malti, a psychology professor at the University of Toronto, suggests that guilt may compensate for an emotional deficiency. In a number of studies, Malti and others have shown that guilt and sympathy may represent different pathways to cooperation and sharing. Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses. And vice versa: High sympathy can substitute for low guilt.",
+              "zh": "从这个角度来看，内疚是一个机会。多伦多大学心理学教授蒂娜·马尔蒂的研究表明，内疚可以弥补情感上的缺陷。在许多研究中，马尔蒂和其他人表明，内疚和同情可能代表着合作和分享的不同途径。一些同情心较低的孩子可能会通过经历更多的内疚感来弥补这种不足，这可以抑制他们更恶劣的冲动。反之亦然：高度同情可以替代低度内疚。"
+            },
+            {
+              "en": "In a 2014 study, for example, Malti looked at 244 children. Using caregiver assessments and the children's self-observations, she rated each child's overall sympathy level and his or her tendency to feel negative emotions after moral transgressions. Then the kids were handed chocolate coins, and given a chance to share them with an anonymous child. For the low-sympathy kids, how much they shared appeared to tum on how inclined they were to feel guilty. The guilt-prone ones shared more, even though they hadn't magically become more sympathetic to the other child's deprivation.",
+              "zh": "例如，在 2014 年的一项研究中，Malti 研究了 244 名儿童。通过看护者的评估和孩子们的自我观察，她对每个孩子的整体同情心水平以及他或她在道德违规后感受到负面情绪的倾向进行了评估。然后孩子们收到了巧克力硬币，并有机会与一位匿名的孩子分享。对于缺乏同情心的孩子来说，他们分享的程度似乎取决于他们感到内疚的倾向。那些容易感到内疚的孩子分享了更多，尽管他们并没有神奇地变得更加同情另一个孩子的剥夺。"
+            },
+            {
+              "en": "\"That's good news, \" Malti says. \"We can be prosocial because we caused harm and we feel regret.\"",
+              "zh": "“这是个好消息，”马尔蒂说。 “我们可以变得亲社会，因为我们造成了伤害并且我们感到遗憾。”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "Researchers think that guilt can be a good thing because it may help ________",
+              "options": [
+                "regulate a child's basic emotions",
+                "improve a child's intellectual ability",
+                "foster a child's moral development",
+                "intensify a child's positive feelings"
+              ]
+            },
+            {
+              "number": 22,
+              "text": "According to Paragraph 2, many people still consider guilt to be ________",
+              "options": [
+                "deceptive",
+                "burdensome",
+                "addictive",
+                "inexcusable"
+              ]
+            },
+            {
+              "number": 23,
+              "text": "Yaish holds that the rethinking about guilt comes from an awareness that ________",
+              "options": [
+                "emotions are context-independent",
+                "emotions are socially constructive",
+                "emotional stability can benefit health",
+                "an emotion can play opposing roles"
+              ]
+            },
+            {
+              "number": 24,
+              "text": "Malti and others have shown that cooperation and sharing ________",
+              "options": [
+                "may help correct emotional deficiencies",
+                "can result from either sympathy or guilt",
+                "can bring about emotional satisfaction",
+                "may be the outcome of impulsive acts"
+              ]
+            },
+            {
+              "number": 25,
+              "text": "The word \"transgressions\" (Line 4, Para.5) is closest in meaning to ________",
+              "options": [
+                "teachings",
+                "discussions",
+                "restnct10ns",
+                "wrongdoings"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2019-en2-text2",
+          "year": 2019,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "Forests give us shade, quiet and one of the harder challenges in the fight against climate change. Even as we humans count on forests to soak up a good share of the carbon dioxide we produce, we are threatening their ability to do so. The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb.",
+              "zh": "森林为我们提供荫凉、安静，也是应对气候变化的艰巨挑战之一。尽管我们人类依靠森林吸收我们产生的大部分二氧化碳，但我们正在威胁他们这样做的能力。我们正在加速的气候变化有一天可能会让我们的森林排放的碳多于吸收的碳。"
+            },
+            {
+              "en": "Thankfully, there is a way out of this trap — but it involves striking a subtle balance. Helping forests flourish as valuable \"carbon sinks\" long into the future may require reducing their capacity to absorb carbon now. California is leading the way, as it does on so many climate efforts, in figuring out the details.",
+              "zh": "值得庆幸的是，有一种方法可以摆脱这个陷阱，但它需要取得微妙的平衡。帮助森林在未来很长一段时间内作为有价值的“碳汇”蓬勃发展可能需要降低其现在吸收碳的能力。正如它在许多气候努力中所做的那样，加州在弄清楚细节方面处于领先地位。"
+            },
+            {
+              "en": "The state's proposed Forest Carbon Plan aims to double efforts to thin out young trees and clear brush in parts of the forest. This temporarily lowers carbon-carrying capacity. But the remaining trees draw a greater share of the available moisture, so they grow and thrive, restoring the forest's capacity to pull carbon from the air. Healthy trees are also better able to fend off insects. The landscape is rendered less easily burnable. Even in the event of a fire, fewer trees are consumed.",
+              "zh": "该州提出的森林碳计划旨在加倍努力稀疏幼树并清除部分森林的灌木丛。这会暂时降低碳承载能力。但剩下的树木吸收了更多的可用水分，因此它们生长茂盛，恢复了森林从空气中吸收碳的能力。健康的树木也能更好地抵御昆虫。景观变得不易燃烧。即使发生火灾，烧毁的树木也更少。"
+            },
+            {
+              "en": "The need for such planning is increasingly urgent. Already, since 2010, drought and insects have killed over 100 million trees in California, most of them in 2016 alone, and wildfires have burned hundreds of thousands of acres.",
+              "zh": "对此类规划的需求日益迫切。自 2010 年以来，干旱和昆虫已经导致加利福尼亚州超过 1 亿棵树死亡，其中大多数仅在 2016 年就被杀死，野火也烧毁了数十万英亩土地。"
+            },
+            {
+              "en": "California plans to treat 35, 000 acres of forest a year by 2020, and 60,000 by 2030 — financed from the proceeds of the state's emissions-permit auctions. That's only a small share of the total acreage that could benefit, about half a million acres in all, so it will be vital to prioritize areas at greatest risk of fire or drought.",
+              "zh": "加州计划到 2020 年每年治理 35, 000 英亩的森林，到 2030 年治理 60,000 英亩的森林，资金来自该州排放许可证拍卖的收益。这仅占受益总面积的一小部分（总共约50万英亩），因此优先考虑火灾或干旱风险最大的地区至关重要。"
+            },
+            {
+              "en": "The strategy also aims to ensure that carbon in woody material removed from the forests is locked away in the form of solid lumber or burned as biofuel in vehicles that would otherwise run on fossil fuels. New research on transportation biofuels is already under way.",
+              "zh": "该战略还旨在确保从森林中采伐的木质材料中的碳以固体木材的形式储存起来，或者作为生物燃料在原本使用化石燃料的车辆中燃烧。关于交通生物燃料的新研究已经在进行中。"
+            },
+            {
+              "en": "State governments are well accustomed to managing forests, but traditionally they've focused on wildlife, watersheds and opportunities for recreation. Only recently have they come to see the vital part forests will have to play in storing carbon. California's plan, which is expected to be finalized by the governor next year, should serve as a model.",
+              "zh": "州政府非常习惯于管理森林，但传统上他们更关注野生动物、流域和休闲机会。直到最近，他们才开始认识到森林在碳储存方面所发挥的重要作用。加州的计划预计将于明年由州长最终确定，应该作为典范。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "By saying \"one of the harder challenges,\" the author implies that ________",
+              "options": [
+                "global climate change may get out of control",
+                "people may misunderstand global warng",
+                "extreme weather conditions may arise",
+                "forests may become a potential threat"
+              ]
+            },
+            {
+              "number": 27,
+              "text": "To maintain forests as valuable \"carbon sinks,\" we may need to ________",
+              "options": [
+                "preserve the diversity of species in them",
+                "accelerate the growth of young trees",
+                "strike a balance among different plants",
+                "lower their present carbon-absorbing capacity"
+              ]
+            },
+            {
+              "number": 28,
+              "text": "California's Forest Carbon Plan endeavors to ________",
+              "options": [
+                "cultivate more drought-resistant trees",
+                "reduce the density of some of its forests",
+                "find more effective ways to kill insects",
+                "restore its forests quickly after wildfires"
+              ]
+            },
+            {
+              "number": 29,
+              "text": "What is essential to California's plan according to Paragraph 5? ________",
+              "options": [
+                "To handle the areas in serious danger first.",
+                "To carry it out before the year of 2020.",
+                "To perfect the emissions-permit auctions.",
+                "To obtain enough financial support."
+              ]
+            },
+            {
+              "number": 30,
+              "text": "The author's attitude to California's plan can best be described as ________",
+              "options": [
+                "ambiguous",
+                "tolerant",
+                "supportive",
+                "cautious"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2019-en2-text3",
+          "year": 2019,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "American farmers have been complaining of labor shortages for several years. The complaints are unlikely to stop without an overhaul of immigration rules for farm workers.",
+              "zh": "多年来，美国农民一直抱怨劳动力短缺。如果不彻底改革农场工人的移民规则，这些抱怨就不可能停止。"
+            },
+            {
+              "en": "Congress has obstructed efforts to create a more straightforward visa for agricultural workers that would let foreign workers stay longer in the U. S. and change jobs within the industry. If this doesn't change, American businesses, communities, and consumers will be the losers.",
+              "zh": "国会阻碍了为农业工人创建更简单的签证的努力，该签证将使外国工人在美国停留更长时间并在该行业内更换工作。如果这一点不改变，美国企业、社区和消费者将成为输家。"
+            },
+            {
+              "en": "Perhaps half of U. S. farm laborers are undocumented immigrants. As fewer such workers enter the country, the characteristics of the agricultural workforce are changing. Today ' s farm laborers, while still predominantly born in Mexico, are more likely to be settled rather than migrating and more likely to be married than single. They 're also aging. At the start of this century, about one-third of crop workers were over the age of 3 5. Now more than half are. And picking crops is hard on older bodies. One oft-debated cure for this labor shortage remains as implausible as it' s been all along : Native U. S. workers won't be returning to the farm.",
+              "zh": "也许一半的美国农场工人是无证移民。随着进入该国的此类工人越来越少，农业劳动力的特征正在发生变化。今天的农场劳动者虽然仍然主要出生在墨西哥，但更有可能定居​​而不是移民，更有可能结婚而不是单身。他们也在变老。本世纪初，大约三分之一的农作物工人年龄在 3 5 岁以上。现在超过一半。对于老年人来说，采摘庄稼是很困难的。解决劳动力短缺问题的一个经常被争论的解决方案仍然像一直以来一样令人难以置信：美国本土工人不会返回农场。"
+            },
+            {
+              "en": "Mechanization isn't the answer, either — not yet, at least. Production of com, cotton, rice, soybeans, and wheat has been largely mechanized, but many hi gh-value, labor-intensive crops, such as strawberries, need labor. Even dairy farms, where robots do a small share of milking, have a long way to go before they 're automated.",
+              "zh": "机械化也不是答案——至少目前还不是。玉米、棉花、水稻、大豆和小麦的生产已基本实现机械化，但草莓等许多高价值、劳动密集型作物需要劳动力。即使是由机器人承担一小部分挤奶工作的奶牛场，在实现自动化之前还有很长的路要走。"
+            },
+            {
+              "en": "As a result, farms have grown increasingly reliant on temporary guest workers using the H-2A visa to fill the gaps in the workforce. Starting around 20 12, requests for the visas rose sharply; from 20 11 to 20 16 the number of visas issued more than doubled.",
+              "zh": "因此，农场越来越依赖使用 H-2A 签证的临时客工来填补劳动力缺口。 12月20日左右开始，签证申请量急剧上升；从20月11日到20月16日签发的签证数量增加了一倍多。"
+            },
+            {
+              "en": "The H-2A visa has no numerical cap, unlike the H-2B visa for nonagricultural work, which is limited to 66,000 a year. Even so, employers complain they aren't given all the workers they need. The process is cumbersome, expensive, and unreliable. One survey found that bureaucratic delays led the average H-2A worker to arrive on the job 22 days late. The shortage is compounded by federal immigration raids, which remove some workers and drive others underground.",
+              "zh": "H-2A签证没有数量上限，与非农业工作的H-2B签证每年的数量上限为66,000个不同。即便如此，雇主还是抱怨他们没有获得所需的全部工人。该过程繁琐、昂贵且不可靠。一项调查发现，官僚主义拖延导致 H-2A 员工平均晚到工作 22 天。联邦移民突击搜查导致人员短缺，一些工人被赶走，另一些则被迫转入地下。"
+            },
+            {
+              "en": "In a 20 12 survey, 7 1 percent of tree-fruit growers and almost 80 percent of raisin and berry growers said they were short of labor. Some western farmers have responded by moving operations to Mexico. From 1998 to 2000, 14.5 percent of the fruit Americans consumed was imported. Little more than a decade later, the share of imp orts was 25.8 percent.",
+              "zh": "在一项 20·12 调查中，7·1% 的树果种植者和近 80% 的葡萄干和浆果种植者表示，他们缺乏劳动力。一些西方农民的应对措施是将业务转移到墨西哥。从 1998 年到 2000 年，美国人消费的水果中有 14.5% 是进口的。十多年后，进口份额达到 25.8%。"
+            },
+            {
+              "en": "In effect, the U. S. can import food or it can import the workers who pick it.",
+              "zh": "实际上，美国可以进口食品，也可以进口采摘食品的工人。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "What problem should be addressed according to the first two paragraphs? ________",
+              "options": [
+                "Discrimination against foreign workers in the U.S.",
+                "Biased laws in favor of some American businesses.",
+                "Flaws in U.S. immigration rules for farm workers.",
+                "Decline of job opportunities in U.S. agriculture."
+              ]
+            },
+            {
+              "number": 32,
+              "text": "One trouble with U.S. agricultural workforce is ________",
+              "options": [
+                "the rising number of illegal immigrants",
+                "the high mobility of crop workers",
+                "the lack of experienced laborers",
+                "the aging of immigrant farm workers"
+              ]
+            },
+            {
+              "number": 33,
+              "text": "What is the much-argued solution to the labor shortage in U.S. farming? ________",
+              "options": [
+                "To attract younger laborers to farm work.",
+                "To get native U.S. workers back to farming.",
+                "To use more robots to grow high-value crops.",
+                "To strengthen financial support for farmers."
+              ]
+            },
+            {
+              "number": 34,
+              "text": "Agricultural employers complain about the H-2A visa for its ________",
+              "options": [
+                "slow granting procedures",
+                "limit on duration of stay",
+                "tightened requirements",
+                "control of annual adm1ss10ns"
+              ]
+            },
+            {
+              "number": 35,
+              "text": "Which of the following could be the best title for this text? ________",
+              "options": [
+                "U.S. Agriculture in Decline?",
+                "Import Food or Labor?",
+                "America Saved by Mexico?",
+                "Manpower vs. Automation?"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2019-en2-text4",
+          "year": 2019,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "Arnold Schwarzenegger, Dia Mirza and Adrian Grenier have a message for you: It's easy to beat plastic. They're part of a bunch of celebrities starring in a new video for World Environment Day — encouraging you, the consumer, to swap out your single-use plastic staples like straws and cutlery to combat the plastics crisis.",
+              "zh": "阿诺·施瓦辛格、迪亚·米尔扎和阿德里安·格尼尔向您传达一条信息：打败塑料很容易。他们是众多名人在世界环境日拍摄的新视频中的一员，鼓励消费者更换吸管和餐具等一次性塑料用品，以应对塑料危机。"
+            },
+            {
+              "en": "The key messages that have been put together for World Envirornnent Day do include a call for governments to enact legislation to curb single-use plastics. But the overarching message is directed at individuals.",
+              "zh": "世界环境日的关键信息确实包括呼吁各国政府颁布立法来限制一次性塑料制品。但最重要的信息是针对个人的。"
+            },
+            {
+              "en": "My concern with leaving it up to the individual, however, is our limited sense of what needs to be achieved. On their own, taking our own bags to the grocery store or quitting plastic straws, for example, will accomplish little and require very little of us. They could even be detrimental, satisfying a need to have \"done our bit\" without ever progressing onto bigger, bolder, more effective actions - a kind of \"moral licensing\" that allays our concerns and stops us doing more and asking more of those in charge.",
+              "zh": "然而，我担心将其留给个人，因为我们对需要实现的目标的认识有限。例如，仅凭自己的袋子去杂货店或戒掉塑料吸管，收效甚微，对我们的要求也很少。它们甚至可能是有害的，满足了“尽自己的一份力量”的需要，却没有采取更大规模、更大胆、更有效的行动——一种“道德许可”，它减轻了我们的担忧，阻止我们做更多的事情，并向负责人提出更多的要求。"
+            },
+            {
+              "en": "While the conversation around our envirornnent and our responsibility toward it remains centered on shopping bags and straws, we're ignoring the balance of power that implies that as \"consumers\" we must shop sustainably, rather than as \"citizens\" hold our governments and industries to account to push for real systemic change.",
+              "zh": "虽然围绕我们的环境和我们对环境的责任的讨论仍然集中在购物袋和吸管上，但我们忽视了权力平衡，这意味着作为“消费者”我们必须可持续地购物，而不是作为“公民”要求我们的政府和行业负责推动真正的系统性变革。"
+            },
+            {
+              "en": "It's important to acknowledge that the environment isn't everyone's priority — or even most people's. We shouldn't expect it to be. In her latest book, Why Good People Do Bad Environmental Things, Wellesley College professor Elizabeth R. DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural.",
+              "zh": "重要的是要承认，环境并不是每个人（甚至大多数人）的首要任务。我们不应该期望它会这样。韦尔斯利学院教授伊丽莎白·R·德松布尔 (Elizabeth R. DeSombre) 在她的最新著作《为什么好人会做坏事》中指出，集体改变大量人行为的最佳方式是进行结构性改变。"
+            },
+            {
+              "en": "This might mean implementing policy such as a plastic tax that adds a cost to environmentally problematic action, or banning single-use plastics altogether. India has just announced it will \"eliminate all single-use plastic in the country by 2022.\" There are also incentive-based ways of making better environmental choices easier, such as ensuring recycling is at least as easy as trash disposal.",
+              "zh": "这可能意味着实施塑料税等政策，增加环境问题行动的成本，或者完全禁止一次性塑料。印度刚刚宣布将“到 2022 年消除该国所有一次性塑料制品”。还有一些基于激励的方法可以让更好的环境选择变得更容易，例如确保回收至少像垃圾处理一样容易。"
+            },
+            {
+              "en": "DeSombre isn't saying people should stop caring about the environment. It's just that individual actions are too slow, she says, for that to be the only, or even primary, approach to changing widespread behavior.",
+              "zh": "德松布尔并不是说人们应该停止关心环境。她说，只是个人行动太慢，这不是改变普遍行为的唯一甚至主要方法。"
+            },
+            {
+              "en": "None of this is about writing off the individual. It's just about putting things into perspective. We don't have time to wait. We need progressive policies that shape collective action (and rein in polluting businesses), alongside engaged citizens pushing for change.",
+              "zh": "所有这些都不是要注销个人。这只是要正确看待事物。我们没有时间等待。我们需要制定集体行动（并控制污染企业）的进步政策，同时需要积极参与的公民推动变革。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 38,
+              "text": "By pointing out our identity \"citizens\", the author indicates that ________",
+              "options": [
+                "our focus should be shifted to community welfare",
+                "our relationship with local industries is improving",
+                "we have been actively exercising our civil rights",
+                "we should press our government to lead the combat"
+              ]
+            },
+            {
+              "number": 39,
+              "text": "DeSombre argues that the best way for a collective change should be ________",
+              "options": [
+                "a win-win arrangement",
+                "a self-driven mechanism",
+                "a cost-effective approach",
+                "a top-down process"
+              ]
+            },
+            {
+              "number": 40,
+              "text": "The author concludes that individual efforts ________",
+              "options": [
+                "can be too aggressive",
+                "can be too inconsistent",
+                "are far from sufficient",
+                "are far from rational"
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}

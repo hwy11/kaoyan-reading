@@ -10,6 +10,8 @@
   --accent-soft: #e8dfd0;
   --border: #e5ddd2;
   --word-hover: #ebe3d6;
+  --word-mark: #e8d4a8;
+  --word-mark-hover: #dfc890;
   --popup-bg: #2c2824;
   --popup-text: #f5f0e8;
   --font-en: 'Source Serif 4', 'Noto Serif', Georgia, serif;
@@ -292,6 +294,17 @@ body {
 
 .word:hover {
   background: var(--word-hover);
+}
+
+.word-marked {
+  font-weight: 600;
+  background: var(--word-mark);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.word-marked:hover {
+  background: var(--word-mark-hover);
 }
 
 .word-popup {

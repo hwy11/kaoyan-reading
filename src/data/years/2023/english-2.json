@@ -1,0 +1,391 @@
+{
+  "year": 2023,
+  "exams": [
+    {
+      "type": "english-2",
+      "label": "英语二",
+      "passages": [
+        {
+          "id": "2023-en2-text1",
+          "year": 2023,
+          "exam": "english-2",
+          "textNumber": 1,
+          "title": "Text 1",
+          "paragraphs": [
+            {
+              "en": "In the quest for the perfect lawn, homeowners across the country are taking a shortcut — and it is the environment that is paying the price. About eight million square metres of plastic grass is sold each year but opposition has now spread to the highest gardening circles. The Chelsea Flower Show has banned fake grass from this year’s event, declaring it to be not part of its ethos. The Royal Horticultural Society (RHS), which runs the annual show in west London, says it has introduced the ban because of the damage plastic grass does to the environment and biodiversity.",
+              "zh": "为了追求完美的草坪，全国各地的房主都在走捷径——而付出代价的是环境。塑料草每年售出约 800 万平方米，但反对声音现已蔓延至最高园艺界。切尔西花展已禁止在今年的活动中使用假草，并宣称这不是其精神的一部分。在伦敦西部举办年度展览的皇家园艺学会（RHS）表示，由于塑料草对环境和生物多样性造成损害，因此推出了这项禁令。"
+            },
+            {
+              "en": "Ed Horne, of the RHS, said: “We launched our sustainability strategy last year and fake grass is just not in line with our ethos and views on plastic. We recommend using real grass because of its environmental benefits, which include supporting wildlife, alleviating flooding and cooling the environment.”",
+              "zh": "英国皇家园艺学会的埃德·霍恩 (Ed Horne) 表示：“我们去年推出了可持续发展战略，而假草不符合我们的精神和对塑料的看法。我们建议使用真草，因为它对环境有益，包括支持野生动物、缓解洪水和冷却环境。”"
+            },
+            {
+              "en": "The RHS’s decision comes as campaigners try to raise awareness of the problems fake grass causes. A Twitter account, which claims to “cut through the greenwash” of artificial grass, already has more than 20,000 followers. It is trying to encourage people to sign two petitions, one calling for a ban on the sale of plastic grass and another calling for an “ecological damage” tax on such lawns. They have gathered 7,276 and 11,282 signatures.",
+              "zh": "英国皇家园艺学会做出这一决定之际，活动人士正试图提高人们对假草造成的问题的认识。一个声称要“打破人造草绿化”的 Twitter 账户已经拥有超过 20,000 名粉丝。它试图鼓励人们签署两份请愿书，一份呼吁禁止销售塑料草，另一份呼吁对此类草坪征收“生态破坏”税。他们已收集了 7,276 和 11,282 个签名。"
+            },
+            {
+              "en": "However, supporters of fake grass point out that there is also an environmental impact with natural lawns, which need mowing and therefore usually consume electricity or petrol.",
+              "zh": "然而，假草的支持者指出，天然草坪也会对环境造成影响，因为天然草坪需要修剪，因此通常会消耗电力或汽油。"
+            },
+            {
+              "en": "The industry also points out that real grass requires considerable amounts of water, weed killer or other treatments and that people who lay fake grass tend to use their garden more.",
+              "zh": "该行业还指出，真草需要大量的水、除草剂或其他处理方法，而铺设假草的人往往会更多地使用他们的花园。"
+            },
+            {
+              "en": "The industry also claims that people who lay fake grass spend an average of £500 on trees or shrubs for their garden, which provides habitat for insects.",
+              "zh": "该行业还声称，铺设假草的人平均花费 500 英镑在花园里种植树木或灌木，为昆虫提供栖息地。"
+            },
+            {
+              "en": "In response to another petition last year about banning fake lawns, which gathered 30,000 signatures, the government responded that it has “no plans to ban the use of artificial grass.”",
+              "zh": "去年，另一份关于禁止假草坪的请愿书收集了 30,000 个签名，在回应时，政府回应称“没有计划禁止使用人造草坪”。"
+            },
+            {
+              "en": "It added: “We prefer to help people and organizations make the right choice rather than legislating on such matters. However, the use of artificial grass must comply with the legal and policy safeguards in place to protect biodiversity and ensure sustainable drainage, while measures such as the strengthened biodiversity duty should serve to encourage public authorities to consider sustainable alternatives.”",
+              "zh": "它补充说：“我们更愿意帮助人们和组织做出正确的选择，而不是就此类问题立法。然而，人造草的使用必须遵守现有的法律和政策保障措施，以保护生物多样性并确保可持续排水，而加强生物多样性责任等措施应有助于鼓励公共当局考虑可持续的替代方案。”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 21,
+              "text": "The RHS thinks that plastic grass ____",
+              "options": [
+                "is harmful to the environment.",
+                "is a hot topic in gardening circles.",
+                "is overpraised in the annual show.",
+                "is ruining the view of west London."
+              ]
+            },
+            {
+              "number": 22,
+              "text": "The petitions mentioned in Paragraph 3 reveal the campaigners’ ____",
+              "options": [
+                "disappointment with the RHS.",
+                "resistance to fake grass use.",
+                "anger over the proposed tax.",
+                "concern about real grass supply."
+              ]
+            },
+            {
+              "number": 23,
+              "text": "In Paragraph 4, supporters of fake grass point out ____",
+              "options": [
+                "the necessity to lower the costs of fake grass.",
+                "the disadvantages of growing real grass.",
+                "the way to take care of artificial lawns.",
+                "the challenges of insect habitat protection."
+              ]
+            },
+            {
+              "number": 24,
+              "text": "What would the government do with regard to artificial grass? ________",
+              "options": [
+                "Urge legislation to restrict its use.",
+                "Take measures to guarantee its quality.",
+                "Remind its users to obey existing rules.",
+                "Replace it with sustainable alternatives."
+              ]
+            },
+            {
+              "number": 25,
+              "text": "It can be learned from the text that fake grass ____",
+              "options": [
+                "is being improved continuously.",
+                "has seen a market share decline.",
+                "is becoming increasingly affordable.",
+                "has been a controversial product."
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2023-en2-text2",
+          "year": 2023,
+          "exam": "english-2",
+          "textNumber": 2,
+          "title": "Text 2",
+          "paragraphs": [
+            {
+              "en": "It’s easy to dismiss as absurd the federal government’s ideas for plugging the chronic funding gap of our national parks. Can anyone really think it’s a good idea to allow Amazon deliveries to your tent in Yosemite or food trucks to line up under the redwood trees at Sequoia National Park?",
+              "zh": "联邦政府填补国家公园长期资金缺口的想法很容易被认为是荒谬的。有人真的认为允许亚马逊送货到你在优胜美地的帐篷或让食品卡车在红杉国家公园的红杉树下排队是个好主意吗？"
+            },
+            {
+              "en": "But the government is right about one thing: U.S. national parks are in crisis.",
+              "zh": "但政府在一件事上是正确的：美国国家公园正处于危机之中。"
+            },
+            {
+              "en": "Collectively, they have a maintenance backlog of more than $12 billion. Roads, trails, restrooms, visitor centers and other infrastructure are crumbling.",
+              "zh": "他们总共有超过 120 亿美元的维护积压。道路、小径、卫生间、游客中心和其他基础设施都在崩溃。"
+            },
+            {
+              "en": "But privatizing and commercializing the campgrounds would not be a cure-all.",
+              "zh": "但露营地私有化和商业化并不是万能药。"
+            },
+            {
+              "en": "Campgrounds are a tiny portion of the overall infrastructure backlog, and businesses in the parks hand over, on average, only about 5% of their revenues to the National Park Service.",
+              "zh": "露营地只占整体基础设施积压的一小部分，公园内的企业平均只将其收入的约 5% 上交给国家公园管理局。"
+            },
+            {
+              "en": "Moreover, increased privatization would certainly undercut one of the major reasons why 300 million visitors come to the parks each year: to enjoy nature and get a break from the commercial drumbeat that overwhelms daily life.",
+              "zh": "此外，私有化程度的提高肯定会削弱每年 3 亿游客来到公园的主要原因之一：享受大自然并从压倒日常生活的商业喧嚣中得到休息。"
+            },
+            {
+              "en": "The real problem is that the parks have been chronically starved of funding. We conducted a comprehensive survey examining how U.S. residents view their national parks, and we found that Americans place a very high value on them — whether or not they actually visit them. The peer-reviewed economic survey of 700 U.S. taxpayers, conducted by mail and internet, also found that people would be willing to pay a significant amount of money to make sure the parks and their programs are kept intact. Some 81% of respondents said they would be willing to pay additional taxes for the next 10 years to avoid any cuts to the national parks.",
+              "zh": "真正的问题是公园长期缺乏资金。我们进行了一项全面的调查，了解美国居民如何看待他们的国家公园，我们发现美国人非常重视它们——无论他们是否真的参观过它们。通过邮件和互联网对 700 名美国纳税人进行的同行评审经济调查还发现，人们愿意支付大量资金来确保公园及其项目完好无损。约 81% 的受访者表示，他们愿意在未来 10 年内缴纳额外税款，以避免对国家公园的削减。"
+            },
+            {
+              "en": "The national parks provide great value to U.S. residents both as places to escape and as symbols of nature. On top of this, they produce value from their extensive educational programs, their positive impact on the climate through carbon sequestration, their contribution to our cultural and artistic life, and of course through tourism. The parks also help keep America’s past alive, working with thousands of local jurisdictions around the country to protect historical sites — including Ellis Island and Gettysburg — and to bring the stories of these places to life.",
+              "zh": "国家公园为美国居民提供了巨大的价值，既可以作为避世之地，也可以作为自然的象征。除此之外，他们还通过广泛的教育计划、通过固碳对气候产生的积极影响、对我们的文化和艺术生活的贡献，当然还有旅游业的贡献来创造价值。这些公园还与全国各地数千个地方管辖区合作，保护历史遗迹（包括埃利斯岛和葛底斯堡），并让这些地方的故事栩栩如生，从而帮助保留美国的过去。"
+            },
+            {
+              "en": "The parks do all this on a shoestring. Congress allocates only $3 billion a year to the national park system — an amount that has been flat since 2001 (in inflation-adjusted dollars) with the exception of a onetime boost in 2009 as part of the Obama stimulus package.",
+              "zh": "公园在小本经营的情况下完成这一切。国会每年只向国家公园系统拨款 30 亿美元，这一数额自 2001 年以来一直持平（按通货膨胀调整后的美元计算），除了 2009 年作为奥巴马经济刺激计划的一部分一次性增加的资金外。"
+            },
+            {
+              "en": "Meanwhile, the number of annual visitors has increased by more than 50% since 1980, and now stands at 330 million visitors per year.",
+              "zh": "与此同时，自1980年以来，每年游客数量增长了50%以上，目前每年游客数量达到3.3亿人次。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 26,
+              "text": "What problem are U.S. national parks faced with? ________",
+              "options": [
+                "Decline of business profits.",
+                "Inadequate commercialization.",
+                "Lack of transportation services.",
+                "Poorly maintained infrastructure."
+              ]
+            },
+            {
+              "number": 27,
+              "text": "Increased privatization of the campgrounds may ____",
+              "options": [
+                "spoil visitor experience.",
+                "help preserve nature.",
+                "bring operational pressure.",
+                "boost visits to parks."
+              ]
+            },
+            {
+              "number": 28,
+              "text": "According to Paragraph 5, most respondents in the survey would ____",
+              "options": [
+                "go to the national parks on a regular basis.",
+                "advocate a bigger budget for the national parks.",
+                "agree to pay extra for the national parks.",
+                "support the national parks’ recent reforms."
+              ]
+            },
+            {
+              "number": 29,
+              "text": "The national parks are valuable in that they ____",
+              "options": [
+                "lead the way in tourism.",
+                "have historical significance.",
+                "sponsor research on climate.",
+                "provide an income for the locals."
+              ]
+            },
+            {
+              "number": 30,
+              "text": "It can be concluded from the text that the national park system ____",
+              "options": [
+                "is able to cope with staff shortages.",
+                "is able to meet visitors’ demands.",
+                "is in need of a new pricing policy.",
+                "is in need of funding increase."
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2023-en2-text3",
+          "year": 2023,
+          "exam": "english-2",
+          "textNumber": 3,
+          "title": "Text 3",
+          "paragraphs": [
+            {
+              "en": "The Internet may be changing merely what we remember, not our capacity to do so, suggests Columbia University psychology professor Betsy Sparrow. In 2011, Sparrow led a study in which participants were asked to record 40 factoids in a computer (“an ostrich’s eye is bigger than its brain,” for example). Half of the participants were told the information would be erased, while the other half were told it would be saved. Guess what? The latter group made no effort to recall the information when quizzed on it later, because they knew they could find it on their computers. In the same study, a group was asked to remember both the information and the folders it was stored in. They didn’t remember the information, but they remembered how to find the folders. In other words, human memory is not deteriorating but “adapting to new communications technology,” Sparrow says.",
+              "zh": "哥伦比亚大学心理学教授贝齐·斯帕罗表示，互联网可能只是改变了我们的记忆，而不是我们这样做的能力。 2011 年，Sparrow 领导了一项研究，要求参与者在计算机中记录 40 个事实（例如，“鸵鸟的眼睛比大脑大”）。一半的参与者被告知信息将被删除，而另一半则被告知信息将被保存。你猜怎么着？后一组在后来被询问时没有努力回忆这些信息，因为他们知道他们可以在计算机上找到它。在同一项研究中，一组人被要求记住信息和存储信息的文件夹。他们不记得信息，但记得如何找到文件夹。换句话说，人类的记忆力并没有恶化，而是“适应了新的通信技术”，斯帕罗说。"
+            },
+            {
+              "en": "In a very practical way, the Internet is becoming an external hard drive for our memories, a process known as “cognitive offloading.” Traditionally, this role was fulfilled by data banks, libraries, and other humans. Your father may never remember birthdays because your mother does, for instance. Some worry that this is having a destructive effect on society, but Sparrow sees an upside. Perhaps, she suggests, the trend will change our approach to learning from a focus on individual facts and memorization to an emphasis on more conceptual thinking — something that is not available on the Internet. “I personally have never seen all that much intellectual value in memorizing things,” Sparrow says, adding that we haven’t lost our ability to do it.",
+              "zh": "以一种非常实际的方式，互联网正在成为我们记忆的外部硬盘驱动器，这一过程被称为“认知卸载”。传统上，这一角色是由数据库、图书馆和其他人来履行的。例如，你的父亲可能永远不会记得生日，因为你的母亲会记得。有些人担心这会对社会产生破坏性影响，但斯帕罗看到了积极的一面。她认为，也许这一趋势将改变我们的学习方法，从关注个人事实和记忆转向强调更多概念性思维——这是互联网上无法提供的。斯帕罗说：“我个人从未见过记忆事物有如此大的智力价值。”他补充说，我们并没有失去记忆的能力。"
+            },
+            {
+              "en": "Still other experts say it’s too soon to understand how the Internet affects our brains.",
+              "zh": "还有一些专家表示，现在了解互联网如何影响我们的大脑还为时过早。"
+            },
+            {
+              "en": "There is no experimental evidence showing that it interferes with our ability to focus, for instance, wrote psychologists Christopher Chabris and Daniel J. Simons. And surfing the web exercised the brain more than reading did among computer-savvy older adults in a 2008 study involving 24 participants at the Semel Institute for Neuroscience and Human Behavior at the University of California, Los Angeles.",
+              "zh": "例如，心理学家克里斯托弗·查布里斯 (Christopher Chabris) 和丹尼尔·J·西蒙斯 (Daniel J. Simons) 写道，没有实验证据表明它会干扰我们的注意力集中能力。 2008 年，加州大学洛杉矶分校塞梅尔神经科学和人类行为研究所对 24 名参与者进行了一项研究，对精通电脑的老年人来说，上网比阅读更能锻炼大脑。"
+            },
+            {
+              "en": "“There may be costs associated with our increased reliance on the Internet, but I’d have to imagine that overall the benefits are going to outweigh those costs,” observes psychology professor Benjamin Storm. “It seems pretty clear that memory is changing, but is it changing for the better? At this point, we don’t know.”",
+              "zh": "心理学教授本杰明·斯托姆 (Benjamin Storm) 表示：“我们对互联网的依赖程度增加可能会带来成本，但我可以想象，总体而言，好处将超过这些成本。” “记忆正在发生变化似乎很明显，但它是否会变得更好？目前我们还不知道。”"
+            }
+          ],
+          "questions": [
+            {
+              "number": 31,
+              "text": "Sparrow’s study shows that with the Internet, the human brain will ____",
+              "options": [
+                "analyze information in detail.",
+                "collect information efficiently.",
+                "switch its focus of memory.",
+                "extend its memory duration."
+              ]
+            },
+            {
+              "number": 32,
+              "text": "The process of “cognitive offloading” ____",
+              "options": [
+                "helps us identify false information.",
+                "keeps our memory from failing.",
+                "enables us to classify trivial facts.",
+                "lessens our memory burdens."
+              ]
+            },
+            {
+              "number": 33,
+              "text": "Which of the following would Sparrow support about the Internet? ________",
+              "options": [
+                "It may reform our learning approach.",
+                "It may impact our society negatively.",
+                "It may enhance our adaptability to technology.",
+                "It may interfere with our conceptual thinking."
+              ]
+            },
+            {
+              "number": 34,
+              "text": "It is indicated in Paragraph 3 that how the Internet affects our brains ____",
+              "options": [
+                "requires further academic research.",
+                "is most studied in older adults.",
+                "is reflected in our reading speed.",
+                "depends on our web-surfing habits."
+              ]
+            },
+            {
+              "number": 35,
+              "text": "Neither Sparrow nor Storm would agree that ____",
+              "options": [
+                "our reliance on the Internet will be costly.",
+                "the Internet is weakening our memory.",
+                "memory exercise is a must for our brains.",
+                "our ability to focus declines with age."
+              ]
+            }
+          ],
+          "vocabulary": {}
+        },
+        {
+          "id": "2023-en2-text4",
+          "year": 2023,
+          "exam": "english-2",
+          "textNumber": 4,
+          "title": "Text 4",
+          "paragraphs": [
+            {
+              "en": "Teenagers are paradoxical. That’s a mild and detached way of saying something that parents often express with considerably stronger language. But the paradox is scientific as well as personal. In adolescence, helpless and dependent children who have relied on grown- ups for just about everything become independent people who can take care of themselves and help each other. At the same time, once cheerful and compliant children become rebellious teenage risk-takers.",
+              "zh": "青少年是矛盾的。这是一种温和而超然的表达方式，父母经常用相当强烈的语言来表达。但这个悖论既是科学的，也是个人的。在青春期，几乎所有事情都依赖成年人的无助和依赖的孩子成为能够照顾自己和互相帮助的独立人。与此同时，曾经开朗、顺从的孩子变成了叛逆的冒险者。"
+            },
+            {
+              "en": "A new study published in the journal Child Development, by Eveline Crone of the University of Leiden and colleagues, suggests that the positive and negative sides of teenagers go hand in hand. The study is part of a new wave of thinking about adolescence. For a long time, scientists and policy makers concentrated on the idea that teenagers were a problem that needed to be solved. The new work emphasizes that adolescence is a time of opportunity as well as risk.",
+              "zh": "莱顿大学的伊芙琳·克龙及其同事在《儿童发展》杂志上发表的一项新研究表明，青少年的积极和消极方面是齐头并进的。这项研究是关于青春期的新一波思考的一部分。长期以来，科学家和政策制定者都认为青少年是一个需要解决的问题。新作品强调青春期是一个充满机遇和风险的时期。"
+            },
+            {
+              "en": "The researchers studied “prosocial” and rebellious traits in more than 200 children and young adults, ranging from 11 to 28 years old. The participants filled out questionnaires about how often they did things that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late.",
+              "zh": "研究人员研究了 200 多名 11 岁至 28 岁的儿童和年轻人的“亲社会”和叛逆特征。参与者填写了调查问卷，了解他们做利他和积极的事情（例如牺牲自己的利益来帮助朋友）或叛逆和消极的事情（例如喝醉或在外面熬夜）的频率。"
+            },
+            {
+              "en": "Other studies have shown that rebellious behavior increases as you become a teenager and then fades away as you grow older. But the new study shows that, interestingly, the same pattern holds for prosocial behavior. Teenagers were more likely than younger children or adults to report that they did things like unselfishly help a friend.",
+              "zh": "其他研究表明，叛逆行为会随着青少年的增长而增加，然后随着年龄的增长而消失。但有趣的是，新研究表明，亲社会行为也存在同样的模式。青少年比年幼的孩子或成年人更有可能报告说他们做了诸如无私帮助朋友之类的事情。"
+            },
+            {
+              "en": "Most significantly, there was a positive correlation between prosociality and rebelliousness. The teenagers who were more rebellious were also more likely to help others.",
+              "zh": "最重要的是，亲社会性和叛逆性之间存在正相关关系。越叛逆的青少年也更有可能帮助别人。"
+            },
+            {
+              "en": "The good and bad sides of adolescence seem to develop together.",
+              "zh": "青春期的好处和坏处似乎是同时发展的。"
+            },
+            {
+              "en": "Is there some common factor that underlies these apparently contradictory developments?",
+              "zh": "这些看似矛盾的发展背后是否存在某种共同因素？"
+            },
+            {
+              "en": "One idea is that teenage behavior is related to what researchers call “reward sensitivity.”",
+              "zh": "一种观点是，青少年的行为与研究人员所说的“奖励敏感性”有关。"
+            },
+            {
+              "en": "Decision-making always involves balancing rewards and risks, benefits and costs. “Reward sensitivity” measures how much reward it takes to outweigh risk.",
+              "zh": "决策总是涉及平衡回报与风险、收益与成本。 “奖励敏感性”衡量的是需要多少奖励才能超过风险。"
+            },
+            {
+              "en": "Teenagers are particularly sensitive to social rewards — winning the game, impressing a new friend, getting that boy to notice you. Reward sensitivity, like prosocial behavior and risk-taking, seems to go up in adolescence and then down again as we age. Somehow, when you hit 30, the chance that something exciting and new will happen at that party just doesn’t seem to outweigh the effort of getting up off the couch.",
+              "zh": "青少年对社交奖励特别敏感——赢得比赛、给新朋友留下深刻印象、让那个男孩注意到你。奖励敏感性，如亲社会行为和冒险行为，似乎在青春期会上升，但随着年龄的增长又会下降。不知何故，当你到了 30 岁时，聚会上发生一些令人兴奋和新的事情的机会似乎并不比从沙发上站起来的努力重要。"
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "text": "According to Paragraph 1, children growing into adolescence tend to ____",
+              "options": [
+                "develop opposite personality traits.",
+                "see the world in an unreasonable way.",
+                "have fond memories of their past.",
+                "show affection for their parents."
+              ]
+            },
+            {
+              "number": 37,
+              "text": "It can be learned from Paragraph 2 that Crone’s study ____",
+              "options": [
+                "explores teenagers’ social responsibilities.",
+                "examines teenagers’ emotional problems.",
+                "provides a new insight into adolescence.",
+                "highlights negative adolescent behavior."
+              ]
+            },
+            {
+              "number": 38,
+              "text": "What does Crone’s study find about prosocial behavior? ________",
+              "options": [
+                "It results from the wish to cooperate.",
+                "It is cultivated through education.",
+                "It is subject to family influence.",
+                "It tends to peak in adolescence."
+              ]
+            },
+            {
+              "number": 39,
+              "text": "It can be learned from the last two paragraphs that teenagers ____",
+              "options": [
+                "overstress their influence on others.",
+                "care a lot about social recognition.",
+                "become anxious about their future.",
+                "endeavor to live a joyful life."
+              ]
+            },
+            {
+              "number": 40,
+              "text": "What is the text mainly about? ________",
+              "options": [
+                "Why teenagers are self-contradictory.",
+                "Why teenagers are risk-sensitive.",
+                "How teenagers develop prosociality.",
+                "How teenagers become independent."
+              ]
+            }
+          ],
+          "vocabulary": {}
+        }
+      ]
+    }
+  ]
+}
